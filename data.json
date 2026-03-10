@@ -1,1 +1,217 @@
-{"categories":{"-Omj3Ac_IBIQ-1kVOQtV":{"batch_req_ads":0,"batch_validity":24,"bg_img":"","img":"","is_paid":false,"is_vip":false,"price":0,"priority":2,"show_on_batches":true,"show_on_home":false,"subTitle":"","subcategories":{"-Omj4ia6UeaaAGhV3F26":{"bg_img":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_72b79.jpg","img":"","priority":0,"title":"Video","videos":{"-Omj4mRSiRuQZYl1y2oJ":{"date":1772464055269,"pdfs":{"-Omj53fHKGu66oeDeKca":{"allow_download":true,"priority":0,"title":"Pdf 1","url":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_File_17534.pdf"}},"priority":0,"thumb":"","title":"Video 1","url":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_9dc05.mp4"}}},"-Omj4xocdus8pOU6fxAL":{"bg_img":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_72b79.jpg","img":"","pdfs":{"-Omj50OFpUOy5dl4tpkq":{"allow_download":true,"priority":0,"title":"Pdf 1","url":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_File_17534.pdf"}},"priority":0,"title":"Pdf"},"-Omj56Lq6ZEGbP7Bdhpn":{"bg_img":"https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_72b79.jpg","img":"","priority":0,"tests":{"-Omj5B3sH5rCUIfFGCEI":{"duration":5,"maxAttempts":0,"negMark":0.25,"posMark":1,"priority":0,"questions":{"-Omj5IihQ6PChVgghvA_":{"ans":0,"img":"","opt_img_size":"100","opt_imgs":["","","",""],"opts":["Delhi ","Mumbai ","Jaipur ","Bikaner "],"q_eng":"","q_hindi":"Bhart ki rajadhani ","q_img_size":"200","solution":"","type":""},"-Omj5MnJAg1gQZ0S7Uy9":{"ans":0,"img":"","opt_img_size":"100","opt_imgs":["","","",""],"opts":["Delhi ","Mumbai ","Jaipur ","Bikaner "],"q_eng":"Bikaner knha hai ","q_hindi":"Bhart ki rajadhani ","q_img_size":"200","solution":"","type":""},"-Omj5SN4KhM-kvVOOzw9":{"ans":1,"img":"","opt_img_size":"100","opt_imgs":["","","",""],"opts":["Delhi ","Rajsthan ","Jaipur ","Bikaner "],"q_eng":"Bikaner knha hai ","q_hindi":"","q_img_size":"200","solution":"","type":""}},"title":"Hindi"}},"title":"Test"}},"title":"Videos","validity_type":"months","validity_val":30}},"sliders":{"-OmJDaoBmYb1yruTAe7X":{"img":"https://i.ibb.co/fGDmrjSt/20260225-032502.jpg","type":"link","value":""}},"home_buttons":{},"notifications":{},"popup_notification":{},"admin_settings":{"ad_smart_link_on":false,"login_enabled":true}}
+{
+  "matches": [
+    {
+      "total_spots": 48,
+      "prize_pool": 3000,
+      "map": "Bermuda",
+      "type": "Solo",
+      "title": "",
+      "watch_video_id": "",
+      "filled_spots": 0,
+      "image_url": "",
+      "start_time": "",
+      "winners": [],
+      "status": "open",
+      "participants": [],
+      "entry_fee": 0.1,
+      "per_kill": 20,
+      "id": "5dVD5OKdHSCah9S4nzIG"
+    },
+    {
+      "start_time": "2026-03-10T11:53",
+      "image_url": "",
+      "filled_spots": 1,
+      "total_spots": 48,
+      "watch_video_id": "u7iiDramMCarQvKLG0GF",
+      "title": "",
+      "type": "Costam 4 vs 4",
+      "map": "Bermuda",
+      "prize_pool": 3000,
+      "entry_fee": 5,
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "status": "completed",
+      "per_kill": 20,
+      "room_password": "90",
+      "winners": [
+        {
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
+          "prize": 10,
+          "name": "Jitendra Singh Shekhawat ",
+          "rank": "1"
+        }
+      ],
+      "room_id": "2738367",
+      "id": "HUesobq9qAhhdugjHhz6"
+    },
+    {
+      "winners": [],
+      "per_kill": 0,
+      "status": "open",
+      "entry_fee": 0.1,
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "map": "Bermuda",
+      "prize_pool": 2,
+      "watch_video_id": "",
+      "title": "",
+      "type": "Solo",
+      "total_spots": 48,
+      "image_url": "",
+      "filled_spots": 1,
+      "start_time": "2026-03-10T23:50",
+      "id": "QfnOn8ERfnZwaEfPZ05n"
+    },
+    {
+      "per_kill": 20,
+      "status": "open",
+      "entry_fee": 10,
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "winners": [
+        {
+          "uid": "",
+          "prize": 5,
+          "name": "",
+          "rank": "F"
+        }
+      ],
+      "image_url": "",
+      "filled_spots": 1,
+      "start_time": "2026-03-10T21:12",
+      "prize_pool": 3000,
+      "map": "Bermuda",
+      "title": "",
+      "watch_video_id": "",
+      "type": "Solo",
+      "total_spots": 48,
+      "id": "SZcwHPJOfbx1lvZNS8ZZ"
+    },
+    {
+      "type": "Solo",
+      "title": "",
+      "prize_pool": 3000,
+      "map": "Bermuda",
+      "total_spots": 48,
+      "start_time": "",
+      "filled_spots": 1,
+      "image_url": "",
+      "winners": [
+        {
+          "rank": "Winner ",
+          "prize": 2,
+          "name": "Jitu",
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+        },
+        {
+          "uid": "",
+          "prize": 2,
+          "name": "",
+          "rank": "2"
+        },
+        {
+          "uid": "",
+          "rank": "3",
+          "name": "",
+          "prize": 3
+        },
+        {
+          "uid": "",
+          "name": "",
+          "prize": 2,
+          "rank": "4"
+        },
+        {
+          "rank": "5",
+          "name": "",
+          "prize": 1,
+          "uid": ""
+        }
+      ],
+      "per_kill": 20,
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "entry_fee": 50,
+      "status": "open",
+      "id": "l4siYpl2aqmqXop6Fi0T"
+    }
+  ],
+  "sliders": [
+    {
+      "title": "",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
+    },
+    {
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "title": ""
+    },
+    {
+      "title": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "desc": ""
+    },
+    {
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "title": ""
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
+      "desc": ""
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "desc": ""
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "desc": ""
+    },
+    {
+      "title": "",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
+    },
+    {
+      "title": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
+      "desc": ""
+    }
+  ],
+  "notifications": [
+    {
+      "userId": "all",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
+      "type": "info",
+      "title": "Chal jutha",
+      "message": "🥱🥱 good nite rama",
+      "timestamp": "2026-03-10T13:32:23.687Z",
+      "id": "27Ppqgx2cMVVpGUMCb37"
+    },
+    {
+      "message": "जो भी उम्मीदवार लंबे समय से सरकारी नौकरी की तलाश में जुटे हुए हैं, उनके लिए स्टॉफ सिलेक्शन कमीशन (SSC) ने कंबाइंड ग्रेजुएशट लेवल एग्जामिनेशन के लिए लास्ट वैकेंसी चार्ट जारी कर दिया है. जारी हुए आंकड़ों के अनुासर, कुल 15 हजार से अधिक पदों पर भर्ती की जाएगी. बता दें कि यह भर्ती केंद्र सरकार के अलग-अलग मंत्रालयों, विभागों और सरकारी संगठनों में की जाएगी.",
+      "timestamp": "2026-03-10T13:11:30.544Z",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_4618f.mp4",
+      "userId": "all",
+      "title": "Hyjsjsjdjdj",
+      "type": "info",
+      "id": "u7iiDramMCarQvKLG0GF"
+    }
+  ]
+}
