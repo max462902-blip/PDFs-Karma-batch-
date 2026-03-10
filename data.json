@@ -1,39 +1,29 @@
 {
   "matches": [
     {
-      "total_spots": 48,
-      "prize_pool": 3000,
-      "map": "Bermuda",
-      "type": "Solo",
-      "title": "",
-      "watch_video_id": "",
-      "filled_spots": 0,
-      "image_url": "",
-      "start_time": "",
       "winners": [],
-      "status": "open",
-      "participants": [],
-      "entry_fee": 0.1,
+      "filled_spots": 0,
       "per_kill": 20,
+      "status": "open",
+      "entry_fee": 0.1,
+      "map": "Bermuda",
+      "watch_video_id": "",
+      "participants": [],
+      "type": "Solo",
+      "start_time": "",
+      "total_spots": 48,
+      "image_url": "",
+      "prize_pool": 3000,
+      "title": "",
       "id": "5dVD5OKdHSCah9S4nzIG"
     },
     {
+      "room_id": "2738367",
       "start_time": "2026-03-10T11:53",
-      "image_url": "",
-      "filled_spots": 1,
       "total_spots": 48,
-      "watch_video_id": "u7iiDramMCarQvKLG0GF",
-      "title": "",
-      "type": "Costam 4 vs 4",
-      "map": "Bermuda",
+      "image_url": "",
       "prize_pool": 3000,
-      "entry_fee": 5,
-      "participants": [
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
-      ],
-      "status": "completed",
-      "per_kill": 20,
-      "room_password": "90",
+      "title": "",
       "winners": [
         {
           "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
@@ -42,35 +32,54 @@
           "rank": "1"
         }
       ],
-      "room_id": "2738367",
+      "filled_spots": 1,
+      "status": "completed",
+      "room_password": "90",
+      "per_kill": 20,
+      "entry_fee": 5,
+      "map": "Bermuda",
+      "watch_video_id": "u7iiDramMCarQvKLG0GF",
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "type": "Costam 4 vs 4",
       "id": "HUesobq9qAhhdugjHhz6"
     },
     {
-      "winners": [],
-      "per_kill": 0,
-      "status": "open",
-      "entry_fee": 0.1,
+      "map": "Bermuda",
+      "watch_video_id": "",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "map": "Bermuda",
-      "prize_pool": 2,
-      "watch_video_id": "",
-      "title": "",
       "type": "Solo",
+      "winners": [],
+      "filled_spots": 1,
+      "status": "open",
+      "per_kill": 0,
+      "entry_fee": 0.1,
+      "prize_pool": 2,
+      "title": "",
+      "start_time": "2026-03-10T23:50",
       "total_spots": 48,
       "image_url": "",
-      "filled_spots": 1,
-      "start_time": "2026-03-10T23:50",
       "id": "QfnOn8ERfnZwaEfPZ05n"
     },
     {
-      "per_kill": 20,
-      "status": "open",
-      "entry_fee": 10,
+      "title": "",
+      "prize_pool": 3000,
+      "image_url": "",
+      "total_spots": 48,
+      "start_time": "2026-03-10T21:12",
+      "type": "Solo",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
+      "watch_video_id": "",
+      "map": "Bermuda",
+      "entry_fee": 10,
+      "per_kill": 20,
+      "status": "open",
+      "filled_spots": 1,
       "winners": [
         {
           "uid": "",
@@ -79,31 +88,24 @@
           "rank": "F"
         }
       ],
-      "image_url": "",
-      "filled_spots": 1,
-      "start_time": "2026-03-10T21:12",
-      "prize_pool": 3000,
-      "map": "Bermuda",
-      "title": "",
-      "watch_video_id": "",
-      "type": "Solo",
-      "total_spots": 48,
       "id": "SZcwHPJOfbx1lvZNS8ZZ"
     },
     {
-      "type": "Solo",
-      "title": "",
       "prize_pool": 3000,
-      "map": "Bermuda",
-      "total_spots": 48,
+      "title": "",
       "start_time": "",
-      "filled_spots": 1,
+      "total_spots": 48,
       "image_url": "",
+      "map": "Bermuda",
+      "type": "Solo",
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
       "winners": [
         {
           "rank": "Winner ",
-          "prize": 2,
           "name": "Jitu",
+          "prize": 2,
           "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
         },
         {
@@ -114,15 +116,15 @@
         },
         {
           "uid": "",
-          "rank": "3",
+          "prize": 3,
           "name": "",
-          "prize": 3
+          "rank": "3"
         },
         {
-          "uid": "",
-          "name": "",
           "prize": 2,
-          "rank": "4"
+          "uid": "",
+          "rank": "4",
+          "name": ""
         },
         {
           "rank": "5",
@@ -131,51 +133,49 @@
           "uid": ""
         }
       ],
-      "per_kill": 20,
-      "participants": [
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
-      ],
+      "filled_spots": 1,
       "entry_fee": 50,
+      "per_kill": 20,
       "status": "open",
       "id": "l4siYpl2aqmqXop6Fi0T"
     }
   ],
   "sliders": [
     {
-      "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
+      "title": ""
     },
     {
-      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
-      "title": ""
-    },
-    {
-      "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
       "desc": ""
     },
     {
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "title": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+    },
+    {
+      "title": "",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
+    },
+    {
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
       "title": ""
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
-      "desc": ""
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
     },
     {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
-      "desc": ""
-    },
-    {
-      "title": "",
+      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
-      "desc": ""
+      "title": ""
     },
     {
       "title": "",
@@ -189,28 +189,28 @@
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg"
     },
     {
-      "title": "",
+      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "desc": ""
+      "title": ""
     }
   ],
   "notifications": [
     {
-      "userId": "all",
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "type": "info",
-      "title": "Chal jutha",
       "message": "🥱🥱 good nite rama",
+      "userId": "all",
+      "title": "Chal jutha",
+      "type": "info",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "timestamp": "2026-03-10T13:32:23.687Z",
       "id": "27Ppqgx2cMVVpGUMCb37"
     },
     {
-      "message": "जो भी उम्मीदवार लंबे समय से सरकारी नौकरी की तलाश में जुटे हुए हैं, उनके लिए स्टॉफ सिलेक्शन कमीशन (SSC) ने कंबाइंड ग्रेजुएशट लेवल एग्जामिनेशन के लिए लास्ट वैकेंसी चार्ट जारी कर दिया है. जारी हुए आंकड़ों के अनुासर, कुल 15 हजार से अधिक पदों पर भर्ती की जाएगी. बता दें कि यह भर्ती केंद्र सरकार के अलग-अलग मंत्रालयों, विभागों और सरकारी संगठनों में की जाएगी.",
-      "timestamp": "2026-03-10T13:11:30.544Z",
       "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_4618f.mp4",
+      "timestamp": "2026-03-10T17:42:46.904Z",
+      "title": "Hyjsjsjdjdjhjkllllll",
       "userId": "all",
-      "title": "Hyjsjsjdjdj",
       "type": "info",
+      "message": "जो भी उम्मीदवार लंबे समय से सरकारी नौकरी की तलाश में जुटे हुए हैं, उनके लिए स्टॉफ सिलेक्शन कमीशन (SSC) ने कंबाइंड ग्रेजुएशट लेवल एग्जामिनेशन के लिए लास्ट वैकेंसी चार्ट जारी कर दिया है. जारी हुए आंकड़ों के अनुासर, कुल 15 हजार से अधिक पदों पर भर्ती की जाएगी. बता दें कि यह भर्ती केंद्र सरकार के अलग-अलग मंत्रालयों, विभागों और सरकारी संगठनों में की जाएगी.",
       "id": "u7iiDramMCarQvKLG0GF"
     }
   ]
