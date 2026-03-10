@@ -18,113 +18,109 @@
       "id": "5dVD5OKdHSCah9S4nzIG"
     },
     {
-      "room_id": "2738367",
       "start_time": "2026-03-10T11:53",
-      "total_spots": 48,
+      "room_id": "2738367",
       "image_url": "",
+      "total_spots": 48,
       "prize_pool": 3000,
       "title": "",
+      "filled_spots": 1,
       "winners": [
         {
-          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
           "prize": 10,
-          "name": "Jitendra Singh Shekhawat ",
-          "rank": "1"
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
+          "rank": "1",
+          "name": "Jitendra Singh Shekhawat "
         }
       ],
-      "filled_spots": 1,
       "status": "completed",
       "room_password": "90",
       "per_kill": 20,
       "entry_fee": 5,
       "map": "Bermuda",
-      "watch_video_id": "u7iiDramMCarQvKLG0GF",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
       "type": "Costam 4 vs 4",
+      "watch_video_id": "u7iiDramMCarQvKLG0GF",
       "id": "HUesobq9qAhhdugjHhz6"
     },
     {
-      "map": "Bermuda",
-      "watch_video_id": "",
+      "entry_fee": 0.1,
+      "per_kill": 0,
+      "status": "open",
+      "filled_spots": 1,
+      "winners": [],
+      "type": "Solo",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "type": "Solo",
-      "winners": [],
-      "filled_spots": 1,
-      "status": "open",
-      "per_kill": 0,
-      "entry_fee": 0.1,
-      "prize_pool": 2,
-      "title": "",
-      "start_time": "2026-03-10T23:50",
-      "total_spots": 48,
+      "watch_video_id": "",
+      "map": "Bermuda",
       "image_url": "",
+      "total_spots": 48,
+      "start_time": "2026-03-10T23:50",
+      "title": "",
+      "prize_pool": 2,
       "id": "QfnOn8ERfnZwaEfPZ05n"
     },
     {
-      "title": "",
       "prize_pool": 3000,
-      "image_url": "",
-      "total_spots": 48,
+      "title": "",
       "start_time": "2026-03-10T21:12",
-      "type": "Solo",
+      "total_spots": 48,
+      "image_url": "",
+      "map": "Bermuda",
+      "watch_video_id": "",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "watch_video_id": "",
-      "map": "Bermuda",
-      "entry_fee": 10,
-      "per_kill": 20,
-      "status": "open",
-      "filled_spots": 1,
+      "type": "Solo",
       "winners": [
         {
-          "uid": "",
-          "prize": 5,
+          "rank": "F",
           "name": "",
-          "rank": "F"
+          "prize": 5,
+          "uid": ""
         }
       ],
+      "filled_spots": 1,
+      "per_kill": 20,
+      "status": "open",
+      "entry_fee": 10,
       "id": "SZcwHPJOfbx1lvZNS8ZZ"
     },
     {
-      "prize_pool": 3000,
-      "title": "",
-      "start_time": "",
-      "total_spots": 48,
-      "image_url": "",
       "map": "Bermuda",
-      "type": "Solo",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
+      "type": "Solo",
+      "filled_spots": 1,
       "winners": [
         {
-          "rank": "Winner ",
           "name": "Jitu",
-          "prize": 2,
-          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
-        },
-        {
-          "uid": "",
-          "prize": 2,
-          "name": "",
-          "rank": "2"
-        },
-        {
-          "uid": "",
-          "prize": 3,
-          "name": "",
-          "rank": "3"
+          "rank": "Winner ",
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
+          "prize": 2
         },
         {
           "prize": 2,
           "uid": "",
-          "rank": "4",
+          "rank": "2",
           "name": ""
+        },
+        {
+          "name": "",
+          "rank": "3",
+          "uid": "",
+          "prize": 3
+        },
+        {
+          "uid": "",
+          "prize": 2,
+          "name": "",
+          "rank": "4"
         },
         {
           "rank": "5",
@@ -133,34 +129,38 @@
           "uid": ""
         }
       ],
-      "filled_spots": 1,
-      "entry_fee": 50,
-      "per_kill": 20,
       "status": "open",
+      "per_kill": 20,
+      "entry_fee": 50,
+      "prize_pool": 3000,
+      "title": "",
+      "start_time": "",
+      "image_url": "",
+      "total_spots": 48,
       "id": "l4siYpl2aqmqXop6Fi0T"
     }
   ],
   "sliders": [
     {
+      "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "desc": "",
       "title": ""
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
-      "desc": ""
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg"
     },
     {
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
-      "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
-    },
-    {
-      "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "title": ""
     },
     {
       "desc": "",
@@ -169,12 +169,12 @@
     },
     {
       "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "desc": ""
     },
     {
-      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "desc": "",
       "title": ""
     },
     {
@@ -183,34 +183,34 @@
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
     },
     {
-      "title": "",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg"
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
+      "desc": ""
     },
     {
-      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "title": ""
+      "desc": ""
     }
   ],
   "notifications": [
     {
       "message": "🥱🥱 good nite rama",
-      "userId": "all",
       "title": "Chal jutha",
+      "userId": "all",
       "type": "info",
       "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "timestamp": "2026-03-10T13:32:23.687Z",
       "id": "27Ppqgx2cMVVpGUMCb37"
     },
     {
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_4618f.mp4",
-      "timestamp": "2026-03-10T17:42:46.904Z",
-      "title": "Hyjsjsjdjdjhjkllllll",
-      "userId": "all",
       "type": "info",
+      "userId": "all",
+      "title": "Hyjsjsjdjdjhjkllllll",
       "message": "जो भी उम्मीदवार लंबे समय से सरकारी नौकरी की तलाश में जुटे हुए हैं, उनके लिए स्टॉफ सिलेक्शन कमीशन (SSC) ने कंबाइंड ग्रेजुएशट लेवल एग्जामिनेशन के लिए लास्ट वैकेंसी चार्ट जारी कर दिया है. जारी हुए आंकड़ों के अनुासर, कुल 15 हजार से अधिक पदों पर भर्ती की जाएगी. बता दें कि यह भर्ती केंद्र सरकार के अलग-अलग मंत्रालयों, विभागों और सरकारी संगठनों में की जाएगी.",
+      "timestamp": "2026-03-10T17:42:46.904Z",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_4618f.mp4",
       "id": "u7iiDramMCarQvKLG0GF"
     }
   ]
