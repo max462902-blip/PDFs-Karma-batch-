@@ -1,6 +1,71 @@
 {
   "matches": [
     {
+      "image_url": "",
+      "team_registrations": {
+        "Vins2jMUSzMj8micUa19Wu3ZPGH2": [
+          {
+            "name": "Priya",
+            "uid": "283848477477"
+          }
+        ],
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573": [
+          {
+            "name": "Vikram",
+            "uid": "839383949489"
+          }
+        ]
+      },
+      "type": "Duo",
+      "winners": [
+        {
+          "prize": 10,
+          "message": "Or Bhai kya hal hai",
+          "kills": 2,
+          "rank": "1",
+          "isLeader": true,
+          "name": "Jitendra Singh Shekhawat ",
+          "teamNum": 1,
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+        },
+        {
+          "message": "Good Playr",
+          "prize": 2,
+          "kills": 2,
+          "isLeader": true,
+          "name": "Ꮖɴꜱᴛᴀ┇Qᴜᴇᴇɴ",
+          "rank": "2",
+          "teamNum": 2,
+          "uid": "Vins2jMUSzMj8micUa19Wu3ZPGH2"
+        },
+        {
+          "name": "Vikram",
+          "isLeader": false,
+          "message": "",
+          "kills": 0,
+          "rank": "1",
+          "uid": null,
+          "teamNum": 1,
+          "prize": 2,
+          "ff_uid": "839383949489"
+        }
+      ],
+      "total_spots": 48,
+      "start_time": "",
+      "prize_slots": [
+        {
+          "name": "",
+          "prize": 200,
+          "rank": "1",
+          "uid": ""
+        },
+        {
+          "uid": "",
+          "rank": "2",
+          "name": "",
+          "prize": 100
+        }
+      ],
       "entry_fee": 5,
       "per_kill": 20,
       "watch_video_id": "",
@@ -13,132 +78,67 @@
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
         "Vins2jMUSzMj8micUa19Wu3ZPGH2"
       ],
-      "image_url": "",
-      "team_registrations": {
-        "Vins2jMUSzMj8micUa19Wu3ZPGH2": [
-          {
-            "name": "Priya",
-            "uid": "283848477477"
-          }
-        ],
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573": [
-          {
-            "uid": "839383949489",
-            "name": "Vikram"
-          }
-        ]
-      },
-      "type": "Duo",
-      "winners": [
-        {
-          "teamNum": 1,
-          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
-          "rank": "1",
-          "isLeader": true,
-          "name": "Jitendra Singh Shekhawat ",
-          "kills": 2,
-          "prize": 0,
-          "message": "Or Bhai kya hal hai"
-        },
-        {
-          "kills": 2,
-          "message": "Good Playr",
-          "prize": 2,
-          "teamNum": 2,
-          "uid": "Vins2jMUSzMj8micUa19Wu3ZPGH2",
-          "isLeader": true,
-          "name": "Ꮖɴꜱᴛᴀ┇Qᴜᴇᴇɴ",
-          "rank": "2"
-        },
-        {
-          "message": "",
-          "kills": 0,
-          "isLeader": false,
-          "name": "Vikram",
-          "ff_uid": "839383949489",
-          "prize": 2,
-          "rank": "1",
-          "uid": null,
-          "teamNum": 1
-        }
-      ],
-      "total_spots": 48,
-      "start_time": "",
-      "prize_slots": [
-        {
-          "uid": "",
-          "rank": "1",
-          "name": "",
-          "prize": 200
-        },
-        {
-          "rank": "2",
-          "prize": 100,
-          "name": "",
-          "uid": ""
-        }
-      ],
       "id": "5dVD5OKdHSCah9S4nzIG"
     },
     {
-      "per_kill": 20,
-      "watch_video_id": "i1pXtATZYrQjdjMuBmNA",
-      "entry_fee": 5,
-      "filled_spots": 1,
       "room_password": "90",
       "status": "completed",
       "title": "Free fire - v22",
-      "room_id": "2738367",
-      "map": "Bermuda",
+      "filled_spots": 1,
+      "entry_fee": 5,
+      "per_kill": 20,
+      "watch_video_id": "i1pXtATZYrQjdjMuBmNA",
       "prize_pool": 3000,
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "image_url": "",
+      "room_id": "2738367",
+      "map": "Bermuda",
       "type": "Costam 4 vs 4",
       "winners": [
         {
-          "kills": 1,
-          "prize": 2,
-          "message": "",
+          "rank": "1",
+          "name": "Jitendra Singh Shekhawat ",
           "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
           "teamNum": 1,
-          "name": "Jitendra Singh Shekhawat ",
-          "rank": "1"
+          "prize": 2,
+          "message": "",
+          "kills": 1
         }
       ],
-      "start_time": "2026-03-10T11:53",
+      "image_url": "",
       "total_spots": 48,
+      "start_time": "2026-03-10T11:53",
       "id": "HUesobq9qAhhdugjHhz6"
     },
     {
-      "map": "Bermuda",
-      "prize_pool": 2,
+      "start_time": "2026-03-11T16:50",
+      "total_spots": 48,
+      "winners": [],
+      "type": "Solo",
+      "image_url": "",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
         "Vins2jMUSzMj8micUa19Wu3ZPGH2"
       ],
-      "entry_fee": 0.1,
-      "per_kill": 20,
-      "watch_video_id": "",
+      "prize_pool": 2,
+      "map": "Bermuda",
+      "filled_spots": 2,
       "title": "",
       "status": "open",
-      "filled_spots": 2,
-      "total_spots": 48,
-      "start_time": "2026-03-11T16:50",
-      "image_url": "",
-      "type": "Solo",
-      "winners": [],
+      "watch_video_id": "",
+      "per_kill": 20,
+      "entry_fee": 0.1,
       "id": "QfnOn8ERfnZwaEfPZ05n"
     },
     {
       "type": "Duo",
       "winners": [
         {
-          "uid": "",
+          "rank": "F",
           "name": "",
           "prize": 5,
-          "rank": "F"
+          "uid": ""
         }
       ],
       "image_url": "",
@@ -158,68 +158,68 @@
       "id": "SZcwHPJOfbx1lvZNS8ZZ"
     },
     {
-      "participants": [
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
-      ],
-      "prize_pool": 3000,
-      "map": "Bermuda",
-      "room_id": "3753648669",
-      "filled_spots": 1,
-      "title": "",
-      "status": "open",
-      "room_password": "37368468",
-      "watch_video_id": "",
-      "per_kill": 20,
-      "entry_fee": 50,
-      "start_time": "",
-      "total_spots": 48,
+      "type": "Duo",
       "winners": [
         {
-          "name": "Jitu",
-          "prize": 2,
           "rank": "Winner ",
+          "prize": 2,
+          "name": "Jitu",
           "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
         },
         {
-          "rank": "2",
-          "prize": 2,
+          "uid": "",
           "name": "",
-          "uid": ""
+          "prize": 2,
+          "rank": "2"
         },
         {
-          "rank": "3",
           "name": "",
           "prize": 3,
+          "rank": "3",
           "uid": ""
         },
         {
-          "prize": 2,
+          "uid": "",
           "name": "",
-          "rank": "4",
-          "uid": ""
+          "prize": 2,
+          "rank": "4"
         },
         {
+          "uid": "",
           "rank": "5",
           "name": "",
-          "prize": 1,
-          "uid": ""
+          "prize": 1
         }
       ],
-      "type": "Duo",
       "image_url": "",
+      "total_spots": 48,
+      "start_time": "",
+      "room_password": "37368468",
+      "status": "open",
+      "title": "",
+      "filled_spots": 1,
+      "entry_fee": 50,
+      "per_kill": 20,
+      "watch_video_id": "",
+      "prize_pool": 3000,
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "room_id": "3753648669",
+      "map": "Bermuda",
       "id": "l4siYpl2aqmqXop6Fi0T"
     }
   ],
   "sliders": [
     {
-      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
-      "title": ""
+      "desc": ""
     },
     {
       "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "desc": ""
     },
     {
       "title": "",
@@ -233,53 +233,53 @@
       "title": ""
     },
     {
-      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
-      "title": ""
-    },
-    {
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
-      "title": ""
+      "desc": ""
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
       "desc": ""
     },
     {
       "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "title": ""
+    },
+    {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
+      "desc": "",
       "title": ""
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "desc": "",
-      "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "title": ""
     },
     {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
       "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
       "title": ""
     }
   ],
   "notifications": [
     {
+      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
       "type": "info",
       "timestamp": "2026-03-11T03:04:56.028Z",
       "userId": "all",
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
       "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "message": "🥱🥱",
       "id": "27Ppqgx2cMVVpGUMCb37"
     },
     {
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
+      "type": "info",
       "timestamp": "2026-03-11T03:03:19.889Z",
       "userId": "all",
-      "type": "info",
+      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
       "id": "jHbYZxh2PzQ5Nv6bMItt"
     }
   ],
