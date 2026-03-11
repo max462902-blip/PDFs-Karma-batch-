@@ -1,100 +1,115 @@
 {
   "matches": [
     {
+      "type": "Squad",
       "title": "",
-      "status": "open",
-      "filled_spots": 0,
-      "entry_fee": 50,
       "total_spots": 48,
-      "image_url": "",
       "watch_video_id": "",
+      "prize_pool": 3000,
+      "entry_fee": 5,
       "start_time": "",
+      "status": "open",
+      "per_kill": 20,
       "participants": [],
       "winners": [],
+      "image_url": "",
       "map": "Bermuda",
-      "prize_pool": 3000,
-      "type": "Duo",
-      "per_kill": 20,
+      "filled_spots": 0,
       "id": "5dVD5OKdHSCah9S4nzIG"
     },
     {
+      "per_kill": 20,
+      "start_time": "2026-03-10T11:53",
+      "status": "completed",
+      "entry_fee": 5,
+      "room_id": "2738367",
       "map": "Bermuda",
-      "winners": [
-        {
-          "teamNum": 1,
-          "rank": "1",
-          "prize": 2,
-          "name": "Jitendra Singh Shekhawat ",
-          "message": "",
-          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
-          "kills": 0
-        }
-      ],
+      "filled_spots": 1,
+      "image_url": "",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "start_time": "2026-03-10T11:53",
-      "type": "Costam 4 vs 4",
-      "per_kill": 20,
-      "prize_pool": 3000,
-      "room_id": "2738367",
-      "total_spots": 48,
-      "image_url": "",
+      "winners": [
+        {
+          "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
+          "rank": "1",
+          "kills": 0,
+          "name": "Jitendra Singh Shekhawat ",
+          "prize": 2,
+          "teamNum": 1,
+          "message": ""
+        }
+      ],
       "room_password": "90",
-      "filled_spots": 1,
-      "entry_fee": 5,
-      "status": "completed",
-      "title": "Free fire - v22",
       "watch_video_id": "i1pXtATZYrQjdjMuBmNA",
+      "type": "Costam 4 vs 4",
+      "title": "Free fire - v22",
+      "total_spots": 48,
+      "prize_pool": 3000,
       "id": "HUesobq9qAhhdugjHhz6"
     },
     {
       "watch_video_id": "",
-      "status": "open",
-      "title": "",
-      "image_url": "",
       "total_spots": 48,
-      "filled_spots": 1,
-      "entry_fee": 0.1,
       "type": "Solo",
-      "per_kill": 20,
+      "title": "",
       "prize_pool": 2,
+      "status": "open",
       "start_time": "2026-03-11T16:50",
-      "winners": [],
+      "per_kill": 20,
+      "entry_fee": 0.1,
+      "image_url": "",
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
+      "winners": [],
+      "filled_spots": 1,
       "map": "Bermuda",
       "id": "QfnOn8ERfnZwaEfPZ05n"
     },
     {
+      "watch_video_id": "",
+      "title": "",
       "type": "Duo",
-      "per_kill": 20,
+      "total_spots": 48,
       "prize_pool": 3000,
+      "start_time": "2026-03-11T11:12",
+      "status": "open",
+      "per_kill": 20,
+      "entry_fee": 10,
+      "image_url": "",
       "winners": [
         {
-          "uid": "",
-          "rank": "F",
           "name": "",
+          "rank": "F",
+          "uid": "",
           "prize": 5
         }
       ],
       "participants": [
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "start_time": "2026-03-11T11:12",
       "map": "Bermuda",
-      "watch_video_id": "",
-      "status": "open",
-      "title": "",
-      "image_url": "",
-      "total_spots": 48,
-      "entry_fee": 10,
       "filled_spots": 1,
       "id": "SZcwHPJOfbx1lvZNS8ZZ"
     },
     {
+      "type": "Duo",
+      "title": "",
+      "total_spots": 48,
+      "watch_video_id": "",
+      "prize_pool": 3000,
+      "entry_fee": 50,
+      "per_kill": 20,
+      "start_time": "",
+      "status": "open",
       "map": "Bermuda",
+      "filled_spots": 1,
+      "image_url": "",
+      "participants": [
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "room_password": "37368468",
       "winners": [
         {
           "prize": 2,
@@ -103,22 +118,22 @@
           "uid": "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
         },
         {
+          "name": "",
           "uid": "",
           "rank": "2",
-          "prize": 2,
-          "name": ""
+          "prize": 2
         },
         {
-          "uid": "",
           "rank": "3",
+          "uid": "",
           "name": "",
           "prize": 3
         },
         {
-          "name": "",
-          "prize": 2,
           "rank": "4",
-          "uid": ""
+          "uid": "",
+          "name": "",
+          "prize": 2
         },
         {
           "prize": 1,
@@ -127,105 +142,90 @@
           "uid": ""
         }
       ],
-      "participants": [
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
-      ],
-      "start_time": "",
-      "per_kill": 20,
-      "type": "Duo",
-      "prize_pool": 3000,
       "room_id": "3753648669",
-      "room_password": "37368468",
-      "image_url": "",
-      "total_spots": 48,
-      "entry_fee": 50,
-      "filled_spots": 1,
-      "status": "open",
-      "title": "",
-      "watch_video_id": "",
       "id": "l4siYpl2aqmqXop6Fi0T"
     }
   ],
   "sliders": [
     {
-      "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
+      "title": ""
     },
     {
-      "desc": "",
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
-    },
-    {
-      "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
-    },
-    {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
       "title": "",
       "desc": ""
     },
     {
       "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "desc": ""
     },
     {
       "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "desc": ""
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
+      "desc": ""
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "title": "",
+      "desc": ""
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
-      "desc": "",
-      "title": ""
+      "title": "",
+      "desc": ""
     },
     {
-      "title": "",
       "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
     },
     {
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
+      "title": "",
       "desc": "",
-      "title": ""
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
     },
     {
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "desc": "",
-      "title": ""
+      "desc": ""
     }
   ],
   "notifications": [
     {
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "message": "🥱🥱",
       "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
       "timestamp": "2026-03-11T03:04:56.028Z",
       "userId": "all",
       "type": "info",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
+      "message": "🥱🥱",
       "id": "27Ppqgx2cMVVpGUMCb37"
     },
     {
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
       "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
       "timestamp": "2026-03-11T03:03:19.889Z",
       "userId": "all",
       "type": "info",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
       "id": "jHbYZxh2PzQ5Nv6bMItt"
     }
   ],
   "media": [
     {
+      "title": "Free fire - v22",
+      "timestamp": "2026-03-11T07:53:51.820Z",
       "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
       "thumbnailUrl": "",
-      "title": "Free fire - v22",
       "desc": "",
-      "timestamp": "2026-03-11T07:53:51.820Z",
       "id": "i1pXtATZYrQjdjMuBmNA"
     }
   ]
