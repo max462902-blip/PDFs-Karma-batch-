@@ -1,106 +1,106 @@
 {
   "matches": [
     {
-      "participants": [],
-      "prize_slots": [],
-      "filled_spots": 0,
-      "total_spots": 48,
       "start_time": "2026-03-14T19:28",
-      "image_url": "",
-      "wait_time": 4,
-      "map": "Bermuda",
-      "entry_fee": 0.25,
-      "status": "open",
-      "title": "Free fire - T1",
-      "per_kill": 0.25,
       "watch_video_id": "",
-      "type": "Solo",
-      "prize_pool": 12,
+      "filled_spots": 0,
       "winners": [],
+      "status": "open",
+      "type": "Solo",
+      "wait_time": 4,
+      "prize_pool": 12,
+      "title": "Free fire - T1",
+      "map": "Bermuda",
+      "total_spots": 48,
+      "per_kill": 0.25,
+      "entry_fee": 0.25,
+      "prize_slots": [],
+      "image_url": "",
+      "participants": [],
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
   ],
   "sliders": [
     {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
-      "desc": ""
-    },
-    {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
-      "desc": ""
-    },
-    {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
       "desc": "",
       "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
+    },
+    {
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "title": "",
       "desc": ""
     },
     {
+      "desc": "",
       "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
+    },
+    {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
-      "desc": ""
+      "desc": "",
+      "title": ""
     },
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "title": "",
       "desc": ""
     },
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
-      "desc": ""
+      "desc": "",
+      "title": ""
     },
     {
+      "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
-      "desc": ""
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
     },
     {
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "title": "",
-      "desc": ""
+      "desc": "",
+      "title": ""
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "desc": ""
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
     }
   ],
   "notifications": [
     {
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
-      "userId": "all",
       "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "type": "info",
       "timestamp": "2026-03-11T03:04:56.028Z",
+      "userId": "all",
       "message": "🥱🥱",
+      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
+      "type": "info",
       "id": "27Ppqgx2cMVVpGUMCb37"
     },
     {
       "mediaUrl": "https://youtu.be/d58ld4PLpX4?si=GNTbx4x6d_ckMX1u",
-      "type": "info",
-      "userId": "all",
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
-      "thumbnailUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
       "timestamp": "2026-03-12T18:37:06.597Z",
+      "thumbnailUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
+      "userId": "all",
+      "type": "info",
+      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
       "id": "jHbYZxh2PzQ5Nv6bMItt"
     }
   ],
   "media": [
     {
-      "thumbnailUrl": "",
-      "timestamp": "2026-03-12T18:37:17.903Z",
-      "mediaUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
       "desc": "",
       "title": "Free fire - v22",
+      "timestamp": "2026-03-12T18:37:17.903Z",
+      "mediaUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
+      "thumbnailUrl": "",
       "id": "i1pXtATZYrQjdjMuBmNA"
     }
   ]
