@@ -9,13 +9,13 @@
       "image_url": "",
       "wait_time": 4,
       "map": "Bermuda",
-      "entry_fee": 0,
+      "entry_fee": 0.25,
       "status": "open",
       "title": "Free fire - T1",
       "per_kill": 0.25,
       "watch_video_id": "",
-      "prize_pool": 12,
       "type": "Solo",
+      "prize_pool": 12,
       "winners": [],
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
@@ -33,8 +33,8 @@
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
-      "title": "",
       "desc": "",
+      "title": "",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
     },
     {
@@ -63,10 +63,10 @@
       "desc": ""
     },
     {
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "desc": "",
       "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+      "desc": ""
     },
     {
       "title": "",
@@ -96,11 +96,11 @@
   ],
   "media": [
     {
-      "title": "Free fire - v22",
-      "desc": "",
-      "mediaUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
       "thumbnailUrl": "",
       "timestamp": "2026-03-12T18:37:17.903Z",
+      "mediaUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
+      "desc": "",
+      "title": "Free fire - v22",
       "id": "i1pXtATZYrQjdjMuBmNA"
     }
   ]
