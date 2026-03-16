@@ -25,37 +25,48 @@
   ],
   "cricket_matches": [
     {
-      "status": "open",
       "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "status": "open",
       "start_time": "2026-03-16T01:57",
       "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
       "updatedAt": {
-        "seconds": 1773674201,
-        "nanoseconds": 659000000
+        "seconds": 1773674296,
+        "nanoseconds": 343000000
       },
-      "teamB_name": "AUS",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
       "teamA_full": "",
+      "teamB_name": "AUS",
+      "teamA_name": "IND",
       "createdAt": {
         "seconds": 1773674201,
         "nanoseconds": 659000000
       },
-      "teamA_name": "IND",
       "contests": [
         {
+          "max_teams": 11,
+          "prize_pool": "1 Lakh",
+          "participants": [],
+          "winners_text": "1 Rank = 10000\n2 Rank = 5000\n3-10 Rank = 1000",
+          "total_spots": 10000,
+          "filled_spots": 0,
+          "name": "Mega Contest",
+          "win_percent": "60%",
+          "entry_fee": 49
+        },
+        {
+          "entry_fee": 49,
           "win_percent": "60%",
           "name": "Mega Contest",
-          "entry_fee": 49,
-          "max_teams": 11,
-          "participants": [],
-          "prize_pool": "1 Lakh",
           "filled_spots": 0,
           "winners_text": "1 Rank = 10000\n2 Rank = 5000\n3-10 Rank = 1000",
-          "total_spots": 10000
+          "total_spots": 10000,
+          "max_teams": 11,
+          "participants": [],
+          "prize_pool": "1 Lakh"
         }
       ],
-      "teamB_full": "",
       "title": "T20",
+      "teamB_full": "",
       "id": "GujzL2VFABW7Bax9CkXN"
     }
   ],
