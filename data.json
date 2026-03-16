@@ -170,6 +170,19 @@
     }
   ],
   "settings": {
+    "isMaintenanceMode": false,
+    "appUpdateLink": "",
+    "profileCooldownHours": 24,
+    "isProfileCooldownActive": false,
+    "logoutLockDays": 7,
+    "isLogoutLocked": false,
+    "minWithdraw": 10,
+    "maxWithdraw": 1000,
+    "withdrawWaitHours": 24,
+    "redeemWaitHours": 6,
+    "signupBonus": 0,
+    "referralCommission": 5,
+    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
     "withdrawOptions": [
       1,
       5,
@@ -181,7 +194,6 @@
       500,
       1000
     ],
-    "appUpdateLink": "",
     "redeemOptions": [
       9,
       29,
@@ -190,43 +202,27 @@
       100,
       159
     ],
-    "isLogoutLocked": false,
-    "signupBonus": 0,
-    "profileCooldownHours": 24,
-    "withdrawWaitHours": 24,
     "addMoneyPackages": [
       {
-        "bonus": 0,
-        "amount": 10
+        "amount": 50,
+        "bonus": 1
       },
       {
-        "bonus": 2,
-        "amount": 100
+        "amount": 100,
+        "bonus": 2
       },
       {
-        "bonus": 5,
-        "amount": 200
+        "amount": 200,
+        "bonus": 5
       },
       {
-        "bonus": 8,
-        "amount": 300
+        "amount": 300,
+        "bonus": 8
       },
       {
-        "bonus": 10,
-        "amount": 500
-      },
-      {
-        "bonus": 50,
-        "amount": 1
+        "amount": 500,
+        "bonus": 10
       }
-    ],
-    "isMaintenanceMode": false,
-    "referralCommission": 5,
-    "isProfileCooldownActive": false,
-    "logoutLockDays": 7,
-    "minWithdraw": 10,
-    "redeemWaitHours": 6,
-    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
-    "maxWithdraw": 1000
+    ]
   }
 }
