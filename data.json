@@ -1,53 +1,53 @@
 {
   "matches": [
     {
-      "start_time": "2026-03-16T19:28",
       "filled_spots": 0,
-      "is_ad_match": false,
-      "prize_pool": 12,
-      "entry_fee": 0.25,
-      "per_kill": 0.25,
-      "image_url": "",
       "req_ads": 10,
       "winners": [],
+      "is_ad_match": false,
+      "per_kill": 0.25,
       "total_spots": 48,
-      "wait_time": 4,
+      "participants": [],
+      "map": "Bermuda",
+      "start_time": "2026-03-16T19:28",
       "prize_slots": [],
-      "title": "Free fire - T1",
+      "status": "open",
+      "image_url": "",
+      "entry_fee": 0.25,
       "watch_video_id": "",
       "ad_cooldown": 15,
+      "title": "Free fire - T1",
+      "prize_pool": 12,
+      "wait_time": 4,
       "type": "Solo",
-      "status": "open",
-      "map": "Bermuda",
-      "participants": [],
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
   ],
   "cricket_matches": [
     {
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
       "updatedAt": {
         "seconds": 1773677968,
         "nanoseconds": 292000000
       },
+      "teamA_name": "IND",
+      "teamB_full": "",
+      "start_time": "2026-03-17T01:57",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "status": "open",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
-      "teamB_full": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
       "title": "T20",
-      "teamA_name": "IND",
-      "teamA_full": "",
       "contests": [
         {
-          "win_percent": "65%",
-          "winners_text": "1 Rank = 10000\n2 Rank = 5000\n3-10 Rank = 1000",
-          "total_spots": 1000,
-          "participants": [],
-          "max_teams": 1,
-          "name": "Mega Contests",
           "entry_fee": 0.25,
+          "max_teams": 1,
+          "winners_text": "1 Rank = 10000\n2 Rank = 5000\n3-10 Rank = 1000",
           "filled_spots": 0,
-          "prize_pool": "1 Lakhh"
+          "participants": [],
+          "name": "Mega Contests",
+          "total_spots": 1000,
+          "prize_pool": "1 Lakhh",
+          "win_percent": "65%"
         }
       ],
       "teamB_name": "AUS",
@@ -55,52 +55,63 @@
         "seconds": 1773674201,
         "nanoseconds": 659000000
       },
-      "start_time": "2026-03-17T01:57",
+      "teamA_full": "",
+      "players": [
+        {
+          "img": "",
+          "role": "BAT",
+          "points": 0,
+          "id": "p_1773680795621",
+          "credit": 8,
+          "team": "IND",
+          "name": "Vurat"
+        }
+      ],
       "id": "GujzL2VFABW7Bax9CkXN"
     }
   ],
   "sliders": [
     {
-      "title": "",
       "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
     },
     {
-      "title": "",
-      "desc": "",
       "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
     },
     {
-      "title": "",
       "desc": "",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "title": ""
     },
     {
       "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
-    },
-    {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
-      "desc": "",
-      "title": ""
-    },
-    {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
-      "desc": "",
-      "title": ""
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "desc": ""
     },
     {
       "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg"
     },
     {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
       "desc": "",
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
+    },
+    {
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
       "title": ""
+    },
+    {
+      "desc": "",
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
     },
     {
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
@@ -109,81 +120,95 @@
       "desc": ""
     },
     {
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
+      "desc": "",
       "title": "",
-      "desc": ""
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
     }
   ],
   "notifications": [],
   "media": [],
   "ads": [
     {
-      "watchTime": 15,
-      "title": "Watch ad",
-      "cooldownMinutes": 60,
       "reward": 0.05,
       "intervalSeconds": 0,
-      "totalViews": 1,
+      "cooldownMinutes": 60,
+      "title": "Watch ad",
       "linkUrl": "",
+      "totalViews": 1,
+      "watchTime": 15,
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "linkUrl": "",
-      "totalViews": 1,
       "intervalSeconds": 0,
-      "reward": 0.05,
       "cooldownMinutes": 60,
       "title": "Watch ad",
+      "reward": 0.05,
+      "linkUrl": "",
+      "totalViews": 1,
       "watchTime": 15,
       "id": "LJq6ZHNREcs27wMdOZ0O"
     },
     {
-      "linkUrl": "",
-      "totalViews": 1,
+      "cooldownMinutes": 60,
+      "title": "Watch ad",
       "intervalSeconds": 0,
       "reward": 0.05,
-      "cooldownMinutes": 60,
+      "totalViews": 1,
       "watchTime": 15,
-      "title": "Watch ad",
+      "linkUrl": "",
       "id": "PlNgjhcVFvwQRX3IQLvC"
     },
     {
-      "cooldownMinutes": 60,
-      "reward": 0.05,
-      "watchTime": 15,
-      "totalViews": 1,
-      "intervalSeconds": 0,
       "adSecurityPassword": "9982833519jitendra",
-      "title": "Watch ads",
       "linkUrl": "",
+      "totalViews": 1,
+      "reward": 0.05,
+      "intervalSeconds": 0,
+      "watchTime": 15,
       "scriptFullTag": "",
+      "title": "Watch ads",
+      "cooldownMinutes": 60,
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "linkUrl": "https://omg10.com/4/10022830",
-      "totalViews": 1,
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "reward": 0.05,
       "watchTime": 5,
+      "totalViews": 1,
+      "linkUrl": "https://omg10.com/4/10022830",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
       "title": "Watch ad",
+      "intervalSeconds": 0,
       "id": "hLvHlVp7kp3AX91iTLtw"
     }
   ],
   "settings": {
+    "isProfileCooldownActive": false,
+    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
+    "maxWithdraw": 1000,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
     "redeemWaitHours": 6,
+    "signupBonus": 0,
+    "appUpdateLink": "",
+    "isLogoutLocked": false,
     "addMoneyPackages": [
       {
-        "bonus": 2,
-        "amount": 50
+        "amount": 50,
+        "bonus": 2
       },
       {
         "bonus": 3,
         "amount": 100
       },
       {
-        "bonus": 4,
-        "amount": 200
+        "amount": 200,
+        "bonus": 4
       },
       {
         "bonus": 7,
@@ -194,12 +219,6 @@
         "amount": 500
       }
     ],
-    "signupBonus": 0,
-    "isMaintenanceMode": false,
-    "referralCommission": 5,
-    "minWithdraw": 10,
-    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
-    "appUpdateLink": "",
     "redeemOptions": [
       9,
       29,
@@ -208,19 +227,11 @@
       100,
       159
     ],
-    "withdrawWaitHours": 24,
+    "minWithdraw": 10,
+    "isMaintenanceMode": false,
+    "logoutLockDays": 7,
+    "referralCommission": 5,
     "profileCooldownHours": 24,
-    "isProfileCooldownActive": false,
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
-    "maxWithdraw": 1000,
-    "isLogoutLocked": false,
-    "logoutLockDays": 7
+    "withdrawWaitHours": 24
   }
 }
