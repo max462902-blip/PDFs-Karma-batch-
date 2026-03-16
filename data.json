@@ -215,6 +215,10 @@
       {
         "amount": 500,
         "bonus": 10
+      },
+      {
+        "amount": 1,
+        "bonus": 50
       }
     ]
   }
