@@ -78,33 +78,7 @@
       "desc": ""
     }
   ],
-  "notifications": [
-    {
-      "type": "info",
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "timestamp": "2026-03-11T03:04:56.028Z",
-      "userId": "all",
-      "message": "🥱🥱",
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
-      "id": "27Ppqgx2cMVVpGUMCb37"
-    },
-    {
-      "userId": "all",
-      "type": "info",
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
-      "timestamp": "2026-03-16T05:55:02.078Z",
-      "id": "b21wTrqPGzj1gz7F1tOt"
-    },
-    {
-      "thumbnailUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
-      "type": "info",
-      "mediaUrl": "https://youtu.be/d58ld4PLpX4?si=GNTbx4x6d_ckMX1u",
-      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
-      "timestamp": "2026-03-12T18:37:06.597Z",
-      "userId": "all",
-      "id": "jHbYZxh2PzQ5Nv6bMItt"
-    }
-  ],
+  "notifications": [],
   "media": [
     {
       "mediaUrl": "https://youtu.be/CuKQYesp_hw?si=qZoXKYCDfEE9xWTW",
