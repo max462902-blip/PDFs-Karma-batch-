@@ -184,15 +184,12 @@
     "referralCommission": 5,
     "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
     "withdrawOptions": [
-      1,
-      5,
       10,
       20,
       50,
       100,
       250,
-      500,
-      1000
+      500
     ],
     "redeemOptions": [
       9,
