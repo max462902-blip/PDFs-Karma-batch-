@@ -25,161 +25,161 @@
   ],
   "cricket_matches": [
     {
-      "status": "open",
-      "title": "T20",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
-      "contests": [
-        {
-          "name": "Mega Contest",
-          "win_percent": "60%",
-          "entry_fee": 1,
-          "filled_spots": 0,
-          "prize_pool": "1 Lakh",
-          "total_spots": 10,
-          "max_teams": 5,
-          "participants": [],
-          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000"
-        }
-      ],
-      "teamB_full": "",
+      "status": "open",
+      "updatedAt": {
+        "seconds": 1773736036,
+        "nanoseconds": 304000000
+      },
+      "teamA_name": "IND",
+      "teamA_full": "",
       "createdAt": {
         "seconds": 1773687988,
         "nanoseconds": 897000000
       },
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamB_name": "AUS",
+      "contests": [
+        {
+          "filled_spots": 0,
+          "entry_fee": 1,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "participants": [],
+          "name": "Mega Contest",
+          "total_spots": 15,
+          "prize_pool": "1 Lakh",
+          "max_teams": 5,
+          "win_percent": "60%"
+        }
+      ],
       "participants": [
         "dGCjdfEdQbgNnj5JrjEWx4sZmR93"
       ],
-      "start_time": "2026-03-17T18:36",
-      "teamB_name": "AUS",
+      "title": "T20",
       "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
-      "updatedAt": {
-        "seconds": 1773735794,
-        "nanoseconds": 852000000
-      },
-      "teamA_name": "IND",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamB_full": "",
+      "start_time": "2026-03-17T18:36",
       "players": [
         {
-          "credit": 8,
-          "role": "WK",
-          "team": "IND",
-          "img": "",
-          "match_points": 111,
           "id": "p_1773688001822",
+          "credit": 8,
           "points": 60,
+          "role": "WK",
+          "match_points": 111,
+          "img": "",
+          "team": "IND",
           "name": "Cjggndmdhf"
         },
         {
-          "credit": 8,
-          "role": "WK",
           "team": "IND",
-          "match_points": 100,
-          "img": "",
+          "credit": 8,
           "id": "p_1773688006735",
           "points": 90,
+          "match_points": 100,
+          "img": "",
+          "role": "WK",
           "name": "Ckckgcjcj"
         },
         {
-          "id": "p_1773688012666",
           "name": "Hmdjtjt",
           "points": 0,
+          "id": "p_1773688012666",
+          "credit": 8,
+          "img": "",
           "role": "WK",
-          "credit": 8,
-          "team": "AUS",
-          "img": ""
+          "team": "AUS"
         },
         {
-          "img": "",
-          "team": "IND",
-          "credit": 8,
-          "role": "BAT",
-          "points": 0,
           "name": "Fmdkdt",
-          "id": "p_1773688019336"
-        },
-        {
-          "credit": 8,
-          "role": "BAT",
-          "img": "",
           "team": "IND",
-          "points": 0,
-          "name": "Dndjdjyj",
-          "id": "p_1773688027354"
-        },
-        {
-          "img": "",
-          "team": "AUS",
           "credit": 8,
-          "role": "BAT",
-          "name": "Kcjxfh",
-          "points": 0,
-          "id": "p_1773688034658"
-        },
-        {
-          "id": "p_1773688042349",
-          "name": "Dgjdjxf",
+          "id": "p_1773688019336",
           "points": 0,
           "role": "BAT",
-          "credit": 8,
-          "team": "AUS",
           "img": ""
         },
         {
-          "name": "Djshryr",
-          "points": 0,
-          "id": "p_1773688047773",
-          "credit": 8,
-          "role": "AR",
+          "name": "Dndjdjyj",
           "img": "",
+          "role": "BAT",
+          "id": "p_1773688027354",
+          "credit": 8,
+          "points": 0,
           "team": "IND"
         },
         {
-          "name": "Jdjsfd",
-          "points": 0,
-          "id": "p_1773688056192",
-          "img": "",
+          "name": "Kcjxfh",
           "team": "AUS",
+          "points": 0,
+          "id": "p_1773688034658",
           "credit": 8,
-          "role": "AR"
+          "img": "",
+          "role": "BAT"
         },
         {
-          "id": "p_1773688062846",
+          "role": "BAT",
+          "img": "",
+          "id": "p_1773688042349",
           "points": 0,
+          "credit": 8,
+          "team": "AUS",
+          "name": "Dgjdjxf"
+        },
+        {
+          "name": "Djshryr",
+          "team": "IND",
+          "role": "AR",
+          "img": "",
+          "id": "p_1773688047773",
+          "credit": 8,
+          "points": 0
+        },
+        {
+          "team": "AUS",
+          "id": "p_1773688056192",
+          "credit": 8,
+          "points": 0,
+          "role": "AR",
+          "img": "",
+          "name": "Jdjsfd"
+        },
+        {
           "name": "Jdtdurs",
           "team": "IND",
-          "img": "",
-          "role": "BOWL",
-          "credit": 8
-        },
-        {
-          "id": "p_1773688085089",
-          "points": 0,
-          "name": "Fksngcgj",
-          "role": "BOWL",
           "credit": 8,
-          "team": "AUS",
+          "id": "p_1773688062846",
+          "points": 0,
+          "role": "BOWL",
           "img": ""
         },
         {
+          "name": "Fksngcgj",
           "credit": 8,
+          "id": "p_1773688085089",
+          "points": 0,
           "role": "BOWL",
-          "team": "IND",
           "img": "",
+          "team": "AUS"
+        },
+        {
+          "credit": 8,
           "id": "p_1773688092556",
           "points": 0,
+          "img": "",
+          "role": "BOWL",
+          "team": "IND",
           "name": "Igddjdt"
         },
         {
-          "role": "AR",
-          "credit": 8,
-          "img": "",
           "team": "IND",
-          "name": "Gjdjjs",
+          "credit": 8,
           "points": 0,
-          "id": "p_1773688097335"
+          "id": "p_1773688097335",
+          "role": "AR",
+          "img": "",
+          "name": "Gjdjjs"
         }
       ],
-      "teamA_full": "",
       "id": "y0T62qtc1SivkKQ5od7n"
     }
   ],
