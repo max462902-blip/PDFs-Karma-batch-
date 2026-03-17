@@ -26,174 +26,174 @@
   "cricket_matches": [
     {
       "bat2_name": "Cjggndmdhf",
-      "live_bowler": "Jitu",
+      "bowler_fig": "1/15 (2.5)",
+      "on_strike": "1",
       "bat2_score": "12(23)",
-      "participants": [
-        "dGCjdfEdQbgNnj5JrjEWx4sZmR93"
-      ],
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "live_batter": "Vikram ",
-      "teamB_name": "AUS",
+      "scoreB": "10/3",
       "teamA_name": "IND",
+      "teamA_full": "",
       "title": "T20",
-      "contests": [
-        {
-          "winners_text": "1 = 3\n2 = 2\n3= 1",
-          "entry_fee": 1,
-          "win_percent": "60% winners",
-          "filled_spots": 0,
-          "max_teams": 5,
-          "name": "Prize pool",
-          "prize_pool": "₹1 Crore",
-          "participants": [],
-          "total_spots": 8
-        }
-      ],
-      "updatedAt": {
-        "seconds": 1773746292,
-        "nanoseconds": 268000000
-      },
+      "bowler_name": "Djshryr",
+      "live_bowler": "Jitu",
+      "over_balls": "1,2,3,4",
+      "bat1_name": "Ckckgcjcj",
+      "bat1_score": "45(30)",
       "createdAt": {
         "seconds": 1773687988,
         "nanoseconds": 897000000
       },
-      "on_strike": "1",
-      "bowler_fig": "1/15 (2.5)",
-      "start_time": "2026-03-17T18:36",
-      "scoreA": "120/5",
-      "bat1_score": "45(30)",
       "players": [
         {
           "name": "Cjggndmdhf",
-          "match_points": 111,
-          "points": 60,
-          "credit": 8,
           "role": "WK",
-          "img": "",
           "id": "p_1773688001822",
-          "team": "IND"
+          "img": "",
+          "match_points": 111,
+          "team": "IND",
+          "credit": 8,
+          "points": 60
         },
         {
-          "role": "WK",
-          "points": 90,
-          "credit": 8,
-          "name": "Ckckgcjcj",
-          "match_points": 100,
-          "team": "IND",
           "id": "p_1773688006735",
+          "role": "WK",
+          "name": "Ckckgcjcj",
+          "img": "",
+          "match_points": 100,
+          "credit": 8,
+          "team": "IND",
+          "points": 90
+        },
+        {
+          "id": "p_1773688012666",
+          "role": "WK",
+          "name": "Hmdjtjt",
+          "img": "",
+          "team": "AUS",
+          "credit": 8,
+          "points": 0
+        },
+        {
+          "credit": 8,
+          "team": "IND",
+          "points": 0,
+          "role": "BAT",
+          "id": "p_1773688019336",
+          "name": "Fmdkdt",
           "img": ""
         },
         {
-          "role": "WK",
-          "name": "Hmdjtjt",
-          "credit": 8,
           "points": 0,
-          "team": "AUS",
-          "img": "",
-          "id": "p_1773688012666"
-        },
-        {
-          "img": "",
-          "id": "p_1773688019336",
+          "credit": 8,
           "team": "IND",
-          "name": "Fmdkdt",
-          "credit": 8,
-          "points": 0,
+          "img": "",
+          "name": "Dndjdjyj",
+          "id": "p_1773688027354",
           "role": "BAT"
         },
         {
-          "team": "IND",
-          "id": "p_1773688027354",
           "img": "",
-          "role": "BAT",
-          "points": 0,
-          "credit": 8,
-          "name": "Dndjdjyj"
-        },
-        {
-          "credit": 8,
-          "points": 0,
-          "name": "Kcjxfh",
-          "role": "BAT",
           "id": "p_1773688034658",
-          "img": "",
-          "team": "AUS"
-        },
-        {
-          "points": 0,
-          "credit": 8,
-          "name": "Dgjdjxf",
           "role": "BAT",
-          "id": "p_1773688042349",
-          "img": "",
-          "team": "AUS"
-        },
-        {
-          "team": "IND",
-          "img": "",
-          "id": "p_1773688047773",
-          "role": "AR",
-          "name": "Djshryr",
+          "name": "Kcjxfh",
           "points": 0,
+          "team": "AUS",
           "credit": 8
         },
         {
-          "team": "AUS",
-          "id": "p_1773688056192",
-          "img": "",
-          "role": "AR",
-          "credit": 8,
           "points": 0,
-          "name": "Jdjsfd"
+          "credit": 8,
+          "team": "AUS",
+          "img": "",
+          "role": "BAT",
+          "id": "p_1773688042349",
+          "name": "Dgjdjxf"
         },
         {
+          "points": 0,
           "team": "IND",
-          "id": "p_1773688062846",
+          "credit": 8,
           "img": "",
-          "role": "BOWL",
+          "name": "Djshryr",
+          "id": "p_1773688047773",
+          "role": "AR"
+        },
+        {
+          "id": "p_1773688056192",
+          "role": "AR",
+          "name": "Jdjsfd",
+          "img": "",
+          "team": "AUS",
+          "credit": 8,
+          "points": 0
+        },
+        {
           "points": 0,
           "credit": 8,
+          "team": "IND",
+          "img": "",
+          "id": "p_1773688062846",
+          "role": "BOWL",
           "name": "Jdtdurs"
         },
         {
+          "name": "Fksngcgj",
+          "role": "BOWL",
           "id": "p_1773688085089",
           "img": "",
-          "team": "AUS",
           "credit": 8,
-          "points": 0,
-          "name": "Fksngcgj",
-          "role": "BOWL"
+          "team": "AUS",
+          "points": 0
         },
         {
-          "name": "Igddjdt",
-          "credit": 8,
-          "points": 0,
-          "role": "BOWL",
           "img": "",
+          "name": "Igddjdt",
+          "role": "BOWL",
           "id": "p_1773688092556",
+          "points": 0,
+          "credit": 8,
           "team": "IND"
         },
         {
+          "points": 0,
+          "credit": 8,
           "team": "IND",
           "img": "",
-          "id": "p_1773688097335",
           "role": "AR",
-          "name": "Gjdjjs",
-          "points": 0,
-          "credit": 8
+          "id": "p_1773688097335",
+          "name": "Gjdjjs"
         }
       ],
-      "teamB_full": "",
-      "teamA_full": "",
-      "live_status_text": "Win team India score 120",
-      "bowler_name": "Djshryr",
-      "status": "live",
+      "start_time": "2026-03-17T18:36",
+      "scoreA": "120/5",
       "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
-      "scoreB": "10/3",
       "oversA": "20",
+      "contests": [
+        {
+          "filled_spots": 0,
+          "name": "Prize pool",
+          "prize_pool": "₹1 Crore",
+          "winners_text": "1 = 3\n2 = 2\n3= 1",
+          "participants": [],
+          "entry_fee": 1,
+          "win_percent": "60% winners",
+          "max_teams": 5,
+          "total_spots": 8
+        }
+      ],
+      "live_batter": "Vikram ",
+      "participants": [
+        "dGCjdfEdQbgNnj5JrjEWx4sZmR93"
+      ],
+      "status": "live",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamB_full": "",
+      "live_status_text": "Win team India score 120",
+      "teamB_name": "AUS",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
-      "bat1_name": "Ckckgcjcj",
-      "over_balls": "1,2,3",
+      "updatedAt": {
+        "seconds": 1773746292,
+        "nanoseconds": 268000000
+      },
       "id": "y0T62qtc1SivkKQ5od7n"
     }
   ],
