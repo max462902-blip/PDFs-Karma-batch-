@@ -25,21 +25,12 @@
   ],
   "cricket_matches": [
     {
-      "teamA_full": "",
-      "createdAt": {
-        "seconds": 1773687988,
-        "nanoseconds": 897000000
-      },
-      "start_time": "2026-03-17T06:36",
-      "title": "T20",
-      "teamB_full": "",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
-      "teamA_name": "IND",
       "updatedAt": {
         "seconds": 1773689007,
         "nanoseconds": 760000000
       },
+      "teamA_name": "IND",
       "teamB_name": "AUS",
       "players": [
         {
@@ -53,13 +44,14 @@
           "img": ""
         },
         {
+          "id": "p_1773688006735",
           "name": "Ckckgcjcj",
-          "credit": 8,
           "team": "IND",
           "role": "WK",
-          "img": "",
-          "id": "p_1773688006735",
-          "points": 90
+          "credit": 8,
+          "points": 90,
+          "match_points": 100,
+          "img": ""
         },
         {
           "team": "AUS",
@@ -161,21 +153,30 @@
           "img": ""
         }
       ],
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "status": "open",
       "contests": [
         {
-          "total_spots": 10000,
-          "win_percent": "60%",
-          "name": "Mega Contest",
-          "filled_spots": 0,
           "entry_fee": 49,
-          "prize_pool": "1 Lakh",
-          "max_teams": 5,
+          "filled_spots": 0,
+          "name": "Mega Contest",
+          "win_percent": "60%",
+          "total_spots": 10000,
           "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "participants": []
+          "participants": [],
+          "prize_pool": "1 Lakh",
+          "max_teams": 5
         }
       ],
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamA_full": "",
+      "createdAt": {
+        "seconds": 1773687988,
+        "nanoseconds": 897000000
+      },
+      "start_time": "2026-03-17T06:36",
+      "title": "T20",
+      "teamB_full": "",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
       "id": "y0T62qtc1SivkKQ5od7n"
     }
   ],
