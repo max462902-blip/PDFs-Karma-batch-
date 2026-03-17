@@ -25,175 +25,175 @@
   ],
   "cricket_matches": [
     {
-      "teamB_name": "AUS",
+      "oversA": "20",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
-      "live_status_text": "Win team India score 120",
+      "bat1_name": "Ckckgcjcj",
       "updatedAt": {
         "seconds": 1773746292,
         "nanoseconds": 268000000
       },
-      "status": "live",
-      "teamB_full": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "live_batter": "Vikram ",
-      "oversA": "20",
+      "bowler_name": "Djshryr",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
+      "teamB_name": "AUS",
+      "title": "T20",
+      "live_bowler": "Jitu",
+      "start_time": "2026-03-17T18:36",
+      "bowler_fig": "1/15 (2.5)",
+      "scoreA": "120/5",
+      "over_balls": "1,2,3,4,5,6,w,wd,wd",
       "contests": [
         {
+          "win_percent": "60% winners",
+          "filled_spots": 0,
+          "participants": [],
+          "name": "Prize pool",
+          "entry_fee": 1,
           "total_spots": 8,
           "winners_text": "1 = 3\n2 = 2\n3= 1",
-          "win_percent": "60% winners",
-          "entry_fee": 1,
-          "participants": [],
           "max_teams": 5,
-          "name": "Prize pool",
-          "prize_pool": "₹1 Crore",
-          "filled_spots": 0
+          "prize_pool": "₹1 Crore"
         }
       ],
+      "bat1_score": "45(30)",
+      "teamA_name": "IND",
+      "live_status_text": "Win team India score 120",
+      "bat2_name": "Cjggndmdhf",
+      "status": "live",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "live_batter": "Vikram ",
+      "bat2_score": "12(23)",
+      "on_strike": "1",
       "participants": [
         "dGCjdfEdQbgNnj5JrjEWx4sZmR93"
       ],
-      "scoreA": "120/5",
-      "start_time": "2026-03-17T18:36",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
       "createdAt": {
         "seconds": 1773687988,
         "nanoseconds": 897000000
       },
-      "bat1_name": "Ckckgcjcj",
-      "bat1_score": "45(30)",
       "players": [
         {
-          "name": "Cjggndmdhf",
-          "role": "WK",
           "id": "p_1773688001822",
-          "img": "",
-          "match_points": 111,
-          "credit": 8,
+          "role": "WK",
           "team": "IND",
-          "points": 60
+          "name": "Cjggndmdhf",
+          "points": 60,
+          "match_points": 111,
+          "img": "",
+          "credit": 8
         },
         {
-          "name": "Ckckgcjcj",
-          "id": "p_1773688006735",
-          "role": "WK",
           "img": "",
-          "match_points": 100,
           "credit": 8,
+          "name": "Ckckgcjcj",
+          "points": 90,
+          "match_points": 100,
+          "id": "p_1773688006735",
           "team": "IND",
-          "points": 90
+          "role": "WK"
         },
         {
           "name": "Hmdjtjt",
-          "role": "WK",
-          "id": "p_1773688012666",
+          "points": 0,
           "img": "",
           "credit": 8,
+          "id": "p_1773688012666",
           "team": "AUS",
-          "points": 0
+          "role": "WK"
         },
         {
-          "role": "BAT",
           "id": "p_1773688019336",
+          "role": "BAT",
+          "team": "IND",
+          "points": 0,
           "name": "Fmdkdt",
           "img": "",
-          "team": "IND",
-          "credit": 8,
-          "points": 0
+          "credit": 8
         },
         {
           "credit": 8,
-          "team": "IND",
-          "points": 0,
+          "img": "",
           "name": "Dndjdjyj",
-          "role": "BAT",
-          "id": "p_1773688027354",
-          "img": ""
-        },
-        {
           "points": 0,
-          "credit": 8,
-          "team": "AUS",
-          "img": "",
-          "name": "Kcjxfh",
-          "role": "BAT",
-          "id": "p_1773688034658"
-        },
-        {
-          "points": 0,
-          "credit": 8,
-          "team": "AUS",
-          "img": "",
-          "role": "BAT",
-          "id": "p_1773688042349",
-          "name": "Dgjdjxf"
-        },
-        {
           "team": "IND",
+          "role": "BAT",
+          "id": "p_1773688027354"
+        },
+        {
+          "role": "BAT",
+          "team": "AUS",
+          "id": "p_1773688034658",
           "credit": 8,
+          "img": "",
+          "points": 0,
+          "name": "Kcjxfh"
+        },
+        {
+          "id": "p_1773688042349",
+          "team": "AUS",
+          "role": "BAT",
+          "points": 0,
+          "name": "Dgjdjxf",
+          "img": "",
+          "credit": 8
+        },
+        {
           "points": 0,
           "name": "Djshryr",
+          "img": "",
+          "credit": 8,
           "id": "p_1773688047773",
-          "role": "AR",
-          "img": ""
+          "team": "IND",
+          "role": "AR"
         },
         {
           "name": "Jdjsfd",
-          "id": "p_1773688056192",
-          "role": "AR",
-          "img": "",
+          "points": 0,
           "credit": 8,
+          "img": "",
+          "role": "AR",
           "team": "AUS",
-          "points": 0
+          "id": "p_1773688056192"
         },
         {
+          "credit": 8,
           "img": "",
           "name": "Jdtdurs",
-          "role": "BOWL",
-          "id": "p_1773688062846",
           "points": 0,
-          "credit": 8,
-          "team": "IND"
+          "team": "IND",
+          "role": "BOWL",
+          "id": "p_1773688062846"
         },
         {
-          "points": 0,
-          "credit": 8,
-          "team": "AUS",
-          "img": "",
-          "name": "Fksngcgj",
           "id": "p_1773688085089",
-          "role": "BOWL"
-        },
-        {
-          "team": "IND",
-          "credit": 8,
-          "points": 0,
+          "team": "AUS",
           "role": "BOWL",
-          "id": "p_1773688092556",
-          "name": "Igddjdt",
-          "img": ""
+          "points": 0,
+          "name": "Fksngcgj",
+          "img": "",
+          "credit": 8
         },
         {
+          "id": "p_1773688092556",
           "team": "IND",
+          "role": "BOWL",
+          "points": 0,
+          "name": "Igddjdt",
+          "img": "",
+          "credit": 8
+        },
+        {
+          "id": "p_1773688097335",
+          "role": "AR",
+          "team": "IND",
+          "img": "",
           "credit": 8,
           "points": 0,
-          "name": "Gjdjjs",
-          "role": "AR",
-          "id": "p_1773688097335",
-          "img": ""
+          "name": "Gjdjjs"
         }
       ],
-      "live_bowler": "Jitu",
-      "over_balls": "1,2,3,45,6w,wd,wd",
-      "bowler_name": "Djshryr",
-      "bat2_score": "12(23)",
       "scoreB": "10/3",
-      "bat2_name": "Cjggndmdhf",
-      "bowler_fig": "1/15 (2.5)",
-      "on_strike": "1",
       "teamA_full": "",
-      "title": "T20",
-      "teamA_name": "IND",
+      "teamB_full": "",
       "id": "y0T62qtc1SivkKQ5od7n"
     }
   ],
