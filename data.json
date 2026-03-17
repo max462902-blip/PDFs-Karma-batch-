@@ -25,10 +25,22 @@
   ],
   "cricket_matches": [
     {
+      "teamA_full": "",
       "createdAt": {
         "seconds": 1773687988,
         "nanoseconds": 897000000
       },
+      "start_time": "2026-03-17T06:36",
+      "title": "T20",
+      "teamB_full": "",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
+      "teamA_name": "IND",
+      "updatedAt": {
+        "seconds": 1773689007,
+        "nanoseconds": 760000000
+      },
+      "teamB_name": "AUS",
       "players": [
         {
           "id": "p_1773688001822",
@@ -37,7 +49,7 @@
           "role": "WK",
           "credit": 8,
           "points": 60,
-          "match_points": 100,
+          "match_points": 111,
           "img": ""
         },
         {
@@ -149,33 +161,21 @@
           "img": ""
         }
       ],
-      "updatedAt": {
-        "seconds": 1773689007,
-        "nanoseconds": 760000000
-      },
-      "start_time": "2026-03-17T06:36",
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2e7be.jpg",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "status": "open",
       "contests": [
         {
-          "filled_spots": 0,
-          "prize_pool": "1 Lakh",
-          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "name": "Mega Contest",
-          "participants": [],
+          "total_spots": 10000,
           "win_percent": "60%",
-          "max_teams": 5,
+          "name": "Mega Contest",
+          "filled_spots": 0,
           "entry_fee": 49,
-          "total_spots": 10000
+          "prize_pool": "1 Lakh",
+          "max_teams": 5,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "participants": []
         }
       ],
-      "teamA_name": "IND",
-      "title": "T20",
-      "status": "open",
-      "teamB_full": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_1ecf7.jpg",
-      "teamA_full": "",
-      "teamB_name": "AUS",
       "id": "y0T62qtc1SivkKQ5od7n"
     }
   ],
