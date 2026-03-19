@@ -28,7 +28,7 @@
   ],
   "cricket_matches": [
     {
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
+      "teamB_full": "South Africa",
       "players": [
         {
           "id": "p_1773927787672",
@@ -57,39 +57,53 @@
           "percentC": "0",
           "percentVC": "0",
           "sel_percent": "0"
-        }
-      ],
-      "teamB_full": "South Africa",
-      "status": "open",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
-      "start_time": "2026-03-20T11:45",
-      "teamA_name": "NZL",
-      "contests": [
+        },
         {
-          "prize_pool": "12",
-          "winners_text": "1 = 12",
-          "name": "Prize pool",
-          "max_teams": 1,
-          "entry_fee": 0.25,
-          "filled_spots": 0,
-          "total_spots": 50,
-          "win_percent": "1 winner 🏆",
-          "participants": []
+          "id": "p_1773928087874",
+          "name": "Rubin Hermann",
+          "team": "RSA",
+          "role": "WK",
+          "credit": 8,
+          "points": 78,
+          "match_points": 0,
+          "img": "",
+          "subtitle": "Played last match",
+          "percentC": "0",
+          "percentVC": "0",
+          "sel_percent": "0"
         }
       ],
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
-      "teamB_name": "RSA",
+      "status": "open",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
+      "teamA_name": "NZL",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "updatedAt": {
         "seconds": 1773927632,
         "nanoseconds": 711000000
       },
-      "teamA_full": "New Zealand",
       "show_leaderboard": false,
       "createdAt": {
         "seconds": 1773927255,
         "nanoseconds": 83000000
       },
+      "contests": [
+        {
+          "entry_fee": 0.25,
+          "winners_text": "1 = 12",
+          "filled_spots": 0,
+          "prize_pool": "12",
+          "max_teams": 1,
+          "name": "Prize pool",
+          "participants": [],
+          "win_percent": "1 winner 🏆",
+          "total_spots": 50
+        }
+      ],
+      "teamA_full": "New Zealand",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
+      "title": "New Zealand  vs  South Africa - 3rd T20I",
+      "start_time": "2026-03-20T11:45",
+      "teamB_name": "RSA",
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
   ],
