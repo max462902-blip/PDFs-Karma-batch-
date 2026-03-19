@@ -1,27 +1,27 @@
 {
   "matches": [
     {
-      "is_ad_match": false,
-      "per_kill": 0.25,
       "entry_fee": 0.25,
       "total_spots": 1,
       "type": "Solo",
       "prize_slots": [],
-      "winners": [],
-      "image_url": "",
-      "req_ads": 10,
-      "status": "live",
+      "is_ad_match": false,
+      "per_kill": 0.25,
       "wait_time": 4,
-      "map": "Bermuda",
-      "prize_pool": 12,
-      "start_time": "2026-03-16T19:28",
       "participants": [
         "dGCjdfEdQbgNnj5JrjEWx4sZmR93"
       ],
+      "start_time": "2026-03-16T19:28",
+      "prize_pool": 12,
+      "map": "Bermuda",
       "filled_spots": 1,
-      "watch_video_id": "",
       "title": "Free fire - T1",
+      "watch_video_id": "",
       "ad_cooldown": 15,
+      "winners": [],
+      "image_url": "",
+      "req_ads": 10,
+      "status": "open",
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
   ],
