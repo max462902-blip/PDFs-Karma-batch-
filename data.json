@@ -28,35 +28,57 @@
   ],
   "cricket_matches": [
     {
-      "teamB_full": "South Africa",
+      "createdAt": {
+        "seconds": 1773927255,
+        "nanoseconds": 83000000
+      },
+      "contests": [
+        {
+          "participants": [],
+          "name": "Prize pool",
+          "total_spots": 50,
+          "win_percent": "1 winner 🏆",
+          "filled_spots": 0,
+          "winners_text": "1 = 12",
+          "entry_fee": 0.25,
+          "prize_pool": "12",
+          "max_teams": 1
+        }
+      ],
+      "show_leaderboard": false,
+      "teamA_full": "New Zealand",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
+      "title": "New Zealand  vs  South Africa - 3rd T20I",
+      "start_time": "2026-03-20T11:45",
+      "teamB_name": "RSA",
       "players": [
         {
-          "id": "p_1773927787672",
+          "sel_percent": "0",
           "name": "Connor Esterhuizen",
-          "team": "RSA",
           "role": "WK",
-          "credit": 8,
           "points": 121,
           "match_points": 0,
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_5f195.jpg",
-          "subtitle": "Played last match",
-          "percentC": "0",
           "percentVC": "0",
-          "sel_percent": "0"
+          "id": "p_1773927787672",
+          "percentC": "0",
+          "team": "RSA",
+          "subtitle": "Played last match",
+          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_5f195.jpg",
+          "credit": 8
         },
         {
           "id": "p_1773927973265",
-          "name": "Devon Conway",
-          "team": "NZL",
-          "role": "WK",
-          "credit": 8,
-          "points": 117,
-          "match_points": 0,
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_feaa0.jpg",
-          "subtitle": "Played last match",
           "percentC": "0",
+          "match_points": 0,
           "percentVC": "0",
-          "sel_percent": "0"
+          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_feaa0.jpg",
+          "credit": 8,
+          "team": "NZL",
+          "subtitle": "Played last match",
+          "name": "Devon Conway",
+          "role": "WK",
+          "sel_percent": "0",
+          "points": 117
         },
         {
           "id": "p_1773928087874",
@@ -66,13 +88,14 @@
           "credit": 8,
           "points": 78,
           "match_points": 0,
-          "img": "",
+          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_595ba.jpg",
           "subtitle": "Played last match",
           "percentC": "0",
           "percentVC": "0",
           "sel_percent": "0"
         }
       ],
+      "teamB_full": "South Africa",
       "status": "open",
       "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
       "teamA_name": "NZL",
@@ -81,29 +104,6 @@
         "seconds": 1773927632,
         "nanoseconds": 711000000
       },
-      "show_leaderboard": false,
-      "createdAt": {
-        "seconds": 1773927255,
-        "nanoseconds": 83000000
-      },
-      "contests": [
-        {
-          "entry_fee": 0.25,
-          "winners_text": "1 = 12",
-          "filled_spots": 0,
-          "prize_pool": "12",
-          "max_teams": 1,
-          "name": "Prize pool",
-          "participants": [],
-          "win_percent": "1 winner 🏆",
-          "total_spots": 50
-        }
-      ],
-      "teamA_full": "New Zealand",
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
-      "start_time": "2026-03-20T11:45",
-      "teamB_name": "RSA",
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
   ],
