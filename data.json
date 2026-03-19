@@ -1,281 +1,290 @@
 {
   "matches": [
     {
+      "winners": [],
+      "req_ads": 10,
+      "status": "open",
+      "map": "Bermuda",
+      "per_kill": 0.25,
+      "filled_spots": 3,
+      "prize_pool": 12,
+      "total_spots": 48,
       "participants": [
         "dGCjdfEdQbgNnj5JrjEWx4sZmR93",
         "JSybJtGKDMMnSIuLORkMBOH1jcU2",
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "req_ads": 10,
       "title": "Free fire - T1",
+      "type": "Solo",
+      "image_url": "",
       "wait_time": 4,
       "prize_slots": [],
-      "status": "open",
-      "entry_fee": 0.25,
-      "type": "Solo",
-      "filled_spots": 3,
-      "winners": [],
-      "watch_video_id": "",
-      "image_url": "",
-      "total_spots": 48,
-      "start_time": "2026-03-16T19:28",
-      "prize_pool": 12,
-      "map": "Bermuda",
-      "per_kill": 0.25,
       "ad_cooldown": 15,
+      "watch_video_id": "",
+      "entry_fee": 0.25,
       "is_ad_match": false,
+      "start_time": "2026-03-16T19:28",
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
   ],
   "cricket_matches": [
     {
-      "teamB_name": "AUS",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "show_leaderboard": false,
-      "players": [
-        {
-          "id": "p_1773942128856",
-          "role": "WK",
-          "percentC": "0",
-          "sel_percent": "0",
-          "match_points": 0,
-          "img": "",
-          "team": "IND",
-          "points": 0,
-          "percentVC": "0",
-          "name": "Bbbb",
-          "credit": 8,
-          "subtitle": ""
-        },
-        {
-          "points": 0,
-          "team": "IND",
-          "img": "",
-          "subtitle": "",
-          "credit": 8,
-          "name": "Vhhhh",
-          "percentVC": "0",
-          "id": "p_1773942154591",
-          "sel_percent": "0",
-          "role": "WK",
-          "percentC": "0",
-          "match_points": 0
-        },
-        {
-          "credit": 8,
-          "subtitle": "",
-          "name": "Vvghu",
-          "percentVC": "0",
-          "points": 0,
-          "img": "",
-          "team": "AUS",
-          "match_points": 0,
-          "sel_percent": "0",
-          "percentC": "0",
-          "role": "WK",
-          "id": "p_1773942164628"
-        },
-        {
-          "match_points": 0,
-          "role": "WK",
-          "id": "p_1773942193683",
-          "percentC": "0",
-          "sel_percent": "0",
-          "percentVC": "0",
-          "name": "Vvvgg",
-          "credit": 8,
-          "subtitle": "",
-          "img": "",
-          "team": "AUS",
-          "points": 0
-        },
-        {
-          "subtitle": "",
-          "credit": 8,
-          "percentVC": "0",
-          "name": "Vvvgg",
-          "points": 0,
-          "team": "IND",
-          "img": "",
-          "match_points": 0,
-          "sel_percent": "0",
-          "id": "p_1773942201415",
-          "role": "BAT",
-          "percentC": "0"
-        },
-        {
-          "percentC": "0",
-          "role": "BAT",
-          "id": "p_1773942206664",
-          "sel_percent": "0",
-          "match_points": 0,
-          "points": 0,
-          "team": "IND",
-          "img": "",
-          "subtitle": "",
-          "credit": 8,
-          "percentVC": "0",
-          "name": "Vvh"
-        },
-        {
-          "percentVC": "0",
-          "name": "Ccvv",
-          "subtitle": "",
-          "credit": 8,
-          "team": "IND",
-          "img": "",
-          "points": 0,
-          "match_points": 0,
-          "sel_percent": "0",
-          "percentC": "0",
-          "id": "p_1773942212066",
-          "role": "BOWL"
-        },
-        {
-          "match_points": 0,
-          "id": "p_1773942218454",
-          "percentC": "0",
-          "role": "AR",
-          "sel_percent": "0",
-          "subtitle": "",
-          "credit": 8,
-          "name": "Cvvv",
-          "percentVC": "0",
-          "points": 0,
-          "team": "IND",
-          "img": ""
-        },
-        {
-          "points": 0,
-          "img": "",
-          "team": "AUS",
-          "credit": 8,
-          "subtitle": "",
-          "name": "Ccc",
-          "percentVC": "0",
-          "sel_percent": "0",
-          "percentC": "0",
-          "role": "AR",
-          "id": "p_1773942224364",
-          "match_points": 0
-        },
-        {
-          "match_points": 0,
-          "sel_percent": "0",
-          "role": "AR",
-          "id": "p_1773942230163",
-          "percentC": "0",
-          "subtitle": "",
-          "credit": 8,
-          "percentVC": "0",
-          "name": "Vvvv",
-          "points": 0,
-          "team": "AUS",
-          "img": ""
-        },
-        {
-          "match_points": 0,
-          "percentC": "0",
-          "sel_percent": "0",
-          "id": "p_1773942238117",
-          "role": "BOWL",
-          "credit": 8,
-          "subtitle": "",
-          "percentVC": "0",
-          "name": "Vvv",
-          "points": 0,
-          "img": "",
-          "team": "AUS"
-        },
-        {
-          "match_points": 0,
-          "percentC": "0",
-          "sel_percent": "0",
-          "id": "p_1773942244512",
-          "role": "BOWL",
-          "name": "Ccc",
-          "percentVC": "0",
-          "subtitle": "",
-          "credit": 8,
-          "team": "IND",
-          "img": "",
-          "points": 0
-        }
-      ],
-      "title": "T20",
-      "teamA_img": "",
       "status": "open",
+      "updatedAt": {
+        "seconds": 1773944223,
+        "nanoseconds": 964000000
+      },
+      "teamB_full": "",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamB_name": "AUS",
       "contests": [
         {
-          "name": "Mega Contest",
           "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "win_percent": "60%",
-          "participants": [],
-          "max_teams": 11,
-          "entry_fee": 1,
+          "filled_spots": 3,
           "prize_pool": "1 Lakh",
-          "filled_spots": 0,
-          "total_spots": 10
+          "total_spots": 10,
+          "name": "Mega Contest",
+          "max_teams": 1,
+          "win_percent": "60%",
+          "participants": [
+            "ifUXTjgPLPbA7WxVDj7G1q2YMpf1_T1",
+            "LBkJPCNgIXXbqfbmPnOPytSrpYU2_T1",
+            "KZOpFJ2ZNqhas4iq3p4y9Nb0b573_T1"
+          ],
+          "entry_fee": 1
         }
       ],
-      "teamB_img": "",
-      "teamB_full": "",
-      "start_time": "2026-03-19T05:11",
-      "teamA_full": "",
       "createdAt": {
         "seconds": 1773942122,
         "nanoseconds": 693000000
       },
+      "title": "T20",
+      "participants": [
+        "ifUXTjgPLPbA7WxVDj7G1q2YMpf1",
+        "LBkJPCNgIXXbqfbmPnOPytSrpYU2",
+        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
+      ],
+      "players": [
+        {
+          "points": 0,
+          "img": "",
+          "percentC": "0",
+          "id": "p_1773942128856",
+          "credit": 8,
+          "team": "IND",
+          "role": "WK",
+          "percentVC": "0",
+          "subtitle": "",
+          "match_points": 0,
+          "sel_percent": "0",
+          "name": "Bbbb"
+        },
+        {
+          "percentC": "0",
+          "id": "p_1773942154591",
+          "credit": 8,
+          "points": 0,
+          "img": "",
+          "name": "Vhhhh",
+          "team": "IND",
+          "role": "WK",
+          "percentVC": "0",
+          "subtitle": "",
+          "match_points": 0,
+          "sel_percent": "0"
+        },
+        {
+          "name": "Vvghu",
+          "match_points": 0,
+          "sel_percent": "0",
+          "role": "WK",
+          "team": "AUS",
+          "subtitle": "",
+          "percentVC": "0",
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942164628",
+          "img": "",
+          "points": 0
+        },
+        {
+          "name": "Vvvgg",
+          "role": "WK",
+          "team": "AUS",
+          "percentVC": "0",
+          "subtitle": "",
+          "match_points": 0,
+          "sel_percent": "0",
+          "percentC": "0",
+          "id": "p_1773942193683",
+          "credit": 8,
+          "points": 0,
+          "img": ""
+        },
+        {
+          "percentVC": "0",
+          "subtitle": "",
+          "team": "IND",
+          "role": "BAT",
+          "sel_percent": "0",
+          "match_points": 0,
+          "name": "Vvvgg",
+          "points": 0,
+          "img": "",
+          "id": "p_1773942201415",
+          "percentC": "0",
+          "credit": 8
+        },
+        {
+          "img": "",
+          "points": 0,
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942206664",
+          "sel_percent": "0",
+          "match_points": 0,
+          "subtitle": "",
+          "percentVC": "0",
+          "team": "IND",
+          "role": "BAT",
+          "name": "Vvh"
+        },
+        {
+          "name": "Ccvv",
+          "sel_percent": "0",
+          "match_points": 0,
+          "percentVC": "0",
+          "subtitle": "",
+          "role": "BOWL",
+          "team": "IND",
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942212066",
+          "img": "",
+          "points": 0
+        },
+        {
+          "img": "",
+          "points": 0,
+          "credit": 8,
+          "id": "p_1773942218454",
+          "percentC": "0",
+          "match_points": 0,
+          "sel_percent": "0",
+          "subtitle": "",
+          "percentVC": "0",
+          "role": "AR",
+          "team": "IND",
+          "name": "Cvvv"
+        },
+        {
+          "name": "Ccc",
+          "sel_percent": "0",
+          "match_points": 0,
+          "role": "AR",
+          "team": "AUS",
+          "subtitle": "",
+          "percentVC": "0",
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942224364",
+          "img": "",
+          "points": 0
+        },
+        {
+          "points": 0,
+          "img": "",
+          "id": "p_1773942230163",
+          "percentC": "0",
+          "credit": 8,
+          "role": "AR",
+          "team": "AUS",
+          "percentVC": "0",
+          "subtitle": "",
+          "match_points": 0,
+          "sel_percent": "0",
+          "name": "Vvvv"
+        },
+        {
+          "img": "",
+          "points": 0,
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942238117",
+          "match_points": 0,
+          "sel_percent": "0",
+          "percentVC": "0",
+          "subtitle": "",
+          "role": "BOWL",
+          "team": "AUS",
+          "name": "Vvv"
+        },
+        {
+          "img": "",
+          "points": 0,
+          "credit": 8,
+          "percentC": "0",
+          "id": "p_1773942244512",
+          "match_points": 0,
+          "sel_percent": "0",
+          "role": "BOWL",
+          "team": "IND",
+          "percentVC": "0",
+          "subtitle": "",
+          "name": "Ccc"
+        }
+      ],
+      "teamB_img": "",
+      "teamA_full": "",
+      "start_time": "2026-03-19T05:11",
+      "show_leaderboard": false,
       "teamA_name": "IND",
-      "updatedAt": {
-        "seconds": 1773942122,
-        "nanoseconds": 693000000
-      },
+      "teamA_img": "",
       "id": "hK6oy19AraXnrSt0YNCH"
     }
   ],
   "sliders": [
     {
-      "title": "",
       "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg"
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
       "desc": "",
-      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt"
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
     },
     {
-      "title": "",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg"
+      "title": ""
     },
     {
-      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "desc": "",
       "title": ""
     },
     {
-      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg"
+      "title": ""
     },
     {
-      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "desc": "",
       "title": ""
-    },
-    {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
-      "desc": ""
     },
     {
       "desc": "",
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg"
+    },
+    {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
-      "title": ""
+      "title": "",
+      "desc": ""
     },
     {
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
@@ -284,92 +293,86 @@
       "title": ""
     },
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "desc": ""
+      "desc": "",
+      "title": ""
     }
   ],
   "notifications": [],
   "media": [],
   "ads": [
     {
-      "title": "Watch ad",
+      "watchTime": 15,
       "totalViews": 1,
+      "linkUrl": "",
       "cooldownMinutes": 60,
       "intervalSeconds": 0,
       "reward": 0.05,
-      "watchTime": 15,
-      "linkUrl": "",
+      "title": "Watch ad",
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "intervalSeconds": 0,
       "watchTime": 15,
-      "reward": 0.05,
+      "totalViews": 1,
       "linkUrl": "",
       "title": "Watch ad",
-      "totalViews": 1,
+      "intervalSeconds": 0,
       "cooldownMinutes": 60,
+      "reward": 0.05,
       "id": "LJq6ZHNREcs27wMdOZ0O"
     },
     {
-      "intervalSeconds": 0,
-      "linkUrl": "",
-      "reward": 0.05,
       "watchTime": 15,
-      "cooldownMinutes": 60,
       "totalViews": 1,
+      "linkUrl": "",
+      "intervalSeconds": 0,
+      "reward": 0.05,
+      "cooldownMinutes": 60,
       "title": "Watch ad",
       "id": "PlNgjhcVFvwQRX3IQLvC"
     },
     {
+      "adSecurityPassword": "9982833519jitendra",
+      "intervalSeconds": 0,
+      "cooldownMinutes": 60,
+      "reward": 0.05,
       "totalViews": 1,
       "watchTime": 15,
-      "adSecurityPassword": "9982833519jitendra",
-      "reward": 0.05,
-      "linkUrl": "",
       "title": "Watch ads",
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
+      "linkUrl": "",
       "scriptFullTag": "",
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "linkUrl": "https://omg10.com/4/10022830",
-      "reward": 0.05,
-      "watchTime": 5,
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
       "title": "Watch ad",
+      "cooldownMinutes": 60,
+      "intervalSeconds": 0,
+      "reward": 0.05,
+      "linkUrl": "https://omg10.com/4/10022830",
       "totalViews": 1,
+      "watchTime": 5,
       "id": "hLvHlVp7kp3AX91iTLtw"
     }
   ],
   "toasts": [],
   "settings": {
-    "referralCommission": 5,
-    "addMoneyPackages": [
-      {
-        "bonus": 2,
-        "amount": 50
-      },
-      {
-        "amount": 100,
-        "bonus": 3
-      },
-      {
-        "amount": 200,
-        "bonus": 4
-      },
-      {
-        "amount": 300,
-        "bonus": 7
-      },
-      {
-        "bonus": 12,
-        "amount": 500
-      }
+    "profileCooldownHours": 24,
+    "isLogoutLocked": false,
+    "minWithdraw": 10,
+    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
+    "redeemWaitHours": 6,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
     ],
+    "appUpdateLink": "",
+    "withdrawWaitHours": 24,
+    "isMaintenanceMode": false,
+    "isProfileCooldownActive": false,
     "withdrawOptions": [
       10,
       20,
@@ -378,25 +381,31 @@
       250,
       500
     ],
-    "profileCooldownHours": 24,
-    "minWithdraw": 10,
-    "signupBonus": 0,
-    "isLogoutLocked": false,
-    "appUpdateLink": "",
-    "logoutLockDays": 7,
-    "isProfileCooldownActive": false,
-    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
+    "referralCommission": 5,
     "maxWithdraw": 1000,
-    "redeemWaitHours": 6,
-    "isMaintenanceMode": false,
-    "withdrawWaitHours": 24,
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
+    "signupBonus": 0,
+    "logoutLockDays": 7,
+    "addMoneyPackages": [
+      {
+        "bonus": 2,
+        "amount": 50
+      },
+      {
+        "bonus": 3,
+        "amount": 100
+      },
+      {
+        "bonus": 4,
+        "amount": 200
+      },
+      {
+        "bonus": 7,
+        "amount": 300
+      },
+      {
+        "bonus": 12,
+        "amount": 500
+      }
     ]
   }
 }
