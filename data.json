@@ -28,9 +28,9 @@
   ],
   "cricket_matches": [
     {
+      "teamA_name": "NZL",
       "bottom_tag": "Win for Glory 🏏 Join Now!",
       "teamA_full": "New Zealand",
-      "teamA_name": "NZL",
       "teamB_full": "South Africa",
       "teamB_name": "RSA",
       "players": [
@@ -257,35 +257,49 @@
           "percentC": "0",
           "percentVC": "0",
           "sel_percent": "0"
+        },
+        {
+          "id": "p_1773931422749",
+          "name": "Ban sears",
+          "team": "NZL",
+          "role": "BOWL",
+          "credit": 8,
+          "points": 141,
+          "match_points": 0,
+          "img": "",
+          "subtitle": "",
+          "percentC": "0",
+          "percentVC": "0",
+          "sel_percent": "0"
         }
       ],
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
       "contests": [
         {
-          "entry_fee": 0.25,
-          "win_percent": "1 winner 🏆",
-          "filled_spots": 0,
-          "max_teams": 1,
-          "prize_pool": "12",
           "name": "Prize pool",
-          "total_spots": 50,
+          "prize_pool": "12",
           "winners_text": "1 = 12",
-          "participants": []
+          "total_spots": 50,
+          "participants": [],
+          "entry_fee": 0.25,
+          "filled_spots": 0,
+          "win_percent": "1 winner 🏆",
+          "max_teams": 1
         }
       ],
       "createdAt": {
         "seconds": 1773927255,
         "nanoseconds": 83000000
       },
-      "status": "open",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
+      "start_time": "2026-03-20T11:45",
+      "show_leaderboard": false,
+      "title": "New Zealand  vs  South Africa - 3rd T20I",
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
       "updatedAt": {
         "seconds": 1773927632,
         "nanoseconds": 711000000
       },
-      "show_leaderboard": false,
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
-      "start_time": "2026-03-20T11:45",
+      "status": "open",
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
   ],
