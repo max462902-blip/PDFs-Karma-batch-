@@ -1,512 +1,146 @@
 {
   "matches": [
     {
-      "map": "Bermuda",
-      "winners": [],
-      "image_url": "",
-      "prize_slots": [],
-      "entry_fee": 0.25,
       "type": "Solo",
-      "watch_video_id": "",
-      "filled_spots": 3,
-      "prize_pool": 12,
+      "image_url": "",
+      "entry_fee": 0.25,
       "start_time": "2026-03-16T19:28",
-      "req_ads": 10,
       "total_spots": 48,
       "is_ad_match": false,
+      "wait_time": 4,
+      "winners": [],
+      "filled_spots": 3,
       "participants": [
         "dGCjdfEdQbgNnj5JrjEWx4sZmR93",
         "JSybJtGKDMMnSIuLORkMBOH1jcU2",
         "KZOpFJ2ZNqhas4iq3p4y9Nb0b573"
       ],
-      "per_kill": 0.25,
+      "req_ads": 10,
       "status": "open",
-      "wait_time": 4,
-      "ad_cooldown": 15,
+      "watch_video_id": "",
       "title": "Free fire - T1",
+      "prize_slots": [],
+      "per_kill": 0.25,
+      "map": "Bermuda",
+      "prize_pool": 12,
+      "ad_cooldown": 15,
       "id": "eYyUQlmzX9kUcC7OntFM"
     }
   ],
-  "cricket_matches": [
-    {
-      "teamA_name": "NZL",
-      "updatedAt": {
-        "seconds": 1773935957,
-        "nanoseconds": 499000000
-      },
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "players": [
-        {
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_5f195.jpg",
-          "team": "RSA",
-          "sel_percent": "0",
-          "role": "WK",
-          "credit": 8,
-          "name": "Connor Esterhuizen",
-          "points": 121,
-          "id": "p_1773927787672",
-          "match_points": 0,
-          "subtitle": "Played last match",
-          "percentC": "0",
-          "percentVC": "0"
-        },
-        {
-          "subtitle": "Played last match",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0",
-          "credit": 8,
-          "role": "WK",
-          "sel_percent": "0",
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_feaa0.jpg",
-          "team": "NZL",
-          "points": 117,
-          "name": "Devon Conway",
-          "id": "p_1773927973265"
-        },
-        {
-          "id": "p_1773928087874",
-          "points": 78,
-          "name": "Rubin Hermann",
-          "team": "RSA",
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_595ba.jpg",
-          "role": "WK",
-          "sel_percent": "0",
-          "credit": 8,
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": "Played last match"
-        },
-        {
-          "points": 60,
-          "name": "Tom Latham",
-          "id": "p_1773929600885",
-          "img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_6a967.jpg",
-          "team": "NZL",
-          "role": "WK",
-          "credit": 8,
-          "sel_percent": "0",
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": "Played last match"
-        },
-        {
-          "credit": 8,
-          "role": "WK",
-          "sel_percent": "0",
-          "team": "NZL",
-          "img": "",
-          "id": "p_1773929869988",
-          "name": "Dane Cleaver",
-          "points": 0,
-          "subtitle": "",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0"
-        },
-        {
-          "points": 53,
-          "name": "Nick Kelly",
-          "id": "p_1773929953386",
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "BAT",
-          "img": "",
-          "team": "NZL",
-          "percentVC": "0",
-          "percentC": "0",
-          "subtitle": "Played last match",
-          "match_points": 0
-        },
-        {
-          "credit": 7,
-          "sel_percent": "0",
-          "role": "BAT",
-          "team": "RSA",
-          "img": "",
-          "id": "p_1773929994438",
-          "name": "Jason Smith",
-          "points": 38,
-          "subtitle": "Played last match",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0"
-        },
-        {
-          "name": "Tim rubinson",
-          "points": 35,
-          "id": "p_1773930034097",
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "BAT",
-          "img": "",
-          "team": "NZL",
-          "percentVC": "0",
-          "percentC": "0",
-          "subtitle": "Played last match",
-          "match_points": 0
-        },
-        {
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": "",
-          "id": "p_1773930105845",
-          "points": 28,
-          "name": "Bevon Jacobs",
-          "team": "NZL",
-          "img": "",
-          "credit": 7.5,
-          "sel_percent": "0",
-          "role": "BAT"
-        },
-        {
-          "percentVC": "0",
-          "percentC": "0",
-          "subtitle": "",
-          "match_points": 0,
-          "name": "Tony de zorzi",
-          "points": 19,
-          "id": "p_1773930648840",
-          "sel_percent": "0",
-          "credit": 8,
-          "role": "BAT",
-          "img": "",
-          "team": "RSA"
-        },
-        {
-          "id": "p_1773930703091",
-          "points": 4,
-          "name": "Jordan harmann",
-          "team": "RSA",
-          "img": "",
-          "role": "BAT",
-          "credit": 8,
-          "sel_percent": "0",
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": ""
-        },
-        {
-          "subtitle": "",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0",
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "BAT",
-          "team": "NZL",
-          "img": "",
-          "id": "p_1773930738179",
-          "points": 0,
-          "name": "Katen cleake"
-        },
-        {
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "AR",
-          "img": "",
-          "team": "NZL",
-          "points": 192,
-          "name": "Mitchell santner",
-          "id": "p_1773931227815",
-          "subtitle": "",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0"
-        },
-        {
-          "subtitle": "",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0",
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "AR",
-          "img": "",
-          "team": "RSA",
-          "points": 131,
-          "name": "George linde",
-          "id": "p_1773931281562"
-        },
-        {
-          "id": "p_1773931332594",
-          "name": "Cole msconecine",
-          "points": 113,
-          "credit": 8,
-          "sel_percent": "0",
-          "role": "AR",
-          "team": "NZL",
-          "img": "",
-          "percentVC": "0",
-          "percentC": "0",
-          "subtitle": "",
-          "match_points": 0
-        },
-        {
-          "points": 106,
-          "name": "Wiaan Mulder",
-          "id": "p_1773931362406",
-          "img": "",
-          "team": "NZL",
-          "role": "AR",
-          "credit": 8,
-          "sel_percent": "0",
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": ""
-        },
-        {
-          "subtitle": "",
-          "match_points": 0,
-          "percentVC": "0",
-          "percentC": "0",
-          "credit": 8,
-          "role": "BOWL",
-          "sel_percent": "0",
-          "img": "",
-          "team": "NZL",
-          "points": 141,
-          "name": "Ban sears",
-          "id": "p_1773931422749"
-        },
-        {
-          "match_points": 0,
-          "subtitle": "",
-          "percentC": "0",
-          "percentVC": "0",
-          "img": "",
-          "team": "NZL",
-          "sel_percent": "0",
-          "credit": 8,
-          "role": "BOWL",
-          "name": "Lockei",
-          "points": 148,
-          "id": "p_1773931458716"
-        },
-        {
-          "team": "RSA",
-          "img": "",
-          "sel_percent": "0",
-          "role": "BOWL",
-          "credit": 8,
-          "id": "p_1773931522547",
-          "points": 148,
-          "name": "Ottneil",
-          "match_points": 0,
-          "subtitle": "",
-          "percentC": "0",
-          "percentVC": "0"
-        },
-        {
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": "",
-          "name": "Kasav",
-          "points": 142,
-          "id": "p_1773931550165",
-          "img": "",
-          "team": "RSA",
-          "credit": 8,
-          "role": "BOWL",
-          "sel_percent": "0"
-        },
-        {
-          "percentC": "0",
-          "percentVC": "0",
-          "match_points": 0,
-          "subtitle": "",
-          "points": 62,
-          "name": "Kyle",
-          "id": "p_1773931574037",
-          "img": "",
-          "team": "NZL",
-          "sel_percent": "0",
-          "credit": 8,
-          "role": "BOWL"
-        }
-      ],
-      "show_leaderboard": false,
-      "teamA_full": "New Zealand",
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
-      "status": "open",
-      "teamB_full": "South Africa",
-      "createdAt": {
-        "seconds": 1773927255,
-        "nanoseconds": 83000000
-      },
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
-      "contests": [
-        {
-          "prize_pool": "₹12 रूपए",
-          "filled_spots": 7,
-          "name": "Prize pool",
-          "entry_fee": 0.25,
-          "win_percent": "1 winner 🏆",
-          "max_teams": 2,
-          "winners_text": "1 = 12",
-          "participants": [
-            "zYLLNnjXipgJtz6501JM11u2CR23_T1",
-            "KZOpFJ2ZNqhas4iq3p4y9Nb0b573_T1",
-            "JSybJtGKDMMnSIuLORkMBOH1jcU2_T1",
-            "LBkJPCNgIXXbqfbmPnOPytSrpYU2_T1",
-            "Vins2jMUSzMj8micUa19Wu3ZPGH2_T1",
-            "SVIi76O087gGPsjWWVQ0ko1LVNm1_T1",
-            "laHXTbx7zcU9YweFBjNVXKfStOj1_T1"
-          ],
-          "total_spots": 50
-        }
-      ],
-      "participants": [
-        "zYLLNnjXipgJtz6501JM11u2CR23",
-        "KZOpFJ2ZNqhas4iq3p4y9Nb0b573",
-        "JSybJtGKDMMnSIuLORkMBOH1jcU2",
-        "LBkJPCNgIXXbqfbmPnOPytSrpYU2",
-        "Vins2jMUSzMj8micUa19Wu3ZPGH2",
-        "SVIi76O087gGPsjWWVQ0ko1LVNm1",
-        "laHXTbx7zcU9YweFBjNVXKfStOj1"
-      ],
-      "start_time": "2026-03-20T11:45",
-      "teamB_name": "RSA",
-      "id": "TgGUhmDphqjIbxgNu2dN"
-    }
-  ],
+  "cricket_matches": [],
   "sliders": [
     {
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
-      "title": ""
-    },
-    {
-      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
-      "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
+      "desc": ""
     },
     {
-      "desc": "",
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "desc": ""
+    },
+    {
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "title": "",
+      "desc": ""
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "title": "",
+      "desc": ""
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
+      "desc": ""
+    },
+    {
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
       "title": ""
     },
     {
-      "desc": "",
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
-    },
-    {
-      "desc": "",
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg"
-    },
-    {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
-      "desc": ""
-    },
-    {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "title": "",
       "desc": ""
     },
     {
       "desc": "",
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
+      "title": ""
     },
     {
-      "desc": "",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "title": ""
+      "title": "",
+      "desc": ""
     },
     {
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "title": ""
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
     }
   ],
   "notifications": [],
   "media": [],
   "ads": [
     {
-      "totalViews": 1,
-      "watchTime": 15,
-      "linkUrl": "",
-      "title": "Watch ad",
-      "cooldownMinutes": 60,
       "intervalSeconds": 0,
+      "linkUrl": "",
+      "totalViews": 1,
+      "cooldownMinutes": 60,
       "reward": 0.05,
+      "watchTime": 15,
+      "title": "Watch ad",
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "totalViews": 1,
-      "reward": 0.05,
       "cooldownMinutes": 60,
+      "totalViews": 1,
       "intervalSeconds": 0,
       "linkUrl": "",
       "watchTime": 15,
+      "reward": 0.05,
       "title": "Watch ad",
       "id": "LJq6ZHNREcs27wMdOZ0O"
     },
     {
+      "title": "Watch ad",
+      "watchTime": 15,
+      "reward": 0.05,
       "totalViews": 1,
       "cooldownMinutes": 60,
-      "reward": 0.05,
       "intervalSeconds": 0,
       "linkUrl": "",
-      "watchTime": 15,
-      "title": "Watch ad",
       "id": "PlNgjhcVFvwQRX3IQLvC"
     },
     {
-      "intervalSeconds": 0,
-      "title": "Watch ads",
-      "linkUrl": "",
-      "totalViews": 1,
-      "reward": 0.05,
-      "adSecurityPassword": "9982833519jitendra",
       "cooldownMinutes": 60,
-      "watchTime": 15,
+      "linkUrl": "",
+      "intervalSeconds": 0,
+      "adSecurityPassword": "9982833519jitendra",
       "scriptFullTag": "",
+      "totalViews": 1,
+      "title": "Watch ads",
+      "watchTime": 15,
+      "reward": 0.05,
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "title": "Watch ad",
-      "linkUrl": "https://omg10.com/4/10022830",
       "watchTime": 5,
       "reward": 0.05,
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
+      "title": "Watch ad",
       "totalViews": 1,
+      "cooldownMinutes": 60,
+      "intervalSeconds": 0,
+      "linkUrl": "https://omg10.com/4/10022830",
       "id": "hLvHlVp7kp3AX91iTLtw"
     }
   ],
   "toasts": [],
   "settings": {
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
-    ],
-    "redeemWaitHours": 6,
     "addMoneyPackages": [
       {
         "bonus": 2,
@@ -529,17 +163,34 @@
         "amount": 500
       }
     ],
-    "isLogoutLocked": false,
-    "isMaintenanceMode": false,
+    "redeemWaitHours": 6,
     "signupBonus": 0,
-    "appUpdateLink": "",
-    "minWithdraw": 10,
-    "logoutLockDays": 7,
+    "isLogoutLocked": false,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
     "isProfileCooldownActive": false,
-    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
     "referralCommission": 5,
     "withdrawWaitHours": 24,
     "profileCooldownHours": 24,
-    "maxWithdraw": 1000
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
+    "appUpdateLink": "",
+    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
+    "minWithdraw": 10,
+    "maxWithdraw": 1000,
+    "isMaintenanceMode": false,
+    "logoutLockDays": 7
   }
 }
