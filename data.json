@@ -227,36 +227,50 @@
           "percentC": "0",
           "percentVC": "0",
           "sel_percent": "0"
+        },
+        {
+          "id": "p_1773931332594",
+          "name": "Cole msconecine",
+          "team": "NZL",
+          "role": "AR",
+          "credit": 8,
+          "points": 113,
+          "match_points": 0,
+          "img": "",
+          "subtitle": "",
+          "percentC": "0",
+          "percentVC": "0",
+          "sel_percent": "0"
         }
       ],
       "teamB_name": "RSA",
       "teamB_full": "South Africa",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
       "createdAt": {
         "seconds": 1773927255,
         "nanoseconds": 83000000
       },
       "contests": [
         {
-          "name": "Prize pool",
-          "prize_pool": "12",
-          "winners_text": "1 = 12",
-          "total_spots": 50,
-          "participants": [],
-          "entry_fee": 0.25,
-          "filled_spots": 0,
           "win_percent": "1 winner 🏆",
-          "max_teams": 1
+          "filled_spots": 0,
+          "max_teams": 1,
+          "entry_fee": 0.25,
+          "total_spots": 50,
+          "winners_text": "1 = 12",
+          "participants": [],
+          "prize_pool": "12",
+          "name": "Prize pool"
         }
       ],
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
+      "show_leaderboard": false,
+      "title": "New Zealand  vs  South Africa - 3rd T20I",
       "updatedAt": {
         "seconds": 1773927632,
         "nanoseconds": 711000000
       },
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
       "status": "open",
-      "show_leaderboard": false,
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
       "start_time": "2026-03-20T11:45",
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
