@@ -32,25 +32,34 @@
         "seconds": 1773927255,
         "nanoseconds": 83000000
       },
+      "updatedAt": {
+        "seconds": 1773927632,
+        "nanoseconds": 711000000
+      },
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
       "contests": [
         {
-          "participants": [],
-          "name": "Prize pool",
-          "total_spots": 50,
+          "max_teams": 1,
           "win_percent": "1 winner 🏆",
-          "filled_spots": 0,
+          "total_spots": 50,
           "winners_text": "1 = 12",
-          "entry_fee": 0.25,
+          "participants": [],
           "prize_pool": "12",
-          "max_teams": 1
+          "entry_fee": 0.25,
+          "name": "Prize pool",
+          "filled_spots": 0
         }
       ],
-      "show_leaderboard": false,
       "teamA_full": "New Zealand",
-      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
-      "title": "New Zealand  vs  South Africa - 3rd T20I",
+      "show_leaderboard": false,
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "status": "open",
       "start_time": "2026-03-20T11:45",
+      "teamA_name": "NZL",
+      "title": "New Zealand  vs  South Africa - 3rd T20I",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
       "teamB_name": "RSA",
+      "teamB_full": "South Africa",
       "players": [
         {
           "sel_percent": "0",
@@ -93,17 +102,22 @@
           "percentC": "0",
           "percentVC": "0",
           "sel_percent": "0"
+        },
+        {
+          "id": "p_1773929600885",
+          "name": "Tom Latham",
+          "team": "NZL",
+          "role": "WK",
+          "credit": 8,
+          "points": 60,
+          "match_points": 0,
+          "img": "",
+          "subtitle": "Played last match",
+          "percentC": "0",
+          "percentVC": "0",
+          "sel_percent": "0"
         }
       ],
-      "teamB_full": "South Africa",
-      "status": "open",
-      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c96eb.jpg",
-      "teamA_name": "NZL",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "updatedAt": {
-        "seconds": 1773927632,
-        "nanoseconds": 711000000
-      },
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
   ],
