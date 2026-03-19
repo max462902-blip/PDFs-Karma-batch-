@@ -60,6 +60,22 @@
       "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cbd74.jpg",
       "teamB_full": "South Africa",
       "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "players": [
+        {
+          "id": "p_1773927787672",
+          "name": "Connor Esterhuizen",
+          "team": "RSA",
+          "role": "WK",
+          "credit": 8,
+          "points": 121,
+          "match_points": 0,
+          "img": "",
+          "subtitle": "Played last match",
+          "percentC": "0",
+          "percentVC": "0",
+          "sel_percent": "0"
+        }
+      ],
       "id": "TgGUhmDphqjIbxgNu2dN"
     }
   ],
