@@ -164,7 +164,7 @@
     "redeemWaitHours": 6,
     "signupBonus": 0,
     "referralCommission": 2,
-    "razorpayKey": "rzp_test_Rm3A0qKAGKB7SV",
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "withdrawOptions": [
       10,
       20,
