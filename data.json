@@ -1,40 +1,41 @@
 {
   "matches": [
     {
-      "winners": [],
       "image_url": "",
-      "req_ads": 10,
-      "entry_fee": 0,
-      "start_time": "2026-03-21T20:30",
       "per_kill": 20,
-      "map": "Bermuda",
+      "total_spots": 48,
+      "prize_pool": 12,
+      "status": "open",
+      "participants": [
+        "laHXTbx7zcU9YweFBjNVXKfStOj1",
+        "JSybJtGKDMMnSIuLORkMBOH1jcU2"
+      ],
+      "wait_time": 3,
+      "type": "Solo",
+      "ad_cooldown": 120,
+      "title": "Free fire - T1",
       "prize_slots": [
         {
-          "name": "",
-          "prize": 7,
           "rank": "1",
-          "uid": ""
+          "uid": "",
+          "prize": 7,
+          "name": ""
         },
         {
           "rank": "2",
+          "prize": 5,
           "uid": "",
-          "name": "",
-          "prize": 5
+          "name": ""
         }
       ],
+      "req_ads": 10,
+      "start_time": "2026-03-21T20:30",
+      "map": "Bermuda",
+      "entry_fee": 0,
       "is_ad_match": true,
-      "total_spots": 48,
-      "participants": [
-        "laHXTbx7zcU9YweFBjNVXKfStOj1"
-      ],
-      "title": "Free fire - T1",
-      "status": "open",
-      "wait_time": 3,
-      "prize_pool": 12,
-      "ad_cooldown": 120,
+      "winners": [],
       "watch_video_id": "",
-      "filled_spots": 1,
-      "type": "Solo",
+      "filled_spots": 2,
       "id": "LoDHzI42YB3eGRhOWvxE"
     }
   ],
@@ -325,6 +326,20 @@
   "notifications": [],
   "media": [],
   "ads": [
+    {
+      "title": "Hh",
+      "reward": 1,
+      "cooldownMinutes": 60,
+      "totalViews": 2,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "adNetwork": "adsgram",
+      "scriptFullTag": "",
+      "adsgramBlockId": "25587",
+      "adSecurityPassword": "",
+      "id": "8jId6hPo9Jv84SR9MK7n"
+    },
     {
       "cooldownMinutes": 60,
       "reward": 0.05,
