@@ -1,40 +1,40 @@
 {
   "matches": [
     {
-      "req_ads": 0,
-      "status": "open",
+      "ad_cooldown": 30,
+      "filled_spots": 1,
+      "entry_fee": 0,
+      "image_url": "",
       "prize_slots": [
         {
-          "rank": "1",
-          "name": "",
           "uid": "",
-          "prize": 7
+          "prize": 7,
+          "rank": "1",
+          "name": ""
         },
         {
-          "rank": "2",
           "name": "",
-          "uid": "",
-          "prize": 5
+          "rank": "2",
+          "prize": 5,
+          "uid": ""
         }
       ],
       "watch_video_id": "",
+      "type": "Solo",
+      "title": "Free fire - T1",
+      "total_spots": 48,
+      "map": "Bermuda",
+      "per_kill": 20,
+      "req_ads": 3,
       "participants": [
         "laHXTbx7zcU9YweFBjNVXKfStOj1"
       ],
-      "title": "Free fire - T1",
-      "start_time": "2026-03-21T20:30",
-      "total_spots": 48,
-      "map": "Bermuda",
-      "is_ad_match": false,
-      "winners": [],
-      "image_url": "",
       "prize_pool": 12,
-      "filled_spots": 1,
-      "entry_fee": 0.25,
       "wait_time": 3,
-      "ad_cooldown": 30,
-      "per_kill": 0,
-      "type": "Solo",
+      "is_ad_match": true,
+      "winners": [],
+      "start_time": "2026-03-21T20:30",
+      "status": "open",
       "id": "LoDHzI42YB3eGRhOWvxE"
     }
   ],
@@ -152,27 +152,6 @@
   ],
   "toasts": [],
   "settings": {
-    "isMaintenanceMode": false,
-    "appUpdateLink": "",
-    "profileCooldownHours": 24,
-    "isProfileCooldownActive": true,
-    "logoutLockDays": 15,
-    "isLogoutLocked": true,
-    "minWithdraw": 10,
-    "maxWithdraw": 1000,
-    "withdrawWaitHours": 24,
-    "redeemWaitHours": 6,
-    "signupBonus": 0,
-    "referralCommission": 2,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
     "redeemOptions": [
       9,
       29,
@@ -181,26 +160,47 @@
       100,
       159
     ],
+    "isLogoutLocked": true,
+    "logoutLockDays": 15,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
+    "referralCommission": 2,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "isProfileCooldownActive": true,
+    "profileCooldownHours": 24,
+    "appUpdateLink": "",
+    "isMaintenanceMode": false,
+    "withdrawWaitHours": 24,
+    "signupBonus": 0,
+    "redeemWaitHours": 6,
+    "minWithdraw": 10,
+    "maxWithdraw": 1000,
     "addMoneyPackages": [
       {
-        "amount": 50,
-        "bonus": 0
+        "bonus": 0,
+        "amount": 50
       },
       {
         "amount": 100,
         "bonus": 2
       },
       {
-        "amount": 200,
-        "bonus": 3
+        "bonus": 3,
+        "amount": 200
       },
       {
         "amount": 300,
         "bonus": 4
       },
       {
-        "amount": 500,
-        "bonus": 5
+        "bonus": 5,
+        "amount": 500
       }
     ]
   }
