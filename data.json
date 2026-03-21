@@ -1,40 +1,40 @@
 {
   "matches": [
     {
-      "participants": [
-        "laHXTbx7zcU9YweFBjNVXKfStOj1"
-      ],
       "start_time": "2026-03-21T20:30",
-      "ad_cooldown": 15,
+      "ad_cooldown": 120,
+      "wait_time": 3,
+      "filled_spots": 1,
+      "watch_video_id": "",
+      "per_kill": 20,
+      "title": "Free fire - T1",
       "prize_pool": 12,
       "winners": [],
+      "image_url": "",
+      "map": "Bermuda",
+      "total_spots": 48,
+      "is_ad_match": true,
       "prize_slots": [
         {
           "uid": "",
+          "name": "",
           "prize": 7,
-          "rank": "1",
-          "name": ""
+          "rank": "1"
         },
         {
-          "rank": "2",
-          "prize": 5,
           "uid": "",
-          "name": ""
+          "name": "",
+          "prize": 5,
+          "rank": "2"
         }
       ],
-      "map": "Bermuda",
-      "filled_spots": 1,
-      "entry_fee": 0,
-      "req_ads": 3,
-      "per_kill": 20,
-      "wait_time": 3,
-      "type": "Solo",
-      "is_ad_match": true,
-      "title": "Free fire - T1",
-      "total_spots": 48,
-      "watch_video_id": "",
+      "req_ads": 6,
       "status": "open",
-      "image_url": "",
+      "participants": [
+        "laHXTbx7zcU9YweFBjNVXKfStOj1"
+      ],
+      "entry_fee": 0,
+      "type": "Solo",
       "id": "LoDHzI42YB3eGRhOWvxE"
     }
   ],
