@@ -327,17 +327,17 @@
   "media": [],
   "ads": [
     {
-      "title": "Hh",
-      "reward": 1,
-      "cooldownMinutes": 60,
-      "totalViews": 2,
-      "intervalSeconds": 0,
-      "linkUrl": "",
-      "watchTime": 15,
-      "adNetwork": "adsgram",
-      "scriptFullTag": "",
       "adsgramBlockId": "25587",
+      "reward": 1,
       "adSecurityPassword": "",
+      "adNetwork": "adsgram",
+      "intervalSeconds": 0,
+      "scriptFullTag": "",
+      "watchTime": 15,
+      "cooldownMinutes": 60,
+      "title": "Hh",
+      "linkUrl": "",
+      "totalViews": 2,
       "id": "8jId6hPo9Jv84SR9MK7n"
     },
     {
