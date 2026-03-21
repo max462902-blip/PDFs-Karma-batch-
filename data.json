@@ -19,21 +19,21 @@
       "map": "Bermuda",
       "prize_slots": [
         {
+          "rank": "1",
           "prize": 7,
           "name": "",
-          "uid": "",
-          "rank": "1"
+          "uid": ""
         },
         {
+          "rank": "2",
           "prize": 5,
           "name": "",
-          "uid": "",
-          "rank": "2"
+          "uid": ""
         }
       ],
       "winners": [],
       "image_url": "",
-      "req_ads": 9,
+      "req_ads": 10,
       "entry_fee": 0,
       "id": "LoDHzI42YB3eGRhOWvxE"
     }
