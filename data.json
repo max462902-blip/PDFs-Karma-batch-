@@ -299,6 +299,12 @@
     },
     {
       "title": "",
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2b222.jpg",
+      "actionUrl": ""
+    },
+    {
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
       "desc": ""
     },
@@ -392,22 +398,12 @@
   ],
   "toasts": [],
   "settings": {
-    "withdrawWaitHours": 24,
-    "globalMonetagZone": "10055173",
-    "globalAdsgramId": "25587",
-    "isMaintenanceMode": false,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
-    ],
-    "autoDeletePersonalNotifs": 1,
-    "maxWithdraw": 1000,
+    "signupBonus": 0,
+    "logoutLockDays": 15,
     "referralCommission": 2,
+    "withdrawWaitHours": 24,
+    "redeemWaitHours": 6,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "withdrawOptions": [
       10,
       20,
@@ -416,9 +412,17 @@
       250,
       500
     ],
-    "logoutLockDays": 15,
-    "isLogoutLocked": false,
-    "appUpdateLink": "",
+    "isProfileCooldownActive": true,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
+    "isMaintenanceMode": false,
+    "globalMonetagZone": "10055173",
     "addMoneyPackages": [
       {
         "bonus": 0,
@@ -441,10 +445,12 @@
         "amount": 500
       }
     ],
-    "signupBonus": 0,
-    "redeemWaitHours": 6,
-    "isProfileCooldownActive": true,
+    "maxWithdraw": 1000,
+    "appUpdateLink": "",
     "minWithdraw": 10,
-    "profileCooldownHours": 24
+    "profileCooldownHours": 24,
+    "autoDeletePersonalNotifs": 3,
+    "isLogoutLocked": false,
+    "globalAdsgramId": "25587"
   }
 }
