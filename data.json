@@ -324,7 +324,17 @@
       "desc": ""
     }
   ],
-  "notifications": [],
+  "notifications": [
+    {
+      "title": "꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂",
+      "userId": "all",
+      "code": "Xkgkxgxkmx",
+      "message": "Jjji",
+      "timestamp": "2026-03-22T06:32:29.232Z",
+      "type": "code",
+      "id": "Eyh4gVRygdUDtJPznLRy"
+    }
+  ],
   "media": [],
   "ads": [
     {
@@ -392,49 +402,11 @@
   ],
   "toasts": [],
   "settings": {
-    "signupBonus": 0,
     "withdrawWaitHours": 24,
-    "globalAdsgramId": "25587",
-    "appUpdateLink": "",
-    "addMoneyPackages": [
-      {
-        "amount": 50,
-        "bonus": 0
-      },
-      {
-        "amount": 100,
-        "bonus": 2
-      },
-      {
-        "bonus": 3,
-        "amount": 200
-      },
-      {
-        "amount": 300,
-        "bonus": 4
-      },
-      {
-        "amount": 500,
-        "bonus": 5
-      }
-    ],
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
-    "isMaintenanceMode": false,
-    "referralCommission": 2,
-    "profileCooldownHours": 24,
-    "redeemWaitHours": 6,
-    "isProfileCooldownActive": true,
-    "minWithdraw": 10,
-    "isLogoutLocked": false,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "globalMonetagZone": "10055173",
+    "globalAdsgramId": "25587",
+    "isMaintenanceMode": false,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "redeemOptions": [
       9,
       29,
@@ -443,7 +415,46 @@
       100,
       159
     ],
+    "autoDeletePersonalNotifs": 1,
     "maxWithdraw": 1000,
-    "logoutLockDays": 15
+    "referralCommission": 2,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
+    "logoutLockDays": 15,
+    "isLogoutLocked": false,
+    "appUpdateLink": "",
+    "addMoneyPackages": [
+      {
+        "bonus": 0,
+        "amount": 50
+      },
+      {
+        "bonus": 2,
+        "amount": 100
+      },
+      {
+        "bonus": 3,
+        "amount": 200
+      },
+      {
+        "bonus": 4,
+        "amount": 300
+      },
+      {
+        "bonus": 5,
+        "amount": 500
+      }
+    ],
+    "signupBonus": 0,
+    "redeemWaitHours": 6,
+    "isProfileCooldownActive": true,
+    "minWithdraw": 10,
+    "profileCooldownHours": 24
   }
 }
