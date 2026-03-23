@@ -128,22 +128,7 @@
       "id": "hLvHlVp7kp3AX91iTLtw"
     }
   ],
-  "toasts": [
-    {
-      "frequency": "always",
-      "type": "info",
-      "status": "active",
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
-      "title": "Full watch",
-      "message": "Subi y video dekho",
-      "target": "all",
-      "timestamp": {
-        "seconds": 1774179719,
-        "nanoseconds": 591000000
-      },
-      "id": "e4WPWTU2jVCMEznazfiH"
-    }
-  ],
+  "toasts": [],
   "settings": {
     "logoutLockDays": 15,
     "globalMonetagZone": "10055173",
