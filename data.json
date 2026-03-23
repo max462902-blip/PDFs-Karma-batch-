@@ -1,46 +1,5 @@
 {
-  "matches": [
-    {
-      "entry_fee": 0,
-      "per_kill": 0,
-      "ad_network_type": "adsgram",
-      "type": "Solo",
-      "winners": [],
-      "prize_pool": 12,
-      "status": "open",
-      "participants": [
-        "laHXTbx7zcU9YweFBjNVXKfStOj1",
-        "JSybJtGKDMMnSIuLORkMBOH1jcU2",
-        "MWbFFjp6EgaoSrSUvxTYGJUtDR82"
-      ],
-      "start_time": "2026-03-21T20:30",
-      "ad_cooldown": 15,
-      "total_spots": 20,
-      "req_ads": 3,
-      "map": "Bermuda",
-      "title": "Free fire - T1",
-      "wait_time": 3,
-      "watch_video_id": "",
-      "prize_slots": [
-        {
-          "uid": "",
-          "rank": "1",
-          "name": "",
-          "prize": 7
-        },
-        {
-          "rank": "2",
-          "uid": "",
-          "prize": 5,
-          "name": ""
-        }
-      ],
-      "filled_spots": 3,
-      "image_url": "",
-      "is_ad_match": true,
-      "id": "LoDHzI42YB3eGRhOWvxE"
-    }
-  ],
+  "matches": [],
   "cricket_matches": [],
   "sliders": [
     {
