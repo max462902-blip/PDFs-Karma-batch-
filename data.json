@@ -1,6 +1,35 @@
 {
   "matches": [
     {
+      "prize_slots": [
+        {
+          "rank": "1",
+          "uid": "",
+          "prize": 5,
+          "name": ""
+        }
+      ],
+      "wait_time": 3,
+      "status": "open",
+      "total_spots": 48,
+      "watch_video_id": "",
+      "filled_spots": 0,
+      "req_ads": 2,
+      "prize_pool": 5,
+      "map": "Bermuda",
+      "ad_cooldown": 15,
+      "is_ad_match": true,
+      "start_time": "2026-03-25T19:30",
+      "type": "Solo",
+      "title": "Free fire T1",
+      "participants": [],
+      "per_kill": 0,
+      "entry_fee": 0,
+      "image_url": "",
+      "winners": [],
+      "id": "465gHM6qAhgWzSyZJ30x"
+    },
+    {
       "winners": [],
       "image_url": "",
       "entry_fee": 0,
