@@ -1,26 +1,26 @@
 {
   "matches": [
     {
-      "per_kill": 0,
-      "entry_fee": 0,
-      "image_url": "",
       "winners": [],
-      "start_time": "2026-03-24T21:00",
-      "type": "Duo",
+      "image_url": "",
+      "entry_fee": 0,
+      "per_kill": 0,
+      "title": "Costam 2 v 2",
       "participants": [],
-      "title": "Free fire t1",
+      "type": "Duo",
+      "start_time": "2026-03-24T21:00",
+      "is_ad_match": true,
       "ad_cooldown": 15,
-      "is_ad_match": false,
+      "map": "Costam",
       "prize_pool": 0,
-      "map": "Bermuda",
-      "filled_spots": 0,
       "req_ads": 2,
-      "total_spots": 48,
+      "filled_spots": 0,
       "watch_video_id": "",
+      "total_spots": 4,
+      "status": "open",
       "wait_time": 3,
       "prize_slots": [],
-      "status": "open",
-      "id": "qWUnzuBM9wNk79EPLcV5"
+      "id": "DFSj9NTupUVKkEhavtyq"
     }
   ],
   "cricket_matches": [],
