@@ -1,54 +1,25 @@
 {
   "matches": [
     {
-      "prize_slots": [
-        {
-          "rank": "1",
-          "uid": "",
-          "prize": 5,
-          "name": ""
-        }
-      ],
-      "wait_time": 3,
-      "status": "open",
-      "total_spots": 48,
-      "watch_video_id": "",
-      "filled_spots": 0,
-      "req_ads": 2,
-      "prize_pool": 5,
-      "map": "Bermuda",
-      "ad_cooldown": 15,
-      "is_ad_match": true,
-      "start_time": "2026-03-25T19:30",
-      "type": "Solo",
-      "title": "Free fire T1",
-      "participants": [],
-      "per_kill": 0,
+      "start_time": "2026-03-27T18:00",
       "entry_fee": 0,
-      "image_url": "",
-      "winners": [],
-      "id": "465gHM6qAhgWzSyZJ30x"
-    },
-    {
-      "winners": [],
-      "image_url": "",
-      "entry_fee": 0,
-      "per_kill": 0,
-      "title": "Costam 2 v 2",
-      "participants": [],
-      "type": "Duo",
-      "start_time": "2026-03-24T21:00",
-      "is_ad_match": true,
       "ad_cooldown": 15,
+      "per_kill": 20,
+      "image_url": "",
       "map": "Costam",
-      "prize_pool": 0,
-      "req_ads": 2,
-      "filled_spots": 0,
-      "watch_video_id": "",
-      "total_spots": 4,
       "status": "open",
-      "wait_time": 3,
+      "participants": [],
+      "title": "Costam 2 v 2",
+      "filled_spots": 0,
+      "is_ad_match": true,
+      "req_ads": 2,
       "prize_slots": [],
+      "prize_pool": 3000,
+      "winners": [],
+      "wait_time": 3,
+      "watch_video_id": "",
+      "type": "Duo",
+      "total_spots": 4,
       "id": "DFSj9NTupUVKkEhavtyq"
     }
   ],
@@ -242,27 +213,7 @@
   "toasts": [],
   "stories": [],
   "settings": {
-    "isMaintenanceMode": false,
-    "appUpdateLink": "",
-    "profileCooldownHours": 24,
-    "isProfileCooldownActive": false,
-    "logoutLockDays": 15,
-    "isLogoutLocked": false,
-    "minWithdraw": 10,
-    "maxWithdraw": 1000,
-    "withdrawWaitHours": 24,
-    "redeemWaitHours": 6,
-    "signupBonus": 0,
-    "referralCommission": 2,
     "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
     "redeemOptions": [
       9,
       29,
@@ -271,28 +222,48 @@
       100,
       159
     ],
+    "minWithdraw": 10,
+    "signupBonus": 0,
     "addMoneyPackages": [
       {
-        "amount": 50,
-        "bonus": 0
+        "bonus": 0,
+        "amount": 50
       },
       {
-        "amount": 100,
-        "bonus": 2
+        "bonus": 2,
+        "amount": 100
       },
       {
-        "amount": 200,
-        "bonus": 3
+        "bonus": 3,
+        "amount": 200
       },
       {
-        "amount": 300,
-        "bonus": 4
+        "bonus": 4,
+        "amount": 300
       },
       {
-        "amount": 500,
-        "bonus": 10
+        "bonus": 10,
+        "amount": 500
       }
     ],
+    "redeemWaitHours": 6,
+    "isLogoutLocked": false,
+    "withdrawWaitHours": 24,
+    "appUpdateLink": "",
+    "logoutLockDays": 15,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
+    "profileCooldownHours": 24,
+    "isProfileCooldownActive": false,
+    "isMaintenanceMode": false,
+    "maxWithdraw": 1000,
+    "referralCommission": 2,
     "vipPlans": []
   }
 }
