@@ -242,50 +242,19 @@
   "toasts": [],
   "stories": [],
   "settings": {
-    "globalMonetagZone": "10055173",
-    "addMoneyPackages": [
-      {
-        "amount": 50,
-        "bonus": 0
-      },
-      {
-        "bonus": 2,
-        "amount": 100
-      },
-      {
-        "bonus": 3,
-        "amount": 200
-      },
-      {
-        "bonus": 4,
-        "amount": 300
-      },
-      {
-        "bonus": 5,
-        "amount": 500
-      }
-    ],
-    "isLogoutLocked": false,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "isMaintenanceMode": false,
-    "minWithdraw": 10,
     "appUpdateLink": "",
-    "referralCommission": 2,
-    "maxWithdraw": 1000,
-    "autoDeletePersonalNotifs": 3,
+    "profileCooldownHours": 24,
+    "isProfileCooldownActive": false,
     "logoutLockDays": 15,
-    "vipPlans": [
-      {
-        "price": 49,
-        "days": 30
-      },
-      {
-        "price": 199,
-        "saveText": "Save 33% populer",
-        "discount": 33,
-        "days": 180
-      }
-    ],
+    "isLogoutLocked": false,
+    "minWithdraw": 10,
+    "maxWithdraw": 1000,
+    "withdrawWaitHours": 24,
+    "redeemWaitHours": 6,
+    "signupBonus": 0,
+    "referralCommission": 2,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "withdrawOptions": [
       10,
       20,
@@ -294,9 +263,6 @@
       250,
       500
     ],
-    "isProfileCooldownActive": true,
-    "redeemWaitHours": 6,
-    "signupBonus": 0,
     "redeemOptions": [
       9,
       29,
@@ -305,8 +271,28 @@
       100,
       159
     ],
-    "globalAdsgramId": "25587",
-    "profileCooldownHours": 24,
-    "withdrawWaitHours": 24
+    "addMoneyPackages": [
+      {
+        "amount": 50,
+        "bonus": 0
+      },
+      {
+        "amount": 100,
+        "bonus": 2
+      },
+      {
+        "amount": 200,
+        "bonus": 3
+      },
+      {
+        "amount": 300,
+        "bonus": 4
+      },
+      {
+        "amount": 500,
+        "bonus": 10
+      }
+    ],
+    "vipPlans": []
   }
 }
