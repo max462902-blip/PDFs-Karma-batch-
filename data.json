@@ -1,25 +1,32 @@
 {
   "matches": [
     {
-      "per_kill": 0,
-      "image_url": "",
-      "status": "open",
-      "map": "Costam",
-      "participants": [],
-      "title": "Costam 2 v 2",
-      "is_ad_match": true,
-      "filled_spots": 0,
-      "start_time": "2026-03-27T18:00",
-      "entry_fee": 0,
-      "ad_cooldown": 15,
-      "winners": [],
+      "total_spots": 4,
+      "type": "Duo",
       "wait_time": 3,
       "watch_video_id": "",
-      "type": "Duo",
-      "total_spots": 4,
-      "req_ads": 2,
-      "prize_slots": [],
+      "winners": [],
       "prize_pool": 1,
+      "req_ads": 2,
+      "prize_slots": [
+        {
+          "prize": 1,
+          "rank": "1",
+          "name": "",
+          "uid": ""
+        }
+      ],
+      "filled_spots": 0,
+      "is_ad_match": true,
+      "title": "Costam 2 v 2",
+      "participants": [],
+      "map": "Costam",
+      "status": "open",
+      "image_url": "",
+      "per_kill": 20,
+      "ad_cooldown": 15,
+      "entry_fee": 0,
+      "start_time": "2026-03-27T18:00",
       "id": "DFSj9NTupUVKkEhavtyq"
     }
   ],
