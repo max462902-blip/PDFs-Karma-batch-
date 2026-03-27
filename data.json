@@ -97,6 +97,20 @@
   "media": [],
   "ads": [
     {
+      "title": "Vid",
+      "reward": 1,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "adFormatType": "inApp",
+      "id": "2QO8YoST6P8ehIjegr7D"
+    },
+    {
       "adSecurityPassword": "",
       "watchTime": 15,
       "totalViews": 1,
@@ -137,6 +151,20 @@
       "totalViews": 1,
       "intervalSeconds": 0,
       "id": "PlNgjhcVFvwQRX3IQLvC"
+    },
+    {
+      "title": "Vido",
+      "reward": 1,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "adFormatType": "inApp",
+      "id": "RPUjQBIKvm1fiyxans4D"
     },
     {
       "cooldownMinutes": 60,
@@ -190,19 +218,6 @@
       "totalViews": 1,
       "intervalSeconds": 0,
       "id": "kQP5XrNvaJHfLwcUQ8qO"
-    },
-    {
-      "visibility": "vip",
-      "title": "Watch ad",
-      "totalViews": 1,
-      "linkUrl": "",
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "scriptFullTag": "",
-      "reward": 0.07,
-      "id": "q1cPKdfkNdcnx4teZ2wS"
     },
     {
       "watchTime": 15,
