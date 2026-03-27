@@ -110,16 +110,16 @@
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
+      "visibility": "all",
+      "linkUrl": "",
       "title": "Vp",
+      "intervalSeconds": 0,
       "reward": 3,
       "cooldownMinutes": 15,
-      "totalViews": 1,
-      "intervalSeconds": 0,
-      "linkUrl": "",
       "watchTime": 15,
-      "scriptFullTag": "",
+      "totalViews": 1,
       "adSecurityPassword": "",
-      "visibility": "all",
+      "scriptFullTag": "",
       "adFormatType": "default",
       "id": "JvKek3yAGT13Edk0YES0"
     },
