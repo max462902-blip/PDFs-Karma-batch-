@@ -101,11 +101,11 @@
       "intervalSeconds": 0,
       "scriptFullTag": "",
       "adSecurityPassword": "",
-      "cooldownMinutes": 60,
+      "cooldownMinutes": 1,
       "linkUrl": "",
       "adFormatType": "inApp",
       "watchTime": 15,
-      "reward": 1,
+      "reward": 5,
       "totalViews": 1,
       "visibility": "vip",
       "id": "C3KXrmpPRqy8Iqv9imcS"
