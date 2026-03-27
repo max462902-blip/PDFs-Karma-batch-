@@ -33,7 +33,11 @@
   ],
   "cricket_matches": [
     {
-      "status": "open",
+      "teamA_full": "",
+      "teamB_img": "",
+      "title": "Xbbd",
+      "teamA_name": "HSJD",
+      "start_time": "",
       "contests": [
         {
           "win_percent": "60%",
@@ -43,28 +47,24 @@
           "prize_pool": "1 Lakh",
           "req_ads": 10,
           "entry_fee": 0,
-          "ad_cooldown": 5,
           "total_spots": 10000,
+          "ad_cooldown": 5,
           "ad_format_type": "inApp",
           "participants": [],
           "filled_spots": 0,
           "is_ad_match": true
         }
       ],
+      "status": "open",
       "teamB_full": "",
       "teamB_name": "GSGD",
       "updatedAt": {
-        "seconds": 1774615496,
-        "nanoseconds": 673000000
+        "seconds": 1774615550,
+        "nanoseconds": 828000000
       },
       "show_leaderboard": false,
-      "teamB_img": "",
-      "teamA_full": "",
-      "title": "Xbbd",
-      "teamA_name": "HSJD",
-      "start_time": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "teamA_img": "",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "createdAt": {
         "seconds": 1774615461,
         "nanoseconds": 158000000
