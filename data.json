@@ -328,6 +328,19 @@
     ],
     "profileCooldownHours": 24,
     "maxWithdraw": 1000,
-    "vipPlans": []
+    "vipPlans": [
+      {
+        "price": 49,
+        "days": 32,
+        "saveText": "",
+        "discount": 0
+      },
+      {
+        "price": 199,
+        "days": 180,
+        "saveText": "34",
+        "discount": 0
+      }
+    ]
   }
 }
