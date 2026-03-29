@@ -179,7 +179,7 @@
       "totalViews": 1,
       "intervalSeconds": 0,
       "ad_network_type": "monetag",
-      "cooldownMinutes": 60,
+      "cooldownMinutes": 90,
       "linkUrl": "",
       "scriptFullTag": "",
       "reward": 0.05,
@@ -211,7 +211,7 @@
       "totalViews": 1,
       "intervalSeconds": 0,
       "ad_network_type": "monetag",
-      "cooldownMinutes": 60,
+      "cooldownMinutes": 90,
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
@@ -219,7 +219,7 @@
       "watchTime": 5,
       "intervalSeconds": 0,
       "totalViews": 1,
-      "cooldownMinutes": 60,
+      "cooldownMinutes": 90,
       "linkUrl": "https://omg10.com/4/10022830",
       "scriptFullTag": "",
       "reward": 0.05,
