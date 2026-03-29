@@ -1,28 +1,29 @@
 {
   "matches": [
     {
-      "type": "Duo",
-      "entry_fee": 0,
-      "watch_video_id": "",
-      "image_url": "",
-      "wait_time": 3,
       "total_spots": 2,
-      "is_ad_match": true,
-      "prize_slots": [],
-      "filled_spots": 0,
-      "status": "open",
-      "req_ads": 2,
-      "winners": [],
-      "per_kill": 0,
       "ad_cooldown": 10,
-      "map": "Costam ",
-      "prize_pool": 0,
+      "entry_fee": 0,
+      "is_ad_match": true,
+      "wait_time": 3,
       "start_time": "2026-03-31T18:00",
       "title": "Costam 2v2 ",
+      "map": "Costam ",
+      "filled_spots": 0,
+      "winners": [],
       "participants": [],
+      "per_kill": 0,
+      "image_url": "",
+      "type": "Duo",
+      "watch_video_id": "",
+      "status": "open",
+      "prize_pool": 0,
+      "req_ads": 2,
+      "prize_slots": [],
       "id": "4TZ6VSrx1a8Qqbn7EIbC"
     },
     {
+      "status": "open",
       "team_registrations": {
         "q4sZzWxMLAge6iOQPw7f7skk71T2": [
           {
@@ -31,229 +32,238 @@
           }
         ]
       },
-      "type": "Duo",
-      "image_url": "",
-      "ad_format_type": "inApp",
-      "entry_fee": 0,
-      "watch_video_id": "",
-      "wait_time": 3,
-      "is_ad_match": false,
-      "total_spots": 4,
       "prize_slots": [],
-      "status": "open",
       "req_ads": 2,
-      "filled_spots": 1,
-      "map": "Costam",
       "prize_pool": 0,
-      "ad_cooldown": 10,
-      "per_kill": 0,
-      "winners": [],
+      "watch_video_id": "",
+      "title": "Costam 2 v 2",
+      "map": "Costam",
       "participants": [
         "q4sZzWxMLAge6iOQPw7f7skk71T2"
       ],
-      "title": "Costam 2 v 2",
+      "winners": [],
+      "filled_spots": 1,
+      "type": "Duo",
+      "image_url": "",
+      "per_kill": 0,
+      "total_spots": 4,
+      "ad_format_type": "inApp",
+      "ad_cooldown": 10,
+      "wait_time": 3,
       "start_time": "2026-03-30T17:00",
+      "is_ad_match": false,
+      "entry_fee": 0,
       "id": "DFSj9NTupUVKkEhavtyq"
     },
     {
+      "ad_cooldown": 10,
+      "participants": [],
+      "prize_pool": 0,
+      "winners": [],
+      "image_url": "",
+      "map": "Costam ",
       "per_kill": 0,
       "req_ads": 2,
+      "entry_fee": 0,
+      "title": "Costam 2 v 2 ",
       "prize_slots": [],
       "status": "open",
-      "image_url": "",
-      "type": "Duo",
       "total_spots": 4,
-      "ad_cooldown": 10,
-      "is_ad_match": true,
-      "map": "Costam ",
-      "prize_pool": 0,
+      "wait_time": 3,
       "start_time": "2026-04-01T17:00",
       "filled_spots": 0,
-      "winners": [],
-      "title": "Costam 2 v 2 ",
-      "wait_time": 3,
       "watch_video_id": "",
-      "entry_fee": 0,
-      "participants": [],
+      "type": "Duo",
+      "is_ad_match": true,
       "id": "Ks5qIHjYwCsIaQND7F7I"
     }
   ],
   "cricket_matches": [
     {
-      "teamA_full": "",
-      "teamB_img": "",
-      "title": "Xbbd",
-      "teamA_name": "HSJD",
-      "start_time": "",
-      "contests": [
-        {
-          "win_percent": "60%",
-          "max_teams": 11,
-          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "name": "Mega Contest",
-          "prize_pool": "1 Lakh",
-          "req_ads": 10,
-          "entry_fee": 0,
-          "total_spots": 10000,
-          "ad_cooldown": 5,
-          "ad_format_type": "inApp",
-          "participants": [],
-          "filled_spots": 0,
-          "is_ad_match": true
-        }
-      ],
-      "status": "open",
-      "teamB_full": "",
-      "teamB_name": "GSGD",
-      "updatedAt": {
-        "seconds": 1774615550,
-        "nanoseconds": 828000000
-      },
       "show_leaderboard": false,
-      "teamA_img": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
       "createdAt": {
         "seconds": 1774615461,
         "nanoseconds": 158000000
       },
+      "contests": [
+        {
+          "total_spots": 10000,
+          "filled_spots": 0,
+          "max_teams": 11,
+          "participants": [],
+          "ad_format_type": "inApp",
+          "prize_pool": "1 Lakh",
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "entry_fee": 0,
+          "name": "Mega Contest",
+          "is_ad_match": true,
+          "win_percent": "60%",
+          "ad_cooldown": 5,
+          "req_ads": 10
+        }
+      ],
+      "status": "open",
+      "teamA_img": "",
+      "title": "Xbbd",
+      "teamB_full": "",
+      "teamA_full": "",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "start_time": "",
+      "teamA_name": "HSJD",
+      "teamB_img": "",
+      "updatedAt": {
+        "seconds": 1774615550,
+        "nanoseconds": 828000000
+      },
+      "teamB_name": "GSGD",
       "id": "VUZ93ApA5R7hBNE7koQP"
     }
   ],
   "sliders": [
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
-      "desc": ""
-    },
-    {
       "desc": "",
-      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
       "title": ""
     },
     {
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "title": "",
+      "desc": ""
+    },
+    {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "title": "",
+      "desc": ""
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "title": "",
+      "desc": ""
+    },
+    {
       "title": "",
       "desc": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg"
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
-      "desc": ""
-    },
-    {
-      "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
-      "desc": ""
-    },
-    {
-      "title": "",
-      "actionUrl": "",
+      "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2b222.jpg",
-      "desc": ""
+      "actionUrl": ""
     },
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
-      "desc": ""
+      "desc": "",
+      "title": ""
     },
     {
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
-      "desc": ""
+      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg"
     },
     {
-      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
+      "title": "",
       "desc": ""
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
-      "desc": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "title": "",
-      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg"
+      "desc": ""
     },
     {
+      "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
-      "desc": ""
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
     }
   ],
-  "notifications": [],
+  "notifications": [
+    {
+      "type": "info",
+      "mediaUrl": "https://tusshar-stream.pages.dev/ios?id=hotstar",
+      "timestamp": "2026-03-29T17:23:07.473Z",
+      "userId": "all",
+      "title": "Live match",
+      "id": "UWRttNzxn8xqTsryf9E6"
+    }
+  ],
   "media": [],
   "ads": [
     {
-      "scriptFullTag": "",
-      "cooldownMinutes": 90,
-      "ad_network_type": "monetag",
-      "visibility": "normal",
-      "watchTime": 15,
       "totalViews": 1,
+      "cooldownMinutes": 90,
       "reward": 0.05,
       "title": "Watch ad",
+      "watchTime": 15,
+      "scriptFullTag": "",
       "intervalSeconds": 0,
-      "adSecurityPassword": "",
+      "visibility": "normal",
       "linkUrl": "",
+      "ad_network_type": "monetag",
+      "adSecurityPassword": "",
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "cooldownMinutes": 60,
-      "adSecurityPassword": "",
-      "reward": 0.07,
       "scriptFullTag": "",
-      "watchTime": 15,
-      "visibility": "vip",
-      "title": "Watch ad",
-      "linkUrl": "",
-      "totalViews": 1,
       "intervalSeconds": 0,
+      "totalViews": 1,
+      "watchTime": 15,
+      "linkUrl": "",
+      "visibility": "vip",
+      "cooldownMinutes": 60,
+      "title": "Watch ad",
+      "reward": 0.07,
+      "adSecurityPassword": "",
       "id": "XrJsid8RmpCBLUkPiXp1"
     },
     {
-      "linkUrl": "",
-      "adSecurityPassword": "9982833519jitendra",
-      "title": "Watch ads",
-      "intervalSeconds": 0,
-      "reward": 0.05,
       "totalViews": 1,
-      "visibility": "normal",
+      "reward": 0.05,
+      "title": "Watch ads",
       "watchTime": 15,
-      "ad_network_type": "monetag",
       "cooldownMinutes": 90,
       "scriptFullTag": "",
+      "intervalSeconds": 0,
+      "visibility": "normal",
+      "linkUrl": "",
+      "ad_network_type": "monetag",
+      "adSecurityPassword": "9982833519jitendra",
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "scriptFullTag": "",
-      "cooldownMinutes": 90,
-      "watchTime": 5,
       "visibility": "normal",
-      "totalViews": 1,
-      "reward": 0.05,
+      "scriptFullTag": "",
       "intervalSeconds": 0,
+      "cooldownMinutes": 90,
       "title": "Watch ad",
+      "reward": 0.05,
+      "watchTime": 5,
+      "totalViews": 1,
       "adSecurityPassword": "",
       "linkUrl": "https://omg10.com/4/10022830",
       "id": "hLvHlVp7kp3AX91iTLtw"
     },
     {
-      "cooldownMinutes": 60,
-      "adSecurityPassword": "",
-      "scriptFullTag": "",
-      "reward": 0.07,
-      "watchTime": 15,
-      "title": "Watch ad",
       "visibility": "vip",
-      "linkUrl": "",
+      "cooldownMinutes": 60,
+      "title": "Watch ad",
+      "reward": 0.07,
+      "adSecurityPassword": "",
       "totalViews": 1,
+      "watchTime": 15,
+      "linkUrl": "",
       "intervalSeconds": 0,
+      "scriptFullTag": "",
       "id": "kQP5XrNvaJHfLwcUQ8qO"
     }
   ],
   "toasts": [],
   "stories": [],
   "settings": {
+    "maxWithdraw": 1000,
     "redeemOptions": [
       9,
       29,
@@ -262,10 +272,9 @@
       100,
       159
     ],
-    "minWithdraw": 10,
-    "isLogoutLocked": false,
-    "appUpdateLink": "",
+    "withdrawWaitHours": 24,
     "redeemWaitHours": 6,
+    "isMaintenanceMode": false,
     "withdrawOptions": [
       10,
       20,
@@ -274,21 +283,7 @@
       250,
       500
     ],
-    "vipPlans": [
-      {
-        "discount": 0,
-        "price": 11,
-        "saveText": "",
-        "days": 10
-      },
-      {
-        "days": 31,
-        "saveText": "Popular plan",
-        "price": 25,
-        "discount": 0
-      }
-    ],
-    "maxWithdraw": 1000,
+    "isProfileCooldownActive": false,
     "addMoneyPackages": [
       {
         "bonus": 0,
@@ -311,14 +306,28 @@
         "amount": 500
       }
     ],
-    "isProfileCooldownActive": false,
-    "withdrawWaitHours": 24,
-    "signupBonus": 0,
-    "profileCooldownHours": 24,
-    "isMaintenanceMode": false,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "referralCommission": 2,
+    "minWithdraw": 10,
     "logoutLockDays": 15,
-    "withdrawFeePercent": 0
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "appUpdateLink": "",
+    "isLogoutLocked": false,
+    "withdrawFeePercent": 0,
+    "profileCooldownHours": 24,
+    "signupBonus": 0,
+    "vipPlans": [
+      {
+        "saveText": "",
+        "discount": 0,
+        "price": 11,
+        "days": 10
+      },
+      {
+        "days": 31,
+        "saveText": "Popular plan",
+        "discount": 0,
+        "price": 25
+      }
+    ],
+    "referralCommission": 2
   }
 }
