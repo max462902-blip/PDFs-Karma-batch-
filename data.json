@@ -174,20 +174,6 @@
   "media": [],
   "ads": [
     {
-      "cooldownMinutes": 60,
-      "reward": 1,
-      "scriptFullTag": "",
-      "totalViews": 1,
-      "intervalSeconds": 0,
-      "linkUrl": "",
-      "title": "Vid",
-      "adFormatType": "inApp",
-      "visibility": "normal",
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "id": "2QO8YoST6P8ehIjegr7D"
-    },
-    {
       "linkUrl": "",
       "ad_network_type": "monetag",
       "watchTime": 15,
