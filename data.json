@@ -44,6 +44,28 @@
       "req_ads": 2,
       "map": "Costam",
       "id": "DFSj9NTupUVKkEhavtyq"
+    },
+    {
+      "ad_cooldown": 10,
+      "participants": [],
+      "prize_pool": 0,
+      "winners": [],
+      "image_url": "",
+      "map": "Costam ",
+      "per_kill": 0,
+      "req_ads": 2,
+      "entry_fee": 0,
+      "title": "Costam 2 v 2 ",
+      "prize_slots": [],
+      "status": "open",
+      "total_spots": 4,
+      "wait_time": 3,
+      "start_time": "2026-04-01T17:00",
+      "filled_spots": 0,
+      "watch_video_id": "",
+      "type": "Duo",
+      "is_ad_match": true,
+      "id": "Ks5qIHjYwCsIaQND7F7I"
     }
   ],
   "cricket_matches": [
