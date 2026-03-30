@@ -36,35 +36,6 @@
       "id": "GQw9Ug41v7jGeRgyFabC"
     },
     {
-      "per_kill": 20,
-      "start_time": "2026-03-31T02:40",
-      "prize_slots": [
-        {
-          "uid": "",
-          "rank": "1",
-          "name": "",
-          "prize": 500
-        }
-      ],
-      "wait_time": 3,
-      "filled_spots": 0,
-      "title": "",
-      "status": "open",
-      "ad_cooldown": 30,
-      "req_ads": 0,
-      "type": "Solo",
-      "winners": [],
-      "watch_video_id": "",
-      "is_ad_match": false,
-      "prize_pool": 3000,
-      "map": "Bermuda",
-      "total_spots": 48,
-      "entry_fee": 50,
-      "image_url": "",
-      "participants": [],
-      "id": "HFyLMC0CvXSK0RrmnW9B"
-    },
-    {
       "watch_video_id": "",
       "is_ad_match": false,
       "prize_pool": 3000,
