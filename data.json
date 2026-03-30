@@ -281,18 +281,19 @@
   "toasts": [],
   "stories": [],
   "settings": {
+    "isMaintenanceMode": false,
+    "appUpdateLink": "",
+    "profileCooldownHours": 24,
+    "isProfileCooldownActive": false,
+    "logoutLockDays": 15,
+    "isLogoutLocked": false,
+    "minWithdraw": 10,
     "maxWithdraw": 1000,
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
-    ],
     "withdrawWaitHours": 24,
     "redeemWaitHours": 6,
-    "isMaintenanceMode": false,
+    "signupBonus": 0,
+    "referralCommission": 2,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "withdrawOptions": [
       10,
       20,
@@ -301,51 +302,40 @@
       250,
       500
     ],
-    "isProfileCooldownActive": false,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
     "addMoneyPackages": [
       {
-        "bonus": 0,
-        "amount": 50
+        "amount": 50,
+        "bonus": 0
       },
       {
-        "bonus": 2,
-        "amount": 100
+        "amount": 100,
+        "bonus": 2
       },
       {
-        "bonus": 3,
-        "amount": 200
+        "amount": 200,
+        "bonus": 3
       },
       {
-        "bonus": 4,
-        "amount": 300
+        "amount": 300,
+        "bonus": 4
       },
       {
-        "bonus": 10,
-        "amount": 500
+        "amount": 500,
+        "bonus": 10
+      },
+      {
+        "amount": 1,
+        "bonus": 0
       }
     ],
-    "minWithdraw": 10,
-    "logoutLockDays": 15,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "appUpdateLink": "",
-    "isLogoutLocked": false,
-    "withdrawFeePercent": 0,
-    "profileCooldownHours": 24,
-    "signupBonus": 0,
-    "vipPlans": [
-      {
-        "saveText": "",
-        "discount": 0,
-        "price": 11,
-        "days": 10
-      },
-      {
-        "days": 31,
-        "saveText": "Popular plan",
-        "discount": 0,
-        "price": 25
-      }
-    ],
-    "referralCommission": 2
+    "vipPlans": []
   }
 }
