@@ -78,7 +78,74 @@
       "id": "Ks5qIHjYwCsIaQND7F7I"
     }
   ],
-  "cricket_matches": [],
+  "cricket_matches": [
+    {
+      "teamB_img": "",
+      "start_time": "2026-03-30T19:30",
+      "teamA_img": "",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamA_full": "",
+      "createdAt": {
+        "seconds": 1774862306,
+        "nanoseconds": 151000000
+      },
+      "updatedAt": {
+        "seconds": 1774862337,
+        "nanoseconds": 649000000
+      },
+      "teamA_name": "RR",
+      "show_leaderboard": false,
+      "contests": [
+        {
+          "total_spots": 10000,
+          "win_percent": "60%",
+          "participants": [],
+          "filled_spots": 0,
+          "name": "Mega Contest",
+          "max_teams": 11,
+          "prize_pool": "1 Lakh",
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "req_ads": 0,
+          "ad_cooldown": 30,
+          "entry_fee": 49,
+          "is_ad_match": false
+        },
+        {
+          "is_ad_match": false,
+          "entry_fee": 0,
+          "ad_cooldown": 30,
+          "req_ads": 0,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "prize_pool": "1 Lakh",
+          "max_teams": 11,
+          "name": "Mega Contest",
+          "filled_spots": 0,
+          "participants": [],
+          "win_percent": "60%",
+          "total_spots": 10000
+        },
+        {
+          "is_ad_match": true,
+          "entry_fee": 0,
+          "ad_cooldown": 15,
+          "req_ads": 2,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "prize_pool": "1 Lakh",
+          "max_teams": 11,
+          "name": "Mega Contest",
+          "filled_spots": 0,
+          "participants": [],
+          "win_percent": "60%",
+          "total_spots": 10000
+        }
+      ],
+      "teamB_full": "",
+      "status": "open",
+      "title": "Indian premier league 2026",
+      "teamB_name": "CSK",
+      "id": "buVvzLfDngod3m2WBUhn"
+    }
+  ],
   "sliders": [
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
