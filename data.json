@@ -80,6 +80,44 @@
   ],
   "cricket_matches": [
     {
+      "teamB_full": "Pakistan",
+      "contests": [
+        {
+          "filled_spots": 0,
+          "participants": [],
+          "max_teams": 11,
+          "name": "Mega Contest",
+          "win_percent": "60%",
+          "total_spots": 10000,
+          "ad_cooldown": 30,
+          "is_ad_match": false,
+          "entry_fee": 49,
+          "prize_pool": "1 Lakh",
+          "req_ads": 0,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000"
+        }
+      ],
+      "show_leaderboard": false,
+      "teamB_name": "PAK",
+      "title": "T20",
+      "status": "open",
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamA_img": "",
+      "start_time": "2026-03-31T13:45",
+      "teamB_img": "",
+      "teamA_name": "IND",
+      "updatedAt": {
+        "seconds": 1774862126,
+        "nanoseconds": 64000000
+      },
+      "createdAt": {
+        "seconds": 1774862126,
+        "nanoseconds": 64000000
+      },
+      "teamA_full": "India",
+      "id": "NPcR3c2b1Fd7WwcfXl1D"
+    },
+    {
       "show_leaderboard": false,
       "createdAt": {
         "seconds": 1774615461,
