@@ -1,5 +1,114 @@
 {
-  "matches": [],
+  "matches": [
+    {
+      "image_url": "",
+      "participants": [],
+      "entry_fee": 50,
+      "total_spots": 48,
+      "map": "Bermuda",
+      "prize_pool": 3000,
+      "is_ad_match": false,
+      "watch_video_id": "",
+      "winners": [],
+      "type": "Solo",
+      "req_ads": 0,
+      "ad_cooldown": 30,
+      "status": "open",
+      "title": "",
+      "filled_spots": 0,
+      "wait_time": 3,
+      "prize_slots": [
+        {
+          "uid": "",
+          "name": "",
+          "rank": "1",
+          "prize": 500
+        },
+        {
+          "prize": 400,
+          "name": "",
+          "rank": "2",
+          "uid": ""
+        }
+      ],
+      "start_time": "2026-03-31T02:40",
+      "per_kill": 20,
+      "id": "GQw9Ug41v7jGeRgyFabC"
+    },
+    {
+      "per_kill": 20,
+      "start_time": "2026-03-31T02:40",
+      "prize_slots": [
+        {
+          "uid": "",
+          "rank": "1",
+          "name": "",
+          "prize": 500
+        }
+      ],
+      "wait_time": 3,
+      "filled_spots": 0,
+      "title": "",
+      "status": "open",
+      "ad_cooldown": 30,
+      "req_ads": 0,
+      "type": "Solo",
+      "winners": [],
+      "watch_video_id": "",
+      "is_ad_match": false,
+      "prize_pool": 3000,
+      "map": "Bermuda",
+      "total_spots": 48,
+      "entry_fee": 50,
+      "image_url": "",
+      "participants": [],
+      "id": "HFyLMC0CvXSK0RrmnW9B"
+    },
+    {
+      "watch_video_id": "",
+      "is_ad_match": false,
+      "prize_pool": 3000,
+      "winners": [],
+      "entry_fee": 50,
+      "total_spots": 48,
+      "image_url": "",
+      "participants": [],
+      "map": "Bermuda",
+      "start_time": "2026-03-30T00:39",
+      "prize_slots": [],
+      "wait_time": 3,
+      "per_kill": 20,
+      "title": "Free fire - T1",
+      "status": "open",
+      "req_ads": 0,
+      "ad_cooldown": 30,
+      "type": "Solo",
+      "filled_spots": 0,
+      "id": "lBfkb0XkWhaK0Ghwh2H9"
+    },
+    {
+      "per_kill": 20,
+      "wait_time": 3,
+      "start_time": "2026-03-31T08:40",
+      "prize_slots": [],
+      "filled_spots": 0,
+      "status": "open",
+      "type": "Solo",
+      "req_ads": 0,
+      "ad_cooldown": 30,
+      "title": "",
+      "winners": [],
+      "prize_pool": 1000,
+      "watch_video_id": "",
+      "is_ad_match": false,
+      "map": "Bermuda",
+      "entry_fee": 0,
+      "total_spots": 48,
+      "image_url": "",
+      "participants": [],
+      "id": "xPWOIrv6sct83ziu3hhw"
+    }
+  ],
   "cricket_matches": [
     {
       "players": [
