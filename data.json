@@ -80,69 +80,69 @@
   ],
   "cricket_matches": [
     {
-      "teamB_img": "",
-      "start_time": "2026-03-30T19:30",
-      "teamA_img": "",
-      "bottom_tag": "Win for Glory 🏏 Join Now!",
-      "teamA_full": "",
+      "status": "open",
+      "show_leaderboard": false,
       "createdAt": {
         "seconds": 1774862306,
         "nanoseconds": 151000000
       },
-      "updatedAt": {
-        "seconds": 1774862337,
-        "nanoseconds": 649000000
-      },
-      "teamA_name": "RR",
-      "show_leaderboard": false,
+      "teamB_name": "CSK",
+      "teamA_full": "",
       "contests": [
         {
-          "total_spots": 10000,
-          "win_percent": "60%",
-          "participants": [],
-          "filled_spots": 0,
-          "name": "Mega Contest",
-          "max_teams": 11,
           "prize_pool": "1 Lakh",
-          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "req_ads": 0,
-          "ad_cooldown": 30,
-          "entry_fee": 49,
-          "is_ad_match": false
-        },
-        {
+          "win_percent": "60%",
+          "name": "Mega Contest",
           "is_ad_match": false,
-          "entry_fee": 0,
+          "participants": [],
           "ad_cooldown": 30,
           "req_ads": 0,
+          "total_spots": 10000,
           "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "prize_pool": "1 Lakh",
-          "max_teams": 11,
-          "name": "Mega Contest",
           "filled_spots": 0,
-          "participants": [],
-          "win_percent": "60%",
-          "total_spots": 10000
+          "entry_fee": 49,
+          "max_teams": 11
         },
         {
-          "is_ad_match": true,
           "entry_fee": 0,
-          "ad_cooldown": 15,
-          "req_ads": 2,
-          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
-          "prize_pool": "1 Lakh",
           "max_teams": 11,
-          "name": "Mega Contest",
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "total_spots": 10000,
           "filled_spots": 0,
+          "req_ads": 0,
+          "ad_cooldown": 30,
+          "name": "Mega Contest",
+          "is_ad_match": false,
           "participants": [],
+          "prize_pool": "1 Lakh",
+          "win_percent": "60%"
+        },
+        {
+          "ad_cooldown": 15,
+          "participants": [],
+          "is_ad_match": true,
+          "name": "Mega Contest",
           "win_percent": "60%",
-          "total_spots": 10000
+          "prize_pool": "1 Lakh",
+          "entry_fee": 0,
+          "max_teams": 11,
+          "filled_spots": 0,
+          "total_spots": 10000,
+          "winners_text": "1 = 10000\n2 = 5000\n3-10 = 1000",
+          "req_ads": 2
         }
       ],
+      "bottom_tag": "Win for Glory 🏏 Join Now!",
+      "teamB_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_7fb05.jpg",
+      "teamA_img": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_eaedc.jpg",
+      "teamA_name": "RR",
       "teamB_full": "",
-      "status": "open",
       "title": "Indian premier league 2026",
-      "teamB_name": "CSK",
+      "start_time": "2026-03-30T19:30",
+      "updatedAt": {
+        "seconds": 1774873250,
+        "nanoseconds": 444000000
+      },
       "id": "buVvzLfDngod3m2WBUhn"
     }
   ],
@@ -281,19 +281,6 @@
   "toasts": [],
   "stories": [],
   "settings": {
-    "isMaintenanceMode": false,
-    "appUpdateLink": "",
-    "profileCooldownHours": 24,
-    "isProfileCooldownActive": false,
-    "logoutLockDays": 15,
-    "isLogoutLocked": false,
-    "minWithdraw": 10,
-    "maxWithdraw": 1000,
-    "withdrawWaitHours": 24,
-    "redeemWaitHours": 6,
-    "signupBonus": 0,
-    "referralCommission": 2,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "withdrawOptions": [
       10,
       20,
@@ -302,6 +289,40 @@
       250,
       500
     ],
+    "addMoneyPackages": [
+      {
+        "bonus": 0,
+        "amount": 50
+      },
+      {
+        "bonus": 2,
+        "amount": 100
+      },
+      {
+        "bonus": 3,
+        "amount": 200
+      },
+      {
+        "bonus": 4,
+        "amount": 300
+      },
+      {
+        "bonus": 10,
+        "amount": 500
+      },
+      {
+        "bonus": 0,
+        "amount": 1
+      }
+    ],
+    "isMaintenanceMode": false,
+    "withdrawWaitHours": 24,
+    "minWithdraw": 10,
+    "appUpdateLink": "",
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "maxWithdraw": 1000,
+    "signupBonus": 0,
+    "isLogoutLocked": false,
     "redeemOptions": [
       9,
       29,
@@ -310,32 +331,11 @@
       100,
       159
     ],
-    "addMoneyPackages": [
-      {
-        "amount": 50,
-        "bonus": 0
-      },
-      {
-        "amount": 100,
-        "bonus": 2
-      },
-      {
-        "amount": 200,
-        "bonus": 3
-      },
-      {
-        "amount": 300,
-        "bonus": 4
-      },
-      {
-        "amount": 500,
-        "bonus": 10
-      },
-      {
-        "amount": 1,
-        "bonus": 0
-      }
-    ],
+    "profileCooldownHours": 24,
+    "redeemWaitHours": 6,
+    "logoutLockDays": 15,
+    "referralCommission": 2,
+    "isProfileCooldownActive": false,
     "vipPlans": []
   }
 }
