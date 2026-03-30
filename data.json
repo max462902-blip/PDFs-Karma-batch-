@@ -547,6 +547,19 @@
     "logoutLockDays": 15,
     "referralCommission": 2,
     "isProfileCooldownActive": false,
-    "vipPlans": []
+    "vipPlans": [
+      {
+        "price": 49,
+        "days": 30,
+        "saveText": "",
+        "discount": 0
+      },
+      {
+        "price": 199,
+        "days": 180,
+        "saveText": "Save 20%",
+        "discount": 0
+      }
+    ]
   }
 }
