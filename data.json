@@ -471,7 +471,18 @@
     }
   ],
   "toasts": [],
-  "stories": [],
+  "stories": [
+    {
+      "timestamp": "2026-04-16T14:12:49.311Z",
+      "mediaUrls": [
+        "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_0b155.mp4"
+      ],
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_0b155.mp4",
+      "username": "Admin",
+      "avatarUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_c9330.jpg",
+      "id": "7kcijs120CnsFBnpxqpV"
+    }
+  ],
   "settings": {
     "isMaintenanceMode": false,
     "signupBonus": 0,
