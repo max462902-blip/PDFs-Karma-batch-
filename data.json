@@ -1,0 +1,94 @@
+{
+  "matches": [
+    {
+      "wait_time": 2,
+      "winners": [],
+      "per_kill": 0,
+      "image_url": "",
+      "is_ad_match": true,
+      "watch_video_id": "",
+      "participants": [
+        "guest_395058"
+      ],
+      "prize_slots": [],
+      "start_time": "2026-04-14T14:30",
+      "title": "Costam 4 vs 4",
+      "entry_fee": 0,
+      "total_spots": 7,
+      "filled_spots": 1,
+      "req_ads": 2,
+      "prize_pool": 0,
+      "ad_cooldown": 15,
+      "type": "Solo",
+      "status": "open",
+      "map": "Class squad ",
+      "id": "0ajvrNranwbBv5uV1BMu"
+    }
+  ],
+  "cricket_matches": [],
+  "sliders": [],
+  "notifications": [
+    {
+      "userId": "all",
+      "title": "Hii",
+      "timestamp": "2026-04-16T08:07:17.618Z",
+      "message": "Fhkkhsfhjjj",
+      "type": "info",
+      "id": "VuKPbRn18XyjSlfrVMjU"
+    }
+  ],
+  "media": [],
+  "ads": [],
+  "toasts": [],
+  "stories": [],
+  "settings": {
+    "withdrawWaitHours": 24,
+    "minWithdraw": 10,
+    "addMoneyPackages": [
+      {
+        "bonus": 0,
+        "amount": 50
+      },
+      {
+        "bonus": 2,
+        "amount": 100
+      },
+      {
+        "amount": 200,
+        "bonus": 3
+      },
+      {
+        "bonus": 4,
+        "amount": 300
+      }
+    ],
+    "withdrawFeePercent": 0,
+    "logoutLockDays": 15,
+    "profileCooldownHours": 24,
+    "appUpdateLink": "",
+    "isProfileCooldownActive": false,
+    "isMaintenanceMode": false,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
+    "referralCommission": 2,
+    "isLogoutLocked": false,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "signupBonus": 0,
+    "redeemWaitHours": 6,
+    "maxWithdraw": 1000,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ]
+  }
+}
