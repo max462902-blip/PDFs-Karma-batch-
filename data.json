@@ -1,27 +1,27 @@
 {
   "matches": [
     {
+      "prize_pool": 0,
+      "status": "open",
+      "filled_spots": 1,
+      "watch_video_id": "",
+      "ad_cooldown": 15,
+      "wait_time": 2,
+      "start_time": "2026-04-14T14:30",
       "winners": [],
+      "type": "Solo",
       "title": "Costam 4 vs 4",
       "req_ads": 2,
-      "is_ad_match": true,
-      "wait_time": 2,
-      "total_spots": 7,
-      "start_time": "2026-04-14T14:30",
-      "ad_cooldown": 15,
-      "prize_slots": [],
-      "entry_fee": 0,
       "per_kill": 0,
-      "prize_pool": 0,
-      "filled_spots": 1,
-      "map": "Class squad ",
-      "status": "open",
+      "entry_fee": 0,
+      "prize_slots": [],
+      "total_spots": 7,
+      "is_ad_match": true,
       "image_url": "",
       "participants": [
         "guest_395058"
       ],
-      "watch_video_id": "",
-      "type": "Solo",
+      "map": "Class squad ",
       "id": "0ajvrNranwbBv5uV1BMu"
     }
   ],
@@ -29,9 +29,9 @@
   "sliders": [],
   "notifications": [
     {
-      "userId": "all",
-      "type": "info",
       "title": "Hii",
+      "type": "info",
+      "userId": "all",
       "timestamp": "2026-04-16T08:07:17.618Z",
       "message": "Fhkkhsfhjjj",
       "id": "VuKPbRn18XyjSlfrVMjU"
@@ -42,24 +42,14 @@
   "toasts": [],
   "stories": [],
   "settings": {
-    "minWithdraw": 10,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "logoutLockDays": 15,
-    "appUpdateLink": "",
-    "isProfileCooldownActive": false,
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
-    "isMaintenanceMode": false,
     "redeemWaitHours": 6,
-    "isLogoutLocked": false,
+    "profileCooldownHours": 24,
     "referralCommission": 2,
+    "isProfileCooldownActive": false,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
     "signupBonus": 0,
+    "withdrawFeePercent": 0,
+    "minWithdraw": 10,
     "redeemOptions": [
       9,
       29,
@@ -68,27 +58,37 @@
       100,
       159
     ],
-    "profileCooldownHours": 24,
-    "maxWithdraw": 1000,
+    "appUpdateLink": "",
+    "isLogoutLocked": false,
     "addMoneyPackages": [
       {
-        "bonus": 0,
-        "amount": 50
+        "amount": 50,
+        "bonus": 0
       },
       {
         "bonus": 2,
         "amount": 100
       },
       {
-        "bonus": 3,
-        "amount": 200
+        "amount": 200,
+        "bonus": 3
       },
       {
-        "bonus": 4,
-        "amount": 300
+        "amount": 300,
+        "bonus": 4
       }
     ],
-    "withdrawFeePercent": 0,
-    "withdrawWaitHours": 24
+    "maxWithdraw": 1000,
+    "isMaintenanceMode": false,
+    "logoutLockDays": 15,
+    "withdrawWaitHours": 24,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ]
   }
 }
