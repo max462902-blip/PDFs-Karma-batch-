@@ -532,6 +532,19 @@
       100,
       159
     ],
-    "vipPlans": []
+    "vipPlans": [
+      {
+        "price": 30,
+        "days": 49,
+        "saveText": "30%",
+        "discount": 0
+      },
+      {
+        "price": 199,
+        "days": 180,
+        "saveText": "50",
+        "discount": 50
+      }
+    ]
   }
 }
