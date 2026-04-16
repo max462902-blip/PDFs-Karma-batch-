@@ -1,27 +1,30 @@
 {
   "matches": [
     {
-      "wait_time": 2,
       "winners": [],
-      "per_kill": 0,
-      "image_url": "",
+      "ad_cooldown": 15,
+      "ad_type": "smartlink",
+      "req_ads": 2,
+      "map": "Class squad ",
+      "entry_fee": 0,
+      "status": "open",
+      "prize_pool": 3000,
+      "start_time": "2026-04-16T11:30",
+      "smart_link_url": "https://omg10.com/4/10022830",
+      "type": "Solo",
       "is_ad_match": true,
+      "total_spots": 7,
       "watch_video_id": "",
+      "per_kill": 20,
+      "prize_slots": [],
       "participants": [
         "guest_395058"
       ],
-      "prize_slots": [],
-      "start_time": "2026-04-14T14:30",
+      "image_url": "",
       "title": "Costam 4 vs 4",
-      "entry_fee": 0,
-      "total_spots": 7,
+      "wait_time": 2,
       "filled_spots": 1,
-      "req_ads": 2,
-      "prize_pool": 0,
-      "ad_cooldown": 15,
-      "type": "Solo",
-      "status": "open",
-      "map": "Class squad ",
+      "smart_link_timer": 10,
       "id": "0ajvrNranwbBv5uV1BMu"
     }
   ],
