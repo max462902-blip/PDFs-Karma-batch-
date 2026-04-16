@@ -1,29 +1,92 @@
 {
   "matches": [
     {
-      "prize_pool": 0,
+      "type": "Solo",
+      "req_ads": 0,
+      "prize_pool": 3000,
       "participants": [],
-      "smart_link_timer": 5,
       "image_url": "",
       "map": "Bermuda",
       "status": "open",
       "filled_spots": 0,
+      "prize_slots": [
+        {
+          "rank": "1",
+          "prize": 2000,
+          "name": "",
+          "uid": ""
+        },
+        {
+          "name": "",
+          "uid": "",
+          "rank": "2",
+          "prize": 1000
+        },
+        {
+          "rank": "3",
+          "prize": 150,
+          "name": "",
+          "uid": ""
+        }
+      ],
+      "is_ad_match": false,
+      "total_spots": 48,
+      "title": "",
+      "watch_video_id": "",
+      "per_kill": 20,
+      "wait_time": 3,
+      "entry_fee": 50,
+      "winners": [],
+      "ad_cooldown": 30,
+      "start_time": "",
+      "id": "PobZPUrFLor8e375W9OH"
+    },
+    {
+      "per_kill": 20,
+      "wait_time": 3,
+      "entry_fee": 0,
+      "winners": [],
+      "smart_link_url": "https://omg10.com/4/10022830",
+      "start_time": "2026-04-17T06:45",
+      "ad_cooldown": 30,
+      "ad_type": "smartlink",
+      "type": "Solo",
+      "req_ads": 5,
+      "image_url": "",
+      "smart_link_timer": 5,
+      "participants": [],
+      "prize_pool": 3000,
+      "filled_spots": 0,
+      "map": "Bermuda",
+      "status": "open",
+      "prize_slots": [],
+      "is_ad_match": false,
+      "watch_video_id": "",
+      "title": "Free fire - T1",
+      "total_spots": 48,
+      "id": "XhaBXe1W7sX9ZXU3d3cx"
+    },
+    {
+      "image_url": "",
+      "participants": [],
+      "prize_pool": 20,
+      "filled_spots": 0,
+      "map": "Bermuda",
+      "status": "open",
       "type": "Solo",
       "req_ads": 5,
       "prize_slots": [],
-      "is_ad_match": false,
-      "total_spots": 48,
-      "title": "Free fire - T1",
+      "is_ad_match": true,
       "watch_video_id": "",
+      "title": "",
+      "total_spots": 48,
       "entry_fee": 0,
       "per_kill": 0,
       "wait_time": 3,
-      "ad_cooldown": 30,
-      "start_time": "",
-      "ad_type": "smartlink",
-      "smart_link_url": "https://omg10.com/4/10022830",
+      "start_time": "2026-04-17T03:46",
+      "ad_cooldown": 15,
       "winners": [],
-      "id": "XhaBXe1W7sX9ZXU3d3cx"
+      "id": "ZuggPaza7Us3eKujC9iR"
     }
   ],
   "cricket_matches": [
