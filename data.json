@@ -1,27 +1,27 @@
 {
   "matches": [
     {
-      "wait_time": 2,
       "winners": [],
-      "per_kill": 0,
-      "image_url": "",
+      "title": "Costam 4 vs 4",
+      "req_ads": 2,
       "is_ad_match": true,
-      "watch_video_id": "",
+      "wait_time": 2,
+      "total_spots": 7,
+      "start_time": "2026-04-14T14:30",
+      "ad_cooldown": 15,
+      "prize_slots": [],
+      "entry_fee": 0,
+      "per_kill": 0,
+      "prize_pool": 0,
+      "filled_spots": 1,
+      "map": "Class squad ",
+      "status": "open",
+      "image_url": "",
       "participants": [
         "guest_395058"
       ],
-      "prize_slots": [],
-      "start_time": "2026-04-14T14:30",
-      "title": "Costam 4 vs 4",
-      "entry_fee": 0,
-      "total_spots": 7,
-      "filled_spots": 1,
-      "req_ads": 2,
-      "prize_pool": 0,
-      "ad_cooldown": 15,
+      "watch_video_id": "",
       "type": "Solo",
-      "status": "open",
-      "map": "Class squad ",
       "id": "0ajvrNranwbBv5uV1BMu"
     }
   ],
@@ -30,10 +30,10 @@
   "notifications": [
     {
       "userId": "all",
+      "type": "info",
       "title": "Hii",
       "timestamp": "2026-04-16T08:07:17.618Z",
       "message": "Fhkkhsfhjjj",
-      "type": "info",
       "id": "VuKPbRn18XyjSlfrVMjU"
     }
   ],
@@ -42,8 +42,34 @@
   "toasts": [],
   "stories": [],
   "settings": {
-    "withdrawWaitHours": 24,
     "minWithdraw": 10,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "logoutLockDays": 15,
+    "appUpdateLink": "",
+    "isProfileCooldownActive": false,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
+    "isMaintenanceMode": false,
+    "redeemWaitHours": 6,
+    "isLogoutLocked": false,
+    "referralCommission": 2,
+    "signupBonus": 0,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
+    "profileCooldownHours": 24,
+    "maxWithdraw": 1000,
     "addMoneyPackages": [
       {
         "bonus": 0,
@@ -54,8 +80,8 @@
         "amount": 100
       },
       {
-        "amount": 200,
-        "bonus": 3
+        "bonus": 3,
+        "amount": 200
       },
       {
         "bonus": 4,
@@ -63,32 +89,6 @@
       }
     ],
     "withdrawFeePercent": 0,
-    "logoutLockDays": 15,
-    "profileCooldownHours": 24,
-    "appUpdateLink": "",
-    "isProfileCooldownActive": false,
-    "isMaintenanceMode": false,
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
-    ],
-    "referralCommission": 2,
-    "isLogoutLocked": false,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "signupBonus": 0,
-    "redeemWaitHours": 6,
-    "maxWithdraw": 1000,
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ]
+    "withdrawWaitHours": 24
   }
 }
