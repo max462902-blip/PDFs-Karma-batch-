@@ -26,7 +26,78 @@
     }
   ],
   "cricket_matches": [],
-  "sliders": [],
+  "sliders": [
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
+      "desc": "",
+      "id": "6CmnaO9sI7Xys1Kn35sU"
+    },
+    {
+      "desc": "",
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
+      "title": "",
+      "id": "BKGUfHPsGBMeAAC01OrP"
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "title": "",
+      "desc": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "id": "BpDWbaPyFmJlSZF3fDcn"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "desc": "",
+      "id": "HhFlUDGMD7zDHstczJIX"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
+      "desc": "",
+      "id": "YgKCxkkJwMgq9nIDXOa4"
+    },
+    {
+      "title": "",
+      "actionUrl": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2b222.jpg",
+      "desc": "",
+      "id": "ZB6kXL4kXhWzYM9R13HV"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "desc": "",
+      "id": "fHfpigcC3GgI7EQo1Vjg"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "desc": "",
+      "id": "gWt7PEyFPv54Lzj83THB"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
+      "desc": "",
+      "id": "ipvNDUNxivYda4zAJe0e"
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
+      "desc": "",
+      "title": "",
+      "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "id": "lbTPQba4ymiSTsuVrwbi"
+    },
+    {
+      "title": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
+      "desc": "",
+      "id": "tVpzD3l7IbUrGqM3tfhX"
+    }
+  ],
   "notifications": [
     {
       "userId": "all",
@@ -37,7 +108,16 @@
       "id": "VuKPbRn18XyjSlfrVMjU"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "title": "Bv",
+      "desc": "",
+      "timestamp": "2026-04-16T08:52:40.400Z",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
+      "thumbnailUrl": "",
+      "id": "9pD2sV4VU4VCR7GZ77Ds"
+    }
+  ],
   "ads": [],
   "toasts": [],
   "stories": [],
