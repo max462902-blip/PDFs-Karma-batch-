@@ -383,12 +383,12 @@
   ],
   "notifications": [
     {
-      "userId": "all",
-      "timestamp": "2026-04-16T08:07:17.618Z",
-      "title": "Hii",
-      "message": "Fhkkhsfhjjj",
       "type": "info",
-      "id": "VuKPbRn18XyjSlfrVMjU"
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
+      "title": "Good gameplay",
+      "userId": "all",
+      "timestamp": "2026-04-16T14:14:19.638Z",
+      "id": "Y1L16b3lLhK0fObdpzum"
     }
   ],
   "media": [
@@ -484,22 +484,40 @@
     }
   ],
   "settings": {
+    "minWithdraw": 10,
+    "vipPlans": [
+      {
+        "price": 30,
+        "days": 49,
+        "saveText": "30%",
+        "discount": 0
+      },
+      {
+        "days": 180,
+        "price": 199,
+        "discount": 50,
+        "saveText": "50"
+      }
+    ],
+    "maxWithdraw": 1000,
+    "profileCooldownHours": 24,
+    "isLogoutLocked": false,
+    "logoutLockDays": 15,
     "isMaintenanceMode": false,
     "signupBonus": 0,
-    "logoutLockDays": 15,
-    "isLogoutLocked": false,
-    "profileCooldownHours": 24,
-    "maxWithdraw": 1000,
-    "minWithdraw": 10,
-    "redeemWaitHours": 6,
-    "withdrawOptions": [
-      10,
-      20,
+    "referralCommission": 2,
+    "redeemOptions": [
+      9,
+      29,
       50,
+      79,
       100,
-      250,
-      500
+      159
     ],
+    "appUpdateLink": "",
+    "withdrawWaitHours": 24,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "withdrawFeePercent": 0,
     "isProfileCooldownActive": false,
     "addMoneyPackages": [
       {
@@ -519,32 +537,14 @@
         "amount": 300
       }
     ],
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "withdrawFeePercent": 0,
-    "withdrawWaitHours": 24,
-    "appUpdateLink": "",
-    "referralCommission": 2,
-    "redeemOptions": [
-      9,
-      29,
+    "withdrawOptions": [
+      10,
+      20,
       50,
-      79,
       100,
-      159
+      250,
+      500
     ],
-    "vipPlans": [
-      {
-        "price": 30,
-        "days": 49,
-        "saveText": "30%",
-        "discount": 0
-      },
-      {
-        "price": 199,
-        "days": 180,
-        "saveText": "50",
-        "discount": 50
-      }
-    ]
+    "redeemWaitHours": 6
   }
 }
