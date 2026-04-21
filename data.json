@@ -481,16 +481,29 @@
       "id": "2tHA3S23ASgyV6Oe1IgJ"
     },
     {
-      "scriptFullTag": "",
+      "title": "Watch ad",
+      "reward": 0.5,
       "cooldownMinutes": 60,
       "totalViews": 1,
-      "adSecurityPassword": "",
-      "watchTime": 15,
       "intervalSeconds": 0,
       "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "id": "8zaX3PUTpR8w22OWPTJs"
+    },
+    {
+      "adSecurityPassword": "",
+      "watchTime": 15,
+      "totalViews": 1,
+      "cooldownMinutes": 60,
+      "scriptFullTag": "",
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "title": "Watch ad",
       "reward": 0.05,
       "visibility": "vip",
-      "title": "Watch ad",
       "id": "9fuUEvjo6VDMpUDUECgE"
     },
     {
@@ -532,6 +545,19 @@
       "cooldownMinutes": 1,
       "totalViews": 1,
       "id": "D8KaP5hGPr0KAAqSrTn2"
+    },
+    {
+      "title": "Watch ad",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "id": "O5Tx1GJwgriculMh1Gam"
     },
     {
       "reward": 0.07,
@@ -587,6 +613,19 @@
       "id": "hLvHlVp7kp3AX91iTLtw"
     },
     {
+      "title": "Watch ad",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "id": "jhhxmgfV4HAWh0XUWUIr"
+    },
+    {
       "adSecurityPassword": "",
       "scriptFullTag": "",
       "intervalSeconds": 0,
@@ -600,29 +639,42 @@
       "id": "kQP5XrNvaJHfLwcUQ8qO"
     },
     {
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
+      "intervalSeconds": 0,
       "totalViews": 1,
       "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "linkUrl": "",
+      "watchTime": 15,
+      "adSecurityPassword": "",
+      "scriptFullTag": "",
+      "title": "Watch ad",
       "reward": 0.05,
       "visibility": "vip",
-      "title": "Watch ad",
+      "linkUrl": "",
       "id": "lffSC8ppx8GsHorrqNNS"
     },
     {
-      "reward": 0.05,
-      "visibility": "vip",
       "title": "Watch ad",
-      "linkUrl": "",
-      "intervalSeconds": 0,
-      "scriptFullTag": "",
-      "totalViews": 1,
+      "reward": 0.05,
       "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "normal",
+      "id": "okKy2Ke85VGdwZNPYyjY"
+    },
+    {
+      "linkUrl": "",
+      "title": "Watch ad",
+      "visibility": "vip",
+      "reward": 0.05,
       "watchTime": 15,
       "adSecurityPassword": "",
+      "totalViews": 1,
+      "cooldownMinutes": 60,
+      "scriptFullTag": "",
+      "intervalSeconds": 0,
       "id": "q6QuYJrFtxET45qDtECE"
     }
   ],
