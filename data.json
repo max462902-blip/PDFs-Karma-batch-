@@ -609,10 +609,10 @@
       100,
       159
     ],
-    "logoutLockDays": 15,
     "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "withdrawFeePercent": 0,
+    "logoutLockDays": 15,
     "profileCooldownHours": 24,
+    "withdrawFeePercent": 0,
     "withdrawWaitHours": 24,
     "isMaintenanceMode": false,
     "appUpdateLink": "",
@@ -629,8 +629,8 @@
       {
         "price": 149,
         "days": 186,
-        "saveText": "Save 16.66%",
-        "discount": 16
+        "saveText": "Save 17%",
+        "discount": 20
       }
     ],
     "minWithdraw": 10,
