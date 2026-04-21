@@ -481,6 +481,19 @@
       "id": "2tHA3S23ASgyV6Oe1IgJ"
     },
     {
+      "title": "Watch ad",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "all",
+      "id": "9fuUEvjo6VDMpUDUECgE"
+    },
+    {
       "scriptFullTag": "",
       "intervalSeconds": 0,
       "cooldownMinutes": 60,
@@ -585,6 +598,32 @@
       "cooldownMinutes": 60,
       "totalViews": 1,
       "id": "kQP5XrNvaJHfLwcUQ8qO"
+    },
+    {
+      "title": "Watch ad",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "all",
+      "id": "lffSC8ppx8GsHorrqNNS"
+    },
+    {
+      "title": "Watch ad",
+      "reward": 0.05,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "all",
+      "id": "q6QuYJrFtxET45qDtECE"
     }
   ],
   "toasts": [],
@@ -601,25 +640,22 @@
     }
   ],
   "settings": {
-    "minWithdraw": 10,
-    "referralCommission": 2,
-    "maxWithdraw": 1000,
-    "redeemWaitHours": 6,
-    "vipPlans": [
-      {
-        "price": 30,
-        "days": 31,
-        "saveText": "",
-        "discount": 0
-      },
-      {
-        "price": 149,
-        "days": 186,
-        "saveText": "Save 17%",
-        "discount": 18
-      }
+    "signupBonus": 0,
+    "appUpdateLink": "",
+    "isMaintenanceMode": false,
+    "withdrawWaitHours": 24,
+    "profileCooldownHours": 24,
+    "withdrawFeePercent": 0,
+    "logoutLockDays": 15,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
     ],
-    "isLogoutLocked": false,
     "addMoneyPackages": [
       {
         "bonus": 0,
@@ -638,6 +674,8 @@
         "amount": 300
       }
     ],
+    "isLogoutLocked": false,
+    "isProfileCooldownActive": false,
     "withdrawOptions": [
       10,
       20,
@@ -646,22 +684,23 @@
       250,
       500
     ],
-    "isProfileCooldownActive": false,
-    "logoutLockDays": 15,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
+    "referralCommission": 2,
+    "minWithdraw": 10,
+    "vipPlans": [
+      {
+        "saveText": "",
+        "discount": 0,
+        "price": 30,
+        "days": 31
+      },
+      {
+        "price": 149,
+        "days": 186,
+        "saveText": "Save 17%",
+        "discount": 18
+      }
     ],
-    "signupBonus": 0,
-    "profileCooldownHours": 24,
-    "withdrawFeePercent": 0,
-    "withdrawWaitHours": 24,
-    "appUpdateLink": "",
-    "isMaintenanceMode": false
+    "redeemWaitHours": 6,
+    "maxWithdraw": 1000
   }
 }
