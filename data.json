@@ -521,16 +521,16 @@
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "title": "Watch ad",
       "reward": 0.07,
-      "cooldownMinutes": 60,
-      "totalViews": 1,
-      "intervalSeconds": 0,
       "linkUrl": "",
-      "watchTime": 15,
-      "scriptFullTag": "",
       "adSecurityPassword": "",
+      "scriptFullTag": "",
+      "intervalSeconds": 0,
+      "cooldownMinutes": 60,
+      "watchTime": 15,
       "visibility": "vip",
+      "title": "Watch ad",
+      "totalViews": 1,
       "id": "PmIkFXU0C68MZNkjyILL"
     },
     {
