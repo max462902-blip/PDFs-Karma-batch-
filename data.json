@@ -500,7 +500,7 @@
       "cooldownMinutes": 60,
       "scriptFullTag": "",
       "intervalSeconds": 0,
-      "linkUrl": "",
+      "linkUrl": "https://omg10.com/4/10022830",
       "title": "Watch ad",
       "reward": 0.05,
       "visibility": "vip",
@@ -510,7 +510,7 @@
       "scriptFullTag": "",
       "intervalSeconds": 0,
       "cooldownMinutes": 60,
-      "linkUrl": "",
+      "linkUrl": "https://omg10.com/4/10022830",
       "reward": 0.05,
       "adSecurityPassword": "",
       "visibility": "normal",
@@ -533,7 +533,7 @@
       "id": "ApsQjLChdPU57PAkU2qD"
     },
     {
-      "linkUrl": "",
+      "linkUrl": "https://omg10.com/4/10022830",
       "reward": 0.05,
       "adSecurityPassword": "",
       "scriptFullTag": "",
@@ -547,23 +547,23 @@
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "title": "Watch ad",
-      "reward": 0.05,
+      "intervalSeconds": 0,
       "cooldownMinutes": 60,
       "totalViews": 1,
-      "intervalSeconds": 0,
-      "linkUrl": "",
+      "adSecurityPassword": "",
       "watchTime": 15,
       "scriptFullTag": "",
-      "adSecurityPassword": "",
+      "title": "Watch ad",
+      "reward": 0.05,
       "visibility": "normal",
+      "linkUrl": "",
       "id": "LKHk0cPh0k6ZnjWDqCGr"
     },
     {
       "visibility": "normal",
       "reward": 0.05,
       "title": "Watch ad",
-      "linkUrl": "",
+      "linkUrl": "https://omg10.com/4/10022830",
       "intervalSeconds": 0,
       "scriptFullTag": "",
       "adSecurityPassword": "",
@@ -661,7 +661,7 @@
       "title": "Watch ad",
       "reward": 0.05,
       "visibility": "vip",
-      "linkUrl": "",
+      "linkUrl": "https://omg10.com/4/10022830",
       "id": "lffSC8ppx8GsHorrqNNS"
     },
     {
