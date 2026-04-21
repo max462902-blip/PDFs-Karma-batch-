@@ -607,16 +607,16 @@
     "redeemWaitHours": 6,
     "vipPlans": [
       {
-        "discount": 0,
-        "saveText": "",
+        "price": 30,
         "days": 31,
-        "price": 30
+        "saveText": "",
+        "discount": 0
       },
       {
-        "discount": 16,
-        "saveText": "Save 17%",
+        "price": 149,
         "days": 186,
-        "price": 149
+        "saveText": "Save 17%",
+        "discount": 18
       }
     ],
     "isLogoutLocked": false,
