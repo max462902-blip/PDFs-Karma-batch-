@@ -468,16 +468,16 @@
   ],
   "ads": [
     {
-      "title": "Watch ad",
-      "reward": 0.07,
-      "cooldownMinutes": 60,
       "totalViews": 1,
-      "intervalSeconds": 0,
-      "linkUrl": "",
+      "title": "Watch ad",
+      "visibility": "vip",
       "watchTime": 15,
+      "cooldownMinutes": 60,
+      "intervalSeconds": 0,
       "scriptFullTag": "",
       "adSecurityPassword": "",
-      "visibility": "vip",
+      "linkUrl": "",
+      "reward": 0.07,
       "id": "2tHA3S23ASgyV6Oe1IgJ"
     },
     {
@@ -519,6 +519,19 @@
       "cooldownMinutes": 1,
       "totalViews": 1,
       "id": "D8KaP5hGPr0KAAqSrTn2"
+    },
+    {
+      "title": "Watch ad",
+      "reward": 0.07,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "intervalSeconds": 0,
+      "linkUrl": "",
+      "watchTime": 15,
+      "scriptFullTag": "",
+      "adSecurityPassword": "",
+      "visibility": "vip",
+      "id": "PmIkFXU0C68MZNkjyILL"
     },
     {
       "title": "Watch ad",
