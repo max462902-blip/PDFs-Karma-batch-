@@ -481,16 +481,16 @@
       "id": "2tHA3S23ASgyV6Oe1IgJ"
     },
     {
-      "title": "Watch ad",
       "reward": 0.5,
-      "cooldownMinutes": 60,
-      "totalViews": 1,
-      "intervalSeconds": 0,
+      "visibility": "normal",
+      "title": "Watch ad",
       "linkUrl": "",
-      "watchTime": 15,
+      "intervalSeconds": 0,
       "scriptFullTag": "",
       "adSecurityPassword": "",
-      "visibility": "normal",
+      "watchTime": 15,
+      "totalViews": 1,
+      "cooldownMinutes": 60,
       "id": "8zaX3PUTpR8w22OWPTJs"
     },
     {
@@ -547,16 +547,16 @@
       "id": "D8KaP5hGPr0KAAqSrTn2"
     },
     {
-      "title": "Watch ad",
+      "visibility": "normal",
       "reward": 0.05,
-      "cooldownMinutes": 60,
-      "totalViews": 1,
-      "intervalSeconds": 0,
+      "title": "Watch ad",
       "linkUrl": "",
-      "watchTime": 15,
+      "intervalSeconds": 0,
       "scriptFullTag": "",
       "adSecurityPassword": "",
-      "visibility": "normal",
+      "watchTime": 15,
+      "cooldownMinutes": 60,
+      "totalViews": 1,
       "id": "O5Tx1GJwgriculMh1Gam"
     },
     {
@@ -613,16 +613,16 @@
       "id": "hLvHlVp7kp3AX91iTLtw"
     },
     {
-      "title": "Watch ad",
-      "reward": 0.05,
+      "intervalSeconds": 0,
+      "scriptFullTag": "",
       "cooldownMinutes": 60,
       "totalViews": 1,
-      "intervalSeconds": 0,
-      "linkUrl": "",
-      "watchTime": 15,
-      "scriptFullTag": "",
       "adSecurityPassword": "",
+      "watchTime": 15,
+      "reward": 0.05,
       "visibility": "normal",
+      "title": "Watch ad",
+      "linkUrl": "",
       "id": "jhhxmgfV4HAWh0XUWUIr"
     },
     {
@@ -652,16 +652,16 @@
       "id": "lffSC8ppx8GsHorrqNNS"
     },
     {
-      "title": "Watch ad",
-      "reward": 0.05,
+      "scriptFullTag": "",
       "cooldownMinutes": 60,
       "totalViews": 1,
+      "adSecurityPassword": "",
+      "watchTime": 15,
       "intervalSeconds": 0,
       "linkUrl": "",
-      "watchTime": 15,
-      "scriptFullTag": "",
-      "adSecurityPassword": "",
+      "reward": 0.05,
       "visibility": "normal",
+      "title": "Watch ad",
       "id": "okKy2Ke85VGdwZNPYyjY"
     },
     {
