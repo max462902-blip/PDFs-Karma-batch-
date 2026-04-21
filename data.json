@@ -586,15 +586,15 @@
       "id": "PmIkFXU0C68MZNkjyILL"
     },
     {
-      "title": "Watch ad",
       "reward": 0.07,
-      "linkUrl": "https://omg10.com/4/10022830",
-      "scriptFullTag": "",
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "totalViews": 1,
-      "cooldownMinutes": 60,
       "visibility": "vip",
+      "title": "Watch ad",
+      "linkUrl": "https://omg10.com/4/10022830",
+      "intervalSeconds": 0,
+      "scriptFullTag": "",
+      "cooldownMinutes": 60,
+      "totalViews": 1,
+      "adSecurityPassword": "",
       "watchTime": 15,
       "id": "XrJsid8RmpCBLUkPiXp1"
     },
@@ -705,14 +705,32 @@
     }
   ],
   "settings": {
-    "signupBonus": 0,
-    "appUpdateLink": "",
     "isMaintenanceMode": false,
-    "withdrawWaitHours": 24,
+    "appUpdateLink": "",
+    "isTelegramModeOnly": false,
+    "telegramLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "telegramWarningText": "This app only works inside our Official Telegram Bot.",
+    "telegramBotLink": "https://t.me/Adam_supporrt_bot",
     "profileCooldownHours": 24,
-    "withdrawFeePercent": 0,
+    "isProfileCooldownActive": false,
     "logoutLockDays": 15,
+    "isLogoutLocked": false,
+    "minWithdraw": 10,
+    "maxWithdraw": 1000,
+    "withdrawFeePercent": 0,
+    "withdrawWaitHours": 24,
+    "redeemWaitHours": 6,
+    "signupBonus": 0,
+    "referralCommission": 2,
     "razorpayKey": "rzp_live_Rm30E7uT81eawu",
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
+    ],
     "redeemOptions": [
       9,
       29,
@@ -723,49 +741,22 @@
     ],
     "addMoneyPackages": [
       {
-        "bonus": 0,
-        "amount": 50
+        "amount": 50,
+        "bonus": 0
       },
       {
-        "bonus": 2,
-        "amount": 100
+        "amount": 100,
+        "bonus": 2
       },
       {
-        "bonus": 3,
-        "amount": 200
+        "amount": 200,
+        "bonus": 3
       },
       {
-        "bonus": 4,
-        "amount": 300
+        "amount": 300,
+        "bonus": 4
       }
     ],
-    "isLogoutLocked": false,
-    "isProfileCooldownActive": false,
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
-    ],
-    "referralCommission": 2,
-    "minWithdraw": 10,
-    "vipPlans": [
-      {
-        "saveText": "",
-        "discount": 0,
-        "price": 30,
-        "days": 31
-      },
-      {
-        "price": 149,
-        "days": 186,
-        "saveText": "Save 17%",
-        "discount": 18
-      }
-    ],
-    "redeemWaitHours": 6,
-    "maxWithdraw": 1000
+    "vipPlans": []
   }
 }
