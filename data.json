@@ -481,16 +481,16 @@
       "id": "9plC5YLfbJcMK7zQrImu"
     },
     {
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "scriptFullTag": "",
-      "reward": 0.05,
-      "adSecurityPassword": "",
-      "linkUrl": "",
       "totalViews": 1,
       "title": "Watch ad",
       "visibility": "normal",
       "watchTime": 15,
+      "cooldownMinutes": 60,
+      "scriptFullTag": "",
+      "intervalSeconds": 0,
+      "reward": 0.05,
+      "adSecurityPassword": "",
+      "linkUrl": "",
       "id": "ApsQjLChdPU57PAkU2qD"
     },
     {
