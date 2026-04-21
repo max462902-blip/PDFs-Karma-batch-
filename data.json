@@ -535,16 +535,16 @@
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "adSecurityPassword": "",
-      "scriptFullTag": "",
       "intervalSeconds": 0,
-      "linkUrl": "https://omg10.com/4/10022830",
-      "reward": 0.05,
-      "title": "Watch ad",
-      "visibility": "normal",
-      "watchTime": 15,
       "cooldownMinutes": 1,
+      "visibility": "normal",
+      "scriptFullTag": "",
       "totalViews": 1,
+      "adSecurityPassword": "",
+      "linkUrl": "https://omg10.com/4/10022830",
+      "title": "Watch ad",
+      "reward": 0.05,
+      "watchTime": 15,
       "id": "hLvHlVp7kp3AX91iTLtw"
     },
     {
