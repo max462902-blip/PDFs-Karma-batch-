@@ -489,7 +489,7 @@
       "intervalSeconds": 0,
       "linkUrl": "",
       "reward": 0.05,
-      "visibility": "all",
+      "visibility": "vip",
       "title": "Watch ad",
       "id": "9fuUEvjo6VDMpUDUECgE"
     },
@@ -608,13 +608,13 @@
       "intervalSeconds": 0,
       "linkUrl": "",
       "reward": 0.05,
-      "visibility": "all",
+      "visibility": "vip",
       "title": "Watch ad",
       "id": "lffSC8ppx8GsHorrqNNS"
     },
     {
       "reward": 0.05,
-      "visibility": "all",
+      "visibility": "vip",
       "title": "Watch ad",
       "linkUrl": "",
       "intervalSeconds": 0,
