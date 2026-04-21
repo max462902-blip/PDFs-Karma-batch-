@@ -647,16 +647,16 @@
     "logoutLockDays": 15,
     "vipPlans": [
       {
-        "saveText": "30%",
+        "price": 30,
         "days": 49,
-        "discount": 0,
-        "price": 30
+        "saveText": "",
+        "discount": 0
       },
       {
-        "saveText": "50",
+        "price": 199,
         "days": 180,
-        "discount": 50,
-        "price": 199
+        "saveText": "Save 50%",
+        "discount": 50
       }
     ],
     "isMaintenanceMode": false,
