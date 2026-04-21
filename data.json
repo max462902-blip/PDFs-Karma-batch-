@@ -705,31 +705,29 @@
     }
   ],
   "settings": {
-    "isMaintenanceMode": false,
-    "appUpdateLink": "",
-    "isTelegramModeOnly": true,
-    "telegramLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
-    "telegramWarningText": "This app only works inside our Official Telegram Bot.",
-    "telegramBotLink": "https://t.me/Adam_supporrt_bot",
-    "profileCooldownHours": 24,
-    "isProfileCooldownActive": false,
     "logoutLockDays": 15,
     "isLogoutLocked": false,
-    "minWithdraw": 10,
-    "maxWithdraw": 1000,
-    "withdrawFeePercent": 0,
-    "withdrawWaitHours": 24,
-    "redeemWaitHours": 6,
-    "signupBonus": 0,
+    "isProfileCooldownActive": false,
     "referralCommission": 2,
+    "redeemWaitHours": 6,
     "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "withdrawOptions": [
-      10,
-      20,
-      50,
-      100,
-      250,
-      500
+    "addMoneyPackages": [
+      {
+        "bonus": 0,
+        "amount": 50
+      },
+      {
+        "bonus": 2,
+        "amount": 100
+      },
+      {
+        "bonus": 3,
+        "amount": 200
+      },
+      {
+        "bonus": 4,
+        "amount": 300
+      }
     ],
     "redeemOptions": [
       9,
@@ -739,23 +737,25 @@
       100,
       159
     ],
-    "addMoneyPackages": [
-      {
-        "amount": 50,
-        "bonus": 0
-      },
-      {
-        "amount": 100,
-        "bonus": 2
-      },
-      {
-        "amount": 200,
-        "bonus": 3
-      },
-      {
-        "amount": 300,
-        "bonus": 4
-      }
+    "telegramLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "withdrawFeePercent": 0,
+    "isTelegramModeOnly": true,
+    "isMaintenanceMode": false,
+    "minWithdraw": 10,
+    "telegramWarningText": "This app only works inside our Official Telegram Bot.",
+    "telegramBotLink": "https://t.me/Adam_supporrt_bot",
+    "withdrawWaitHours": 24,
+    "signupBonus": 0,
+    "appUpdateLink": "",
+    "maxWithdraw": 1000,
+    "profileCooldownHours": 24,
+    "withdrawOptions": [
+      10,
+      20,
+      50,
+      100,
+      250,
+      500
     ],
     "vipPlans": []
   }
