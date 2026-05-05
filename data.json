@@ -113,7 +113,7 @@
     {
       "title": "Watch ad",
       "linkUrl": "",
-      "reward": 0.07,
+      "reward": 0.1,
       "totalViews": 1,
       "visibility": "vip",
       "cooldownMinutes": 60,
@@ -136,19 +136,6 @@
       "intervalSeconds": 0,
       "cooldownMinutes": 1,
       "id": "bnfOp7FyuZbvER1PNdaW"
-    },
-    {
-      "title": "Watch ad",
-      "reward": 0.07,
-      "visibility": "vip",
-      "totalViews": 1,
-      "linkUrl": "",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "id": "kQP5XrNvaJHfLwcUQ8qO"
     }
   ],
   "toasts": [],
@@ -206,6 +193,19 @@
     "telegramWarningText": "This app only works inside our Official Telegram Bot.",
     "withdrawFeePercent": 0,
     "maxWithdraw": 1000,
-    "vipPlans": []
+    "vipPlans": [
+      {
+        "price": 5,
+        "days": 9,
+        "saveText": "",
+        "discount": 0
+      },
+      {
+        "price": 11,
+        "days": 27,
+        "saveText": "Popular",
+        "discount": 0
+      }
+    ]
   }
 }
