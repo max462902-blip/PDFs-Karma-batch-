@@ -98,85 +98,6 @@
   ],
   "ads": [
     {
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "linkUrl": "",
-      "reward": 0.07,
-      "totalViews": 1,
-      "visibility": "vip",
-      "title": "Watch ad",
-      "id": "2tHA3S23ASgyV6Oe1IgJ"
-    },
-    {
-      "linkUrl": "",
-      "visibility": "normal",
-      "totalViews": 1,
-      "reward": 0.05,
-      "title": "Watch ad",
-      "adSecurityPassword": "",
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "id": "8zaX3PUTpR8w22OWPTJs"
-    },
-    {
-      "title": "Watch ad",
-      "totalViews": 1,
-      "visibility": "vip",
-      "reward": 0.05,
-      "linkUrl": "https://omg10.com/4/10022830",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "id": "9fuUEvjo6VDMpUDUECgE"
-    },
-    {
-      "title": "Watch ad",
-      "visibility": "normal",
-      "totalViews": 1,
-      "reward": 0.05,
-      "linkUrl": "https://omg10.com/4/10022830",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "id": "9plC5YLfbJcMK7zQrImu"
-    },
-    {
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "title": "Watch ad",
-      "visibility": "normal",
-      "totalViews": 1,
-      "reward": 0.05,
-      "linkUrl": "",
-      "id": "ApsQjLChdPU57PAkU2qD"
-    },
-    {
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "intervalSeconds": 0,
-      "cooldownMinutes": 1,
-      "adSecurityPassword": "",
-      "reward": 0.05,
-      "totalViews": 1,
-      "visibility": "normal",
-      "linkUrl": "https://omg10.com/4/10022830",
-      "ad_network_type": "monetag",
-      "title": "Watch ad",
-      "id": "D8KaP5hGPr0KAAqSrTn2"
-    },
-    {
       "adSecurityPassword": "",
       "cooldownMinutes": 60,
       "intervalSeconds": 0,
@@ -190,19 +111,6 @@
       "id": "LKHk0cPh0k6ZnjWDqCGr"
     },
     {
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "title": "Watch ad",
-      "linkUrl": "https://omg10.com/4/10022830",
-      "reward": 0.05,
-      "visibility": "normal",
-      "totalViews": 1,
-      "id": "O5Tx1GJwgriculMh1Gam"
-    },
-    {
       "title": "Watch ad",
       "linkUrl": "",
       "reward": 0.07,
@@ -214,19 +122,6 @@
       "scriptFullTag": "",
       "watchTime": 15,
       "id": "PmIkFXU0C68MZNkjyILL"
-    },
-    {
-      "reward": 0.07,
-      "totalViews": 1,
-      "visibility": "vip",
-      "linkUrl": "https://omg10.com/4/10022830",
-      "title": "Watch ad",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "intervalSeconds": 0,
-      "cooldownMinutes": 60,
-      "adSecurityPassword": "",
-      "id": "XrJsid8RmpCBLUkPiXp1"
     },
     {
       "ad_network_type": "monetag",
@@ -243,32 +138,6 @@
       "id": "bnfOp7FyuZbvER1PNdaW"
     },
     {
-      "linkUrl": "https://omg10.com/4/10022830",
-      "reward": 0.05,
-      "totalViews": 1,
-      "visibility": "normal",
-      "title": "Watch ad",
-      "cooldownMinutes": 1,
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "scriptFullTag": "",
-      "id": "hLvHlVp7kp3AX91iTLtw"
-    },
-    {
-      "title": "Watch ad",
-      "linkUrl": "",
-      "reward": 0.05,
-      "totalViews": 1,
-      "visibility": "normal",
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "adSecurityPassword": "",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "id": "jhhxmgfV4HAWh0XUWUIr"
-    },
-    {
       "title": "Watch ad",
       "reward": 0.07,
       "visibility": "vip",
@@ -280,45 +149,6 @@
       "intervalSeconds": 0,
       "adSecurityPassword": "",
       "id": "kQP5XrNvaJHfLwcUQ8qO"
-    },
-    {
-      "visibility": "vip",
-      "totalViews": 1,
-      "reward": 0.05,
-      "linkUrl": "https://omg10.com/4/10022830",
-      "title": "Watch ad",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "id": "lffSC8ppx8GsHorrqNNS"
-    },
-    {
-      "adSecurityPassword": "",
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "title": "Watch ad",
-      "linkUrl": "",
-      "visibility": "normal",
-      "totalViews": 1,
-      "reward": 0.05,
-      "id": "okKy2Ke85VGdwZNPYyjY"
-    },
-    {
-      "visibility": "vip",
-      "totalViews": 1,
-      "reward": 0.05,
-      "linkUrl": "",
-      "title": "Watch ad",
-      "scriptFullTag": "",
-      "watchTime": 15,
-      "adSecurityPassword": "",
-      "cooldownMinutes": 60,
-      "intervalSeconds": 0,
-      "id": "q6QuYJrFtxET45qDtECE"
     }
   ],
   "toasts": [],
