@@ -1,53 +1,53 @@
 {
   "matches": [
     {
-      "ad_cooldown": 10,
-      "type": "Solo",
       "filled_spots": 0,
-      "map": "Bermuda",
-      "winners": [],
-      "per_kill": 0,
-      "participants": [],
-      "total_spots": 48,
-      "title": "",
-      "smart_link_url": "",
-      "start_time": "",
-      "image_url": "",
-      "is_ad_match": true,
-      "prize_pool": 0,
-      "prize_slots": [],
-      "status": "open",
-      "req_ads": 5,
-      "smart_link_timer": 15,
-      "wait_time": 3,
-      "watch_video_id": "",
+      "type": "Solo",
       "ad_type": "sdk",
       "entry_fee": 0,
+      "total_spots": 48,
+      "is_ad_match": true,
+      "per_kill": 0,
+      "wait_time": 3,
+      "req_ads": 1,
+      "status": "open",
+      "winners": [],
+      "ad_cooldown": 10,
+      "title": "",
+      "start_time": "",
+      "smart_link_url": "",
+      "prize_slots": [],
+      "map": "Bermuda",
+      "watch_video_id": "",
+      "participants": [],
+      "prize_pool": 0,
+      "image_url": "",
+      "smart_link_timer": 15,
       "id": "QdtDDChUQ7YANT3ZGKN5"
     },
     {
-      "req_ads": 10,
       "wait_time": 3,
-      "watch_video_id": "",
-      "ad_type": "sdk",
-      "smart_link_timer": 15,
-      "entry_fee": 0,
+      "req_ads": 1,
       "is_ad_match": true,
-      "prize_pool": 0,
-      "prize_slots": [],
-      "status": "open",
-      "winners": [],
-      "participants": [],
       "per_kill": 0,
-      "title": "Free fire - T1",
+      "entry_fee": 0,
       "total_spots": 48,
-      "smart_link_url": "",
-      "image_url": "",
-      "start_time": "",
-      "ad_cooldown": 11,
       "type": "Solo",
       "filled_spots": 0,
+      "ad_type": "sdk",
+      "participants": [],
+      "prize_pool": 0,
+      "image_url": "",
+      "smart_link_timer": 15,
       "map": "Class squad ",
+      "watch_video_id": "",
+      "prize_slots": [],
+      "smart_link_url": "",
+      "title": "Free fire - T1",
+      "winners": [],
+      "ad_cooldown": 11,
+      "status": "open",
+      "start_time": "",
       "id": "QecCK1wecSAIRTiFLaXD"
     }
   ],
@@ -56,61 +56,72 @@
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
       "title": "",
-      "desc": ""
+      "desc": "",
+      "id": "6CmnaO9sI7Xys1Kn35sU"
     },
     {
       "title": "",
       "desc": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
-      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt"
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
+      "id": "BKGUfHPsGBMeAAC01OrP"
     },
     {
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
+      "id": "BpDWbaPyFmJlSZF3fDcn"
     },
     {
       "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
+      "id": "HhFlUDGMD7zDHstczJIX"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
       "desc": "",
-      "title": ""
+      "title": "",
+      "id": "YgKCxkkJwMgq9nIDXOa4"
     },
     {
       "desc": "",
       "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2b222.jpg",
-      "actionUrl": ""
+      "actionUrl": "",
+      "id": "ZB6kXL4kXhWzYM9R13HV"
     },
     {
       "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "id": "fHfpigcC3GgI7EQo1Vjg"
     },
     {
       "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "id": "gWt7PEyFPv54Lzj83THB"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
       "desc": "",
-      "title": ""
+      "title": "",
+      "id": "ipvNDUNxivYda4zAJe0e"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
       "desc": "",
-      "title": ""
+      "title": "",
+      "id": "lbTPQba4ymiSTsuVrwbi"
     },
     {
       "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
+      "id": "tVpzD3l7IbUrGqM3tfhX"
     }
   ],
   "notifications": [],
@@ -124,48 +135,7 @@
       "id": "9pD2sV4VU4VCR7GZ77Ds"
     }
   ],
-  "ads": [
-    {
-      "scriptFullTag": "",
-      "reward": 0.15,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "linkUrl": "",
-      "visibility": "vip",
-      "totalViews": 1,
-      "cooldownMinutes": 720,
-      "title": "Watch ad",
-      "intervalSeconds": 0,
-      "id": "LKHk0cPh0k6ZnjWDqCGr"
-    },
-    {
-      "scriptFullTag": "",
-      "reward": 0.15,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "visibility": "vip",
-      "linkUrl": "",
-      "cooldownMinutes": 720,
-      "totalViews": 1,
-      "title": "Watch ad",
-      "intervalSeconds": 0,
-      "id": "PmIkFXU0C68MZNkjyILL"
-    },
-    {
-      "scriptFullTag": "",
-      "reward": 0.1,
-      "adSecurityPassword": "9982833519jitendra",
-      "watchTime": 15,
-      "visibility": "normal",
-      "linkUrl": "",
-      "cooldownMinutes": 720,
-      "totalViews": 1,
-      "title": "Watch ads",
-      "ad_network_type": "monetag",
-      "intervalSeconds": 0,
-      "id": "bnfOp7FyuZbvER1PNdaW"
-    }
-  ],
+  "ads": [],
   "toasts": [],
   "stories": [],
   "settings": {
