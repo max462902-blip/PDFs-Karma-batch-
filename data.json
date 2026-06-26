@@ -1,225 +1,174 @@
 {
   "matches": [
     {
-      "ad_cooldown": 10,
       "wait_time": 3,
-      "ad_type": "sdk",
-      "smart_link_url": "",
+      "watch_video_id": "",
+      "filled_spots": 3,
+      "req_ads": 5,
+      "prize_slots": [],
+      "winners": [],
+      "type": "Solo",
+      "map": "Bermuda",
+      "ad_cooldown": 10,
+      "per_kill": 0,
+      "title": "",
       "is_ad_match": true,
+      "start_time": "",
       "participants": [
         "guest_740130",
         "guest_62686",
         "hlxZkRz2toOqa9fBHWNywSJSp6t1"
       ],
-      "title": "",
-      "per_kill": 0,
-      "req_ads": 1,
-      "filled_spots": 3,
-      "winners": [],
       "status": "open",
-      "prize_pool": 0,
-      "type": "Solo",
-      "map": "Bermuda",
-      "image_url": "",
       "total_spots": 48,
-      "prize_slots": [],
-      "watch_video_id": "",
       "smart_link_timer": 15,
       "entry_fee": 0,
-      "start_time": "",
+      "image_url": "",
+      "ad_type": "sdk",
+      "smart_link_url": "",
+      "prize_pool": 0,
       "id": "QdtDDChUQ7YANT3ZGKN5"
     },
     {
-      "wait_time": 3,
-      "req_ads": 1,
-      "is_ad_match": true,
-      "per_kill": 0,
-      "entry_fee": 0,
-      "total_spots": 48,
-      "type": "Solo",
-      "filled_spots": 0,
-      "ad_type": "sdk",
-      "participants": [],
-      "prize_pool": 0,
-      "image_url": "",
-      "smart_link_timer": 15,
-      "map": "Class squad ",
-      "watch_video_id": "",
-      "prize_slots": [],
-      "smart_link_url": "",
-      "title": "Free fire - T1",
-      "winners": [],
       "ad_cooldown": 11,
-      "status": "open",
+      "map": "Class squad ",
+      "type": "Solo",
+      "per_kill": 0,
+      "title": "Free fire - T1",
+      "is_ad_match": true,
+      "watch_video_id": "",
+      "filled_spots": 1,
+      "req_ads": 1,
+      "wait_time": 3,
+      "prize_slots": [],
+      "winners": [],
+      "entry_fee": 0,
+      "image_url": "",
+      "ad_type": "sdk",
+      "prize_pool": 0,
+      "smart_link_url": "",
+      "total_spots": 48,
+      "smart_link_timer": 15,
       "start_time": "",
+      "participants": [
+        "hlxZkRz2toOqa9fBHWNywSJSp6t1"
+      ],
+      "status": "open",
       "id": "QecCK1wecSAIRTiFLaXD"
     }
   ],
   "cricket_matches": [],
   "sliders": [
     {
+      "desc": "",
+      "title": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_a5169.jpg",
-      "title": "",
-      "desc": ""
+      "id": "6CmnaO9sI7Xys1Kn35sU"
     },
     {
       "title": "",
       "desc": "",
+      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_82148.jpg",
-      "actionUrl": "jHbYZxh2PzQ5Nv6bMItt"
+      "id": "BKGUfHPsGBMeAAC01OrP"
     },
     {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
-      "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_d2231.jpg"
+      "desc": "",
+      "id": "BpDWbaPyFmJlSZF3fDcn"
     },
     {
-      "desc": "",
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_17a34.jpg"
+      "desc": "",
+      "id": "HhFlUDGMD7zDHstczJIX"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_cf98f.jpg",
+      "title": "",
       "desc": "",
-      "title": ""
+      "id": "YgKCxkkJwMgq9nIDXOa4"
     },
     {
-      "desc": "",
-      "title": "",
+      "actionUrl": "",
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_2b222.jpg",
-      "actionUrl": ""
-    },
-    {
-      "title": "",
-      "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg"
-    },
-    {
       "desc": "",
       "title": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg"
+      "id": "ZB6kXL4kXhWzYM9R13HV"
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_47eb6.jpg",
+      "title": "",
+      "desc": "",
+      "id": "fHfpigcC3GgI7EQo1Vjg"
+    },
+    {
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_f6b63.jpg",
+      "desc": "",
+      "title": "",
+      "id": "gWt7PEyFPv54Lzj83THB"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_252f8.jpg",
+      "title": "",
       "desc": "",
-      "title": ""
+      "id": "ipvNDUNxivYda4zAJe0e"
     },
     {
       "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_fe33a.jpg",
       "image_url": "https://i.ibb.co/fGDmrjSt/20260225-032502.jpg",
+      "title": "",
       "desc": "",
-      "title": ""
+      "id": "lbTPQba4ymiSTsuVrwbi"
     },
     {
       "title": "",
       "desc": "",
-      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg"
+      "image": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Image_789c8.jpg",
+      "id": "tVpzD3l7IbUrGqM3tfhX"
     }
   ],
   "notifications": [],
   "media": [
     {
       "title": "Bv",
-      "thumbnailUrl": "",
-      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
-      "timestamp": "2026-04-16T08:52:40.400Z",
       "desc": "",
+      "thumbnailUrl": "",
+      "timestamp": "2026-04-16T08:52:40.400Z",
+      "mediaUrl": "https://jitendra55566-bot-uplod.hf.space/rajasthan/Rajasthan_Video_21228.mp4",
       "id": "9pD2sV4VU4VCR7GZ77Ds"
     }
   ],
-  "ads": [
-    {
-      "scriptFullTag": "",
-      "reward": 0.15,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "linkUrl": "",
-      "visibility": "vip",
-      "totalViews": 1,
-      "cooldownMinutes": 720,
-      "title": "Watch ad",
-      "intervalSeconds": 0,
-      "id": "LKHk0cPh0k6ZnjWDqCGr"
-    },
-    {
-      "scriptFullTag": "",
-      "reward": 0.15,
-      "adSecurityPassword": "",
-      "watchTime": 15,
-      "visibility": "vip",
-      "linkUrl": "",
-      "cooldownMinutes": 720,
-      "totalViews": 1,
-      "title": "Watch ad",
-      "intervalSeconds": 0,
-      "id": "PmIkFXU0C68MZNkjyILL"
-    },
-    {
-      "intervalSeconds": 0,
-      "ad_network_type": "monetag",
-      "title": "Watch ads",
-      "totalViews": 1,
-      "cooldownMinutes": 720,
-      "linkUrl": "",
-      "visibility": "normal",
-      "watchTime": 15,
-      "adSecurityPassword": "9982833519jitendra",
-      "reward": 0.1,
-      "scriptFullTag": "",
-      "id": "bnfOp7FyuZbvER1PNdaW"
-    }
-  ],
+  "ads": [],
   "toasts": [
     {
+      "message": "Kya hal h subi ka",
       "title": "Suno",
-      "type": "info",
-      "status": "active",
-      "target": "all",
+      "mediaUrl": "",
       "timestamp": {
         "seconds": 1781065507,
         "nanoseconds": 173000000
       },
+      "status": "active",
       "frequency": "always",
-      "mediaUrl": "",
-      "message": "Kya hal h subi ka",
+      "type": "info",
+      "target": "all",
       "id": "V5k0YPulHyMnb57l3PyO"
     }
   ],
   "stories": [],
   "settings": {
-    "isMaintenanceMode": false,
-    "logoutLockDays": 15,
-    "redeemWaitHours": 6,
-    "vipPlans": [
-      {
-        "discount": 0,
-        "saveText": "",
-        "price": 5,
-        "days": 9
-      },
-      {
-        "days": 27,
-        "discount": 0,
-        "saveText": "Popular",
-        "price": 11
-      }
-    ],
-    "redeemOptions": [
-      9,
-      29,
-      50,
-      79,
-      100,
-      159
-    ],
-    "isTelegramModeOnly": false,
+    "withdrawWaitHours": 24,
+    "isProfileCooldownActive": false,
+    "referralCommission": 2,
     "maxWithdraw": 1000,
+    "isTelegramModeOnly": false,
     "signupBonus": 0,
-    "razorpayKey": "rzp_live_Rm30E7uT81eawu",
-    "telegramWarningText": "This app only works inside our Official Telegram Bot.",
-    "appUpdateLink": "",
     "isLogoutLocked": false,
+    "redeemWaitHours": 6,
+    "telegramBotLink": "https://t.me/Adam_supporrt_bot",
     "withdrawOptions": [
       10,
       20,
@@ -228,31 +177,54 @@
       250,
       500
     ],
-    "telegramBotLink": "https://t.me/Adam_supporrt_bot",
-    "withdrawWaitHours": 24,
-    "profileCooldownHours": 24,
-    "withdrawFeePercent": 0,
     "minWithdraw": 10,
-    "referralCommission": 2,
+    "redeemOptions": [
+      9,
+      29,
+      50,
+      79,
+      100,
+      159
+    ],
+    "isMaintenanceMode": false,
     "telegramLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
-    "isProfileCooldownActive": false,
+    "telegramWarningText": "This app only works inside our Official Telegram Bot.",
+    "vipPlans": [
+      {
+        "discount": 0,
+        "saveText": "",
+        "days": 9,
+        "price": 5
+      },
+      {
+        "discount": 0,
+        "saveText": "Popular",
+        "days": 27,
+        "price": 11
+      }
+    ],
+    "logoutLockDays": 15,
     "addMoneyPackages": [
       {
-        "amount": 50,
-        "bonus": 0
+        "bonus": 0,
+        "amount": 50
       },
       {
         "bonus": 2,
         "amount": 100
       },
       {
-        "amount": 200,
-        "bonus": 3
+        "bonus": 3,
+        "amount": 200
       },
       {
-        "amount": 300,
-        "bonus": 4
+        "bonus": 4,
+        "amount": 300
       }
-    ]
+    ],
+    "appUpdateLink": "",
+    "profileCooldownHours": 24,
+    "withdrawFeePercent": 0,
+    "razorpayKey": "rzp_live_Rm30E7uT81eawu"
   }
 }
